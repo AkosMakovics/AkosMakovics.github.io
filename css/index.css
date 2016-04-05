@@ -270,6 +270,7 @@ body {
   min-width: none;
   height: 75px;
   min-height: nonepx;
+  border-style: none;
   border-radius: 3px;
   background: url('../images/twitter.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
@@ -368,6 +369,11 @@ body {
     margin-right: auto;
     margin-left: auto;
   }
+
+  ._container .twitter-1 {
+    left: 29.9479166666%;
+    width: 10%;
+  }
 }
 
 @media(max-width: 480px) {
@@ -417,8 +423,7 @@ body {
     margin-left: auto;
   }
 
-  ._container .facebook-1,
-  ._container .twitter-1 {
+  ._container .facebook-1 {
     width: 12%;
   }
 
