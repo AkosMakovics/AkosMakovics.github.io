@@ -1,21 +1,16 @@
 body {
   height: 100%;
+  background: url('../images/background.png') rgb(255, 255, 255);
   background-repeat: no-repeat;
-  background-color: rgb(255, 255, 255);
-  font: 400 1em/1.38 Helvetica;
-  color: rgb(255, 255, 255);
-}
-
-.page-casual_cubes {
-  background-image: url('../images/background.png');
   background-size: cover;
   background-position: center center;
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
 }
 
 .page-index {
   min-width: none;
   min-height: nonepx;
-  background-image: none;
   font-family: Helvetica;
   font-weight: 400;
   line-height: 1.38;
@@ -367,11 +362,8 @@ body {
 }
 
 @media(max-width: 768px) {
-  .page-index {
-    height: 100%;
-    background-image: url('../images/background.png');
-    background-size: cover;
-    background-position: center center;
+  body {
+    font-size: 1em;
   }
 
   ._container,
@@ -408,10 +400,8 @@ body {
 }
 
 @media(max-width: 480px) {
-  .page-index {
-    height: 100%;
-    background-image: none;
-    background-position: 0% 0%;
+  body {
+    font-size: 1em;
   }
 
   ._container,
