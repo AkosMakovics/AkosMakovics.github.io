@@ -1,0 +1,170 @@
+body {
+  height: 100%;
+  background: url('../images/background.png') rgb(255, 255, 255);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  font: 400 1em/1.38 Helvetica;
+  color: rgb(255, 255, 255);
+}
+
+.casual_cubes {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.casual_cubes .casual_cubes {
+  display: block;
+  top: 100px;
+  z-index: 2;
+  width: 550px;
+  height: auto;
+  overflow: hidden;
+}
+
+.casual_cubes_download {
+  display: block;
+  position: absolute;
+  top: 443px;
+  left: 0;
+  right: 0;
+  z-index: 4;
+  width: 27.8645833333%;
+  height: 67px;
+  margin: 0 auto;
+  border-radius: 3px;
+  background: url('../images/download.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.casual_cubes_title {
+  position: absolute;
+  top: 40px;
+  left: 0;
+  right: 0;
+  z-index: 3;
+  width: 34.375%;
+  min-height: 51px;
+  margin: 0 auto;
+  font-size: 2.813em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.email {
+  display: block;
+  position: absolute;
+  top: 238px;
+  left: 0;
+  right: 0;
+  z-index: 6;
+  width: 10.0260416666%;
+  height: 75px;
+  margin: 0 auto;
+  border-radius: 3px;
+  background: url('../images/email.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.facebook {
+  display: block;
+  position: absolute;
+  top: 238px;
+  right: 30%;
+  z-index: 7;
+  width: 9.9995930989%;
+  height: 75px;
+  border-radius: 3px;
+  background: url('../images/facebook.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.footer_text {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  right: 0;
+  width: 100%;
+  min-height: 25px;
+  margin: 0 auto;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.logo {
+  display: block;
+  position: absolute;
+  top: 15px;
+  left: 0;
+  right: 0;
+  z-index: 9;
+  width: 175px;
+  height: auto;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.twitter {
+  display: block;
+  position: absolute;
+  top: 238px;
+  left: 30%;
+  z-index: 8;
+  width: 9.9995930989%;
+  height: 75px;
+  border-radius: 3px;
+  background: url('../images/twitter.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-size: 1em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+._container {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: 0 auto;
+}
+
+.casual_cubes-1 {
+  top: 345px;
+  z-index: 5;
+  width: 100%;
+  height: 517px;
+}
+
+._container-1 {
+  top: 0;
+  z-index: 10;
+  width: 100%;
+  max-width: 768px;
+  height: 350px;
+}
+
+._container-2 {
+  top: 895px;
+  z-index: 1;
+  width: 79.9479166666%;
+  height: 92px;
+}
