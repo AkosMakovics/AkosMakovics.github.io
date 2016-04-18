@@ -33,6 +33,23 @@ body {
   filter: none;
 }
 
+.casual_cube {
+  display: block;
+  position: absolute;
+  top: 111px;
+  left: 0;
+  right: 0;
+  z-index: 5;
+  width: 52%;
+  height: 323px;
+  margin: 0 auto;
+  background: url('../images/banner_casualcubes.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+
+._container,
 .casual_cubes {
   position: absolute;
   left: 0;
@@ -40,48 +57,40 @@ body {
   margin: 0 auto;
 }
 
-.casual_cubes .casual_cubes {
-  display: block;
-  top: 100px;
-  z-index: 2;
-  width: 550px;
-  min-width: none;
-  height: auto;
-  min-height: nonepx;
-  overflow: hidden;
-  -webkit-transform: none;
-  -moz-transform: none;
-  -o-transform: none;
-  -ms-transform: none;
-  transform: none;
-  -webkit-transition: none;
-  -moz-transition: none;
-  -o-transition: none;
-  -ms-transition: none;
-  transition: none;
-  -webkit-filter: none;
-  -moz-filter: none;
-  -o-filter: none;
-  -ms-filter: none;
-  filter: none;
-}
-
-.casual_cubes_download {
+.casual_cubes_app_store {
   display: block;
   position: absolute;
-  top: 443px;
-  left: 0;
-  right: 0;
+  top: 445px;
+  right: 29.9987792968%;
   z-index: 4;
-  width: 27.8645833333%;
-  min-width: none;
-  height: 67px;
-  min-height: nonepx;
-  margin: 0 auto;
+  width: 19.04296875%;
+  height: 62px;
   border-radius: 3px;
-  background: url('../images/download.png') rgba(222, 222, 222, 0);
+  background: url('../images/button_appstore.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: cover;
+  background-position: center center;
+  font-size: 0.696em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
+.casual_cubes_google_play {
+  display: block;
+  position: absolute;
+  top: 445px;
+  left: 30%;
+  z-index: 3;
+  width: 20%;
+  min-width: none;
+  max-width: 205px;
+  height: 62px;
+  min-height: nonepx;
+  max-height: 62px;
+  border-radius: 3px;
+  background: url('../images/button_google_play.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: cover;
   background-position: center center;
   font-size: 0.696em;
   text-align: center;
@@ -108,7 +117,7 @@ body {
   top: 40px;
   left: 0;
   right: 0;
-  z-index: 3;
+  z-index: 2;
   width: 34.375%;
   min-width: none;
   min-height: 51px;
@@ -177,6 +186,23 @@ body {
   color: rgb(255, 255, 255);
 }
 
+.google_play {
+  display: block;
+  position: absolute;
+  top: 610px;
+  width: 16.5833333333%;
+  height: 57px;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-color: rgba(222, 222, 222, 0);
+  font-family: Helvetica;
+  font-size: 0.696em;
+  text-align: center;
+  color: rgb(0, 0, 0);
+}
+
 .image {
   display: block;
   position: absolute;
@@ -191,20 +217,21 @@ body {
 }
 
 .image1 {
+  display: block;
   position: absolute;
   top: 950px;
   left: 15%;
   z-index: 6;
   width: 256px;
   height: 384px;
-  border: 3px solid rgb(255, 255, 255);
-  background: url('../images/game3_screenshot1.png') rgb(222, 222, 222);
+  background: url('../images/cc_screen1_thumb.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .image2 {
+  display: block;
   position: absolute;
   top: 950px;
   left: 0;
@@ -213,50 +240,49 @@ body {
   width: 256px;
   height: 384px;
   margin: 0 auto;
-  border: 3px solid rgb(255, 255, 255);
-  background: url('../images/game3_screenshot2.png') rgb(222, 222, 222);
+  background: url('../images/cc_screen2_thumb.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .image3 {
+  display: block;
   position: absolute;
   top: 950px;
   right: 15%;
   z-index: 8;
   width: 256px;
   height: 384px;
-  border: 3px solid rgb(255, 255, 255);
-  background: url('../images/game3_screenshot3.png') rgb(222, 222, 222);
-  background-repeat: repeat-x;
+  background: url('../images/cc_screen3_thumb.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .image4 {
+  display: block;
   position: absolute;
   top: 1375px;
   left: 27%;
   z-index: 9;
   width: 256px;
   height: 384px;
-  border: 3px solid rgb(255, 255, 255);
-  background: url('../images/game3_screenshot4.png') rgb(222, 222, 222);
+  background: url('../images/cc_screen4_thumb.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
 }
 
 .image5 {
+  display: block;
   position: absolute;
   top: 1375px;
   right: 27%;
   z-index: 10;
   width: 256px;
   height: 384px;
-  border: 3px solid rgb(255, 255, 255);
-  background: url('../images/game3_screenshot5.png') rgb(222, 222, 222);
+  background: url('../images/cc_screen5_thumb.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
@@ -310,47 +336,20 @@ body {
   font-size: 0.696em;
 }
 
-._button {
-  display: block;
-  position: absolute;
-  top: 600px;
-  left: 0;
-  right: 0;
-  z-index: 11;
-  width: 16.5833333333%;
-  height: 57px;
-  margin: 0 auto;
-  border-radius: 10px;
-  background: url('../images/download.png') rgb(222, 222, 222);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center center;
-  font-family: Helvetica;
-  font-size: 0.696em;
-  text-align: center;
-  color: rgb(0, 0, 0);
-}
-
-._container {
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin: 0 auto;
-}
-
 .casual_cubes-1 {
   top: 150px;
-  z-index: 12;
+  z-index: 13;
   width: 1200px;
   max-width: 1200px;
   height: 1801px;
 }
 
 .casual_cubes-2 {
-  top: 345px;
-  z-index: 5;
+  top: 350px;
+  z-index: 6;
   width: 100%;
   min-width: none;
+  max-width: 1024px;
   height: 517px;
   min-height: nonepx;
   -webkit-transform: none;
@@ -372,7 +371,7 @@ body {
 
 .email-1 {
   top: 50px;
-  z-index: 13;
+  z-index: 14;
   font-family: Helvetica;
   text-align: center;
   color: rgb(0, 0, 0);
@@ -380,7 +379,7 @@ body {
 
 .email-2 {
   top: 238px;
-  z-index: 6;
+  z-index: 7;
   min-width: none;
   min-height: nonepx;
   text-align: center;
@@ -404,13 +403,13 @@ body {
 
 .facebook-1 {
   top: 50px;
-  z-index: 14;
+  z-index: 15;
   font-family: Helvetica;
 }
 
 .facebook-2 {
   top: 238px;
-  z-index: 7;
+  z-index: 8;
   min-width: none;
   min-height: nonepx;
   -webkit-transform: none;
@@ -461,9 +460,21 @@ body {
   filter: none;
 }
 
+.google_play-1 {
+  right: 30%;
+  z-index: 12;
+  background-image: url('../images/button_appstore.png');
+}
+
+.google_play-2 {
+  left: 30%;
+  z-index: 11;
+  background-image: url('../images/button_google_play.png');
+}
+
 .logo-1 {
   top: 15px;
-  z-index: 9;
+  z-index: 10;
   width: 175px;
   min-width: none;
   height: auto;
@@ -499,7 +510,7 @@ body {
 
 .twitter-1 {
   top: 50px;
-  z-index: 15;
+  z-index: 16;
   font-family: Helvetica;
   text-align: center;
   color: rgb(0, 0, 0);
@@ -507,7 +518,7 @@ body {
 
 .twitter-2 {
   top: 238px;
-  z-index: 8;
+  z-index: 9;
   min-width: none;
   min-height: nonepx;
   border-style: none;
@@ -532,7 +543,7 @@ body {
 
 ._container-1 {
   top: 0;
-  z-index: 16;
+  z-index: 17;
   width: 768px;
   max-width: 768px;
   height: 150px;
@@ -540,8 +551,8 @@ body {
 
 ._container-2 {
   top: 0;
-  z-index: 10;
-  width: 100%;
+  z-index: 11;
+  width: 75%;
   min-width: none;
   max-width: 768px;
   height: 350px;
@@ -596,8 +607,19 @@ body {
 }
 
 @media(max-width: 1024px) {
-  body {
-    font-size: 1.25em;
+  .page-casual_cube {
+    height: 100%;
+    background-image: none;
+    background-position: 0% 0%;
+  }
+
+  .casual_cubes .google_play {
+    left: 0;
+    right: 0;
+    width: 23.9166259765%;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 0.8em;
   }
 
   .casual_cubes .image {
@@ -657,20 +679,19 @@ body {
     font-size: 20px;
   }
 
-  .casual_cubes ._button {
+  .casual_cubes .google_play-1 {
+    top: 747px;
+  }
+
+  .casual_cubes .google_play-2 {
     top: 780px;
-    left: 0;
-    right: 0;
-    width: 23.9166259765%;
-    margin-right: auto;
-    margin-left: auto;
-    font-size: 0.8em;
   }
 
   .casual_cubes-1 {
     top: 0;
     left: 0;
     right: 0;
+    width: 100%;
     height: 1974px;
     margin-right: auto;
     margin-left: auto;
@@ -724,7 +745,7 @@ body {
     top: 2000px;
     left: 0;
     right: 0;
-    width: 79.946899414%;
+    width: 80%;
     height: 350px;
     margin-right: auto;
     margin-left: auto;
@@ -732,35 +753,69 @@ body {
 }
 
 @media(max-width: 768px) {
-  body {
-    font-size: 1.25em;
+  .page-casual_cube {
+    height: 100%;
+    background-image: url('../images/background.png');
+    background-size: cover;
+    background-position: center center;
   }
 
   ._container .email-1,
   ._container .footer_text-1,
   ._container .footer_text-2,
-  .casual_cubes,
+  .casual_cubes {
+    left: 0;
+    right: 0;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .casual_cubes .casual_cube {
+    left: 0;
+    right: 0;
+    width: 67%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .casual_cubes .casual_cubes_app_store {
+    top: 440px;
+    right: 20%;
+    width: 25%;
+    background-size: contain;
+    font-style: normal;
+  }
+
+  .casual_cubes .casual_cubes_google_play {
+    top: 440px;
+    left: 20%;
+    width: 25%;
+    max-width: none;
+    max-height: none;
+    background-size: contain;
+  }
+
   .casual_cubes .casual_cubes_title {
     left: 0;
     right: 0;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+
+  .casual_cubes .google_play {
+    left: 0;
+    right: 0;
+    width: 23.9156087239%;
     margin-right: auto;
     margin-left: auto;
   }
 
   ._container .logo-1,
-  .casual_cubes .casual_cubes,
   .casual_cubes .image {
     left: 0;
     right: 0;
     height: auto;
-    margin-right: auto;
-    margin-left: auto;
-  }
-
-  ._container .email-2,
-  .casual_cubes .casual_cubes_download {
-    left: 0;
-    right: 0;
     margin-right: auto;
     margin-left: auto;
   }
@@ -826,11 +881,13 @@ body {
     margin-left: auto;
   }
 
-  .casual_cubes ._button {
+  .casual_cubes .google_play-2 {
     top: 760px;
+  }
+
+  ._container .email-2 {
     left: 0;
     right: 0;
-    width: 23.9156087239%;
     margin-right: auto;
     margin-left: auto;
   }
@@ -853,6 +910,10 @@ body {
     width: 10%;
   }
 
+  ._container-2 {
+    width: 100%;
+  }
+
   ._container-3 {
     top: 1526px;
     width: 79.9458821614%;
@@ -871,21 +932,29 @@ body {
     margin-left: auto;
   }
 
-  .casual_cubes .casual_cubes {
+  .casual_cubes .casual_cube {
+    top: 110px;
     left: 0;
     right: 0;
-    width: 425px;
-    height: auto;
+    width: 67.0833333333%;
+    height: 197px;
     margin-right: auto;
     margin-left: auto;
   }
 
-  .casual_cubes .casual_cubes_download {
-    top: 348px;
-    left: 0;
-    right: 0;
-    margin-right: auto;
-    margin-left: auto;
+  .casual_cubes .casual_cubes_app_store {
+    top: 310px;
+    right: 15%;
+    width: 30%;
+    height: 49px;
+    font-size: 0.889em;
+  }
+
+  .casual_cubes .casual_cubes_google_play {
+    top: 310px;
+    left: 15%;
+    width: 30%;
+    height: 49px;
     font-size: 0.889em;
   }
 
@@ -896,6 +965,16 @@ body {
     margin-right: auto;
     margin-left: auto;
     font-size: 2.5em;
+  }
+
+  .casual_cubes .google_play {
+    left: 0;
+    right: 0;
+    width: 23.9583333333%;
+    height: 35px;
+    margin-right: auto;
+    margin-left: auto;
+    font-size: 0.889em;
   }
 
   .casual_cubes .image {
@@ -963,15 +1042,8 @@ body {
     margin-left: auto;
   }
 
-  .casual_cubes ._button {
+  .casual_cubes .google_play-2 {
     top: 600px;
-    left: 0;
-    right: 0;
-    width: 23.9583333333%;
-    height: 35px;
-    margin-right: auto;
-    margin-left: auto;
-    font-size: 0.889em;
   }
 
   ._container .email-1 {
@@ -1049,5 +1121,9 @@ body {
     top: 1329px;
     width: 80%;
     height: 187px;
+  }
+
+  ._container-4 {
+    top: 800px;
   }
 }
