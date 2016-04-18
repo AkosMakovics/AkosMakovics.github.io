@@ -1,20 +1,29 @@
 body {
   height: 100%;
-  background: url('../images/background.png') rgb(255, 255, 255);
-  background-repeat: no-repeat;
-  background-size: cover;
+  background-image: url('../images/background.png');
   background-position: center center;
+  background-color: rgb(255, 255, 255);
   font: 400 1.438em/1.38 Arial;
   color: rgb(255, 255, 255);
 }
 
 .page-casual_cube {
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: Arial;
+}
+
+.page-fonts {
+  background-repeat: repeat-x;
+  background-size: contain;
+  font-family: Georgia;
 }
 
 .page-index {
   min-width: none;
   min-height: nonepx;
+  background-repeat: no-repeat;
+  background-size: cover;
   font-family: Helvetica;
   -webkit-transform: none;
   -moz-transform: none;
@@ -31,6 +40,25 @@ body {
   -o-filter: none;
   -ms-filter: none;
   filter: none;
+}
+
+.app_store {
+  display: block;
+  position: absolute;
+  top: 610px;
+  left: 32%;
+  z-index: 12;
+  width: 16.5833333333%;
+  height: 60px;
+  border-radius: 10px;
+  background: url('../images/button_appstore.png') rgba(222, 222, 222, 0);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+  font-family: Helvetica;
+  font-size: 0.696em;
+  text-align: center;
+  color: rgb(0, 0, 0);
 }
 
 .casual_cube {
@@ -61,14 +89,14 @@ body {
   display: block;
   position: absolute;
   top: 445px;
-  right: 29.9987792968%;
+  left: 31%;
   z-index: 4;
   width: 19.04296875%;
   height: 62px;
   border-radius: 3px;
   background: url('../images/button_appstore.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
   font-size: 0.696em;
   text-align: center;
@@ -79,7 +107,7 @@ body {
   display: block;
   position: absolute;
   top: 445px;
-  left: 30%;
+  right: 31%;
   z-index: 3;
   width: 20%;
   min-width: none;
@@ -90,7 +118,7 @@ body {
   border-radius: 3px;
   background: url('../images/button_google_play.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
   font-size: 0.696em;
   text-align: center;
@@ -190,13 +218,15 @@ body {
   display: block;
   position: absolute;
   top: 610px;
+  right: 32%;
+  z-index: 11;
   width: 16.5833333333%;
-  height: 57px;
+  height: 60px;
   border-radius: 10px;
+  background: url('../images/button_google_play.png') rgba(222, 222, 222, 0);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: contain;
   background-position: center center;
-  background-color: rgba(222, 222, 222, 0);
   font-family: Helvetica;
   font-size: 0.696em;
   text-align: center;
@@ -298,15 +328,19 @@ body {
 
 .text {
   position: absolute;
-  top: 700px;
   left: 0;
   right: 0;
-  z-index: 4;
-  width: 50%;
-  height: 100px;
   margin: 0 auto;
-  font-size: 1em;
   color: rgb(255, 255, 255);
+}
+
+.text1 {
+  width: 50.1666666666%;
+  height: 81px;
+  border-radius: 3px;
+  background-color: rgba(222, 222, 222, 0);
+  font-size: 2.174em;
+  text-align: center;
 }
 
 .text2 {
@@ -334,6 +368,14 @@ body {
   background-size: contain;
   background-position: center center;
   font-size: 0.696em;
+}
+
+._text {
+  top: 700px;
+  z-index: 4;
+  width: 50%;
+  height: 100px;
+  font-size: 1em;
 }
 
 .casual_cubes-1 {
@@ -460,18 +502,6 @@ body {
   filter: none;
 }
 
-.google_play-1 {
-  right: 30%;
-  z-index: 12;
-  background-image: url('../images/button_appstore.png');
-}
-
-.google_play-2 {
-  left: 30%;
-  z-index: 11;
-  background-image: url('../images/button_google_play.png');
-}
-
 .logo-1 {
   top: 15px;
   z-index: 10;
@@ -506,6 +536,34 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;
+}
+
+.text-1 {
+  top: 500px;
+  z-index: 4;
+  font-family: Verdana;
+}
+
+.text-3 {
+  top: 400px;
+  z-index: 3;
+  font-family: 'Trebuchet MS';
+}
+
+.text-4 {
+  top: 300px;
+  z-index: 2;
+  font-family: Helvetica;
+}
+
+.text-5 {
+  top: 200px;
+  z-index: 1;
+}
+
+.text-6 {
+  top: 100px;
+  font-family: Arial;
 }
 
 .twitter-1 {
@@ -607,19 +665,20 @@ body {
 }
 
 @media(max-width: 1024px) {
-  .page-casual_cube {
-    height: 100%;
-    background-image: none;
-    background-position: 0% 0%;
+  body {
+    font-size: 1.438em;
+  }
+
+  .casual_cubes .app_store {
+    top: 780px;
+    left: 28%;
+    width: 23.9166259765%;
   }
 
   .casual_cubes .google_play {
-    left: 0;
-    right: 0;
+    top: 780px;
+    right: 28%;
     width: 23.9166259765%;
-    margin-right: auto;
-    margin-left: auto;
-    font-size: 0.8em;
   }
 
   .casual_cubes .image {
@@ -666,25 +725,17 @@ body {
     width: 75%;
     margin-right: auto;
     margin-left: auto;
-    font-size: 20px;
+    font-size: 0.87em;
   }
 
   .casual_cubes .text2 {
-    top: 1015px;
+    top: 945px;
     left: 0;
     right: 0;
     width: 75%;
     margin-right: auto;
     margin-left: auto;
-    font-size: 20px;
-  }
-
-  .casual_cubes .google_play-1 {
-    top: 747px;
-  }
-
-  .casual_cubes .google_play-2 {
-    top: 780px;
+    font-size: 0.87em;
   }
 
   .casual_cubes-1 {
@@ -702,11 +753,6 @@ body {
     right: 0;
     margin-right: auto;
     margin-left: auto;
-    font-size: 0.8em;
-  }
-
-  ._container .facebook-1 {
-    font-size: 0.8em;
   }
 
   ._container .footer_text-1 {
@@ -715,22 +761,21 @@ body {
     right: 0;
     margin-right: auto;
     margin-left: auto;
-    font-size: 1.25em;
   }
 
   ._container .logo-2 {
     top: 134px;
     left: 0;
     right: 0;
-    width: 21.1321907088%;
+    width: 20%;
     height: 192px;
     margin-right: auto;
     margin-left: auto;
+    background-size: contain;
   }
 
   ._container .twitter-1 {
     width: 10%;
-    font-size: 0.8em;
   }
 
   ._container-1 {
@@ -753,11 +798,8 @@ body {
 }
 
 @media(max-width: 768px) {
-  .page-casual_cube {
-    height: 100%;
-    background-image: url('../images/background.png');
-    background-size: cover;
-    background-position: center center;
+  body {
+    font-size: 1.438em;
   }
 
   ._container .email-1,
@@ -770,6 +812,12 @@ body {
     margin-left: auto;
   }
 
+  .casual_cubes .app_store {
+    top: 760px;
+    left: 25%;
+    width: 23.9156087239%;
+  }
+
   .casual_cubes .casual_cube {
     left: 0;
     right: 0;
@@ -780,19 +828,17 @@ body {
 
   .casual_cubes .casual_cubes_app_store {
     top: 440px;
-    right: 20%;
+    left: 25%;
     width: 25%;
-    background-size: contain;
     font-style: normal;
   }
 
   .casual_cubes .casual_cubes_google_play {
     top: 440px;
-    left: 20%;
+    right: 25%;
     width: 25%;
     max-width: none;
     max-height: none;
-    background-size: contain;
   }
 
   .casual_cubes .casual_cubes_title {
@@ -804,11 +850,9 @@ body {
   }
 
   .casual_cubes .google_play {
-    left: 0;
-    right: 0;
+    top: 760px;
+    right: 25%;
     width: 23.9156087239%;
-    margin-right: auto;
-    margin-left: auto;
   }
 
   ._container .logo-1,
@@ -881,10 +925,6 @@ body {
     margin-left: auto;
   }
 
-  .casual_cubes .google_play-2 {
-    top: 760px;
-  }
-
   ._container .email-2 {
     left: 0;
     right: 0;
@@ -944,7 +984,7 @@ body {
 
   .casual_cubes .casual_cubes_app_store {
     top: 310px;
-    right: 15%;
+    left: 20%;
     width: 30%;
     height: 49px;
     font-size: 0.889em;
@@ -952,7 +992,7 @@ body {
 
   .casual_cubes .casual_cubes_google_play {
     top: 310px;
-    left: 15%;
+    right: 20%;
     width: 30%;
     height: 49px;
     font-size: 0.889em;
@@ -967,13 +1007,11 @@ body {
     font-size: 2.5em;
   }
 
+  .casual_cubes .app_store,
   .casual_cubes .google_play {
-    left: 0;
-    right: 0;
+    top: 600px;
     width: 23.9583333333%;
     height: 35px;
-    margin-right: auto;
-    margin-left: auto;
     font-size: 0.889em;
   }
 
@@ -1022,7 +1060,7 @@ body {
     width: 80%;
     margin-right: auto;
     margin-left: auto;
-    font-size: 18px;
+    font-size: 1em;
   }
 
   .casual_cubes .text2 {
@@ -1032,7 +1070,7 @@ body {
     width: 80%;
     margin-right: auto;
     margin-left: auto;
-    font-size: 18px;
+    font-size: 1em;
   }
 
   ._container {
@@ -1040,10 +1078,6 @@ body {
     right: 0;
     margin-right: auto;
     margin-left: auto;
-  }
-
-  .casual_cubes .google_play-2 {
-    top: 600px;
   }
 
   ._container .email-1 {
