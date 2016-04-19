@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461084335968">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461084903554">
   <folder name="assets">
     <file name="cc_screen_1.png" crc="4142810002" seo="true" mt="1461005902000"/>
     <file name="cc_screen_2.png" crc="4113807219" seo="true" mt="1461005905000"/>
@@ -8,15 +8,15 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_master.css" crc="187491519" ref="index"/>
-    <file name="index.css" crc="3991637751" ref="index"/>
-    <file name="master_footer.css" crc="3887996312" ref="casual_cube"/>
+    <file name="master_master.css" crc="399840336" ref="index"/>
+    <file name="index.css" crc="3950405462" ref="index"/>
+    <file name="master_footer.css" crc="348224783" ref="casual_cube"/>
     <file name="nomq_preview_master_footer.css" crc="321525473" ref="casual_cube"/>
     <file name="nomq_preview_master_master.css" crc="321525473" ref="index"/>
     <file name="master_landing-page.css" crc="3957631051" ref="casual_cube"/>
     <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="casual_cube"/>
-    <file name="casual_cube.css" crc="396981501" ref="casual_cube"/>
-    <file name="nomq_casual_cube.css" crc="536027401" ref="casual_cube"/>
+    <file name="casual_cube.css" crc="130278511" ref="casual_cube"/>
+    <file name="nomq_casual_cube.css" crc="3762905724" ref="casual_cube"/>
     <file name="nomq_index.css" crc="3873591043" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -57,6 +57,6 @@
     <file name="logo130x139.png" crc="271980211" seo="true" ref="index"/>
     <file name="logo116x124.png" crc="220466632" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="464296858" seo="true" mt="1461084319989" redirect="true"/>
-  <file name="casual_cube.html" crc="299483570" seo="true" mt="1461084298873" redirect="true"/>
+  <file name="index.html" crc="4217144634" seo="true" mt="1461084821081" redirect="true"/>
+  <file name="casual_cube.html" crc="87471347" seo="true" mt="1461084839478" redirect="true"/>
 </manifest>

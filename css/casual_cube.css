@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #000017;
-	background-color: #A974FD;
+	color: #000007;
+	background-color: #C3E46F;
 }
 
 .js body
@@ -77,7 +77,7 @@
 	z-index: 22;
 	line-height: 23px;
 	font-size: 19px;
-	font-family: amaranth, sans-serif;
+	font-family: exo, sans-serif;
 	font-weight: 400;
 	color: #FFFFFF;
 	position: relative;
@@ -204,8 +204,8 @@ body
 	#pu570
 	{
 		margin-top: 28px;
-		width: 49.9%;
-		margin-left: 25%;
+		width: 41.57%;
+		margin-left: 28.96%;
 	}
 
 	#u570
@@ -216,7 +216,7 @@ body
 	#u572
 	{
 		width: 186px;
-		left: 61.17%;
+		left: 53.39%;
 	}
 
 	#u607-11
@@ -347,13 +347,13 @@ body
 	#u570
 	{
 		width: 24.8%;
-		left: 18.4%;
+		left: 22.67%;
 	}
 
 	#u572
 	{
 		width: 24.8%;
-		left: 56.8%;
+		left: 52.94%;
 	}
 
 	#pu457,#u515_img,#u570_img,#u572_img
@@ -813,7 +813,7 @@ body
 
 	#pu634
 	{
-		margin-top: 64px;
+		margin-top: 41px;
 		width: 100%;
 	}
 
