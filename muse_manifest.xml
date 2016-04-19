@@ -1,0 +1,104 @@
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461074898261">
+  <folder name="assets">
+    <file name="cc_screen_1.png" crc="4142810002" seo="true" mt="1461005902000"/>
+    <file name="cc_screen_2.png" crc="4113807219" seo="true" mt="1461005905000"/>
+    <file name="cc_screen_3.png" crc="44941519" seo="true" mt="1461005907000"/>
+    <file name="cc_screen_4.png" crc="4011165015" seo="true" mt="1461005909000"/>
+    <file name="cc_screen_5.png" crc="338187343" seo="true" mt="1461005911000"/>
+  </folder>
+  <folder name="css">
+    <file name="site_global.css" crc="131700929"/>
+    <file name="master_master.css" crc="48159189" ref="index"/>
+    <file name="index.css" crc="408559411" ref="index"/>
+    <file name="master_footer.css" crc="220971551" ref="casual_cube:contact"/>
+    <file name="nomq_preview_master_footer.css" crc="321525473" ref="casual_cube:contact"/>
+    <file name="nomq_preview_master_master.css" crc="262001052" ref="index"/>
+    <file name="master_landing-page.css" crc="3770363547" ref="casual_cube"/>
+    <file name="nomq_preview_master_landing-page.css" crc="446644063" ref="casual_cube"/>
+    <file name="casual_cube.css" crc="4210976506" ref="casual_cube"/>
+    <file name="nomq_casual_cube.css" crc="3844894231" ref="casual_cube"/>
+    <file name="contact.css" crc="493120076" ref="contact"/>
+    <file name="nomq_contact.css" crc="400915095" ref="contact"/>
+    <file name="nomq_index.css" crc="365734966" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:casual_cube:contact"/>
+    <file name="museutils.js" crc="3790713428" ref="index:casual_cube:contact"/>
+    <file name="whatinput.js" crc="84559013" ref="index:casual_cube:contact"/>
+    <file name="jquery.watch.js" crc="4244854265" ref="index:casual_cube:contact"/>
+    <file name="jquery.museresponsive.js" crc="3895133147" ref="index:casual_cube:contact"/>
+    <file name="webpro.js" crc="329496574" ref="contact"/>
+    <file name="form_check.php" crc="3805695515" ref="contact"/>
+    <file name="form_throttle.php" crc="3802629389" ref="contact"/>
+    <file name="form_process.php" crc="54267062" ref="contact"/>
+    <file name="form-u2207.php" crc="420002946" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="u82-grad.png" crc="22101989" ref="index"/>
+    <file name="logo.png" crc="3924384905" seo="true" ref="index"/>
+    <file name="twitter.png" crc="153715256" seo="true" ref="index:casual_cube"/>
+    <file name="email.png" crc="101407751" seo="true" ref="index:casual_cube"/>
+    <file name="facebook.png" crc="295356413" seo="true" ref="index:casual_cube"/>
+    <file name="banner_casualcubes.png" crc="4250670463" seo="true" ref="index"/>
+    <file name="button_appstore.png" crc="3787622123" seo="true" ref="index:casual_cube"/>
+    <file name="button_google_play.png" crc="413404375" seo="true" ref="index:casual_cube"/>
+    <file name="logo141x152.png" crc="234277365" seo="true" ref="index"/>
+    <file name="banner_casualcubes330x204.png" crc="4055029705" seo="true" ref="index"/>
+    <file name="banner_casualcubes316x195.png" crc="265350415" seo="true" ref="index"/>
+    <file name="banner_casualcubes253x156.png" crc="275508018" seo="true" ref="index"/>
+    <file name="banner_casualcubes230x142.png" crc="289044450" seo="true" ref="index"/>
+    <file name="banner_casualcubes167x104.png" crc="509431033" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:casual_cube:contact"/>
+    <file name="casual_cube_image2.png" crc="160414349" seo="true" ref="casual_cube"/>
+    <file name="cc_screen1_thumb.png" crc="336745249" seo="true" ref="casual_cube"/>
+    <file name="cc_screen2_thumb.png" crc="16982950" seo="true" ref="casual_cube"/>
+    <file name="cc_screen3_thumb.png" crc="4032129510" seo="true" ref="casual_cube"/>
+    <file name="cc_screen4_thumb.png" crc="118737383" seo="true" ref="casual_cube"/>
+    <file name="cc_screen5_thumb.png" crc="4101825590" seo="true" ref="casual_cube"/>
+    <file name="logo108x117.png" crc="4160885395" seo="true" ref="casual_cube"/>
+    <file name="casual_cube_image2284x329.png" crc="4265636220" seo="true" ref="casual_cube"/>
+    <file name="casual_cube_image2272x315.png" crc="4069844018" seo="true" ref="casual_cube"/>
+    <file name="casual_cube_image2251x291.png" crc="4271167203" seo="true" ref="casual_cube"/>
+    <file name="casual_cube_image2213x247.png" crc="4025645876" seo="true" ref="casual_cube"/>
+    <file name="casual_cube_image2173x200.png" crc="3813141812" seo="true" ref="casual_cube"/>
+    <file name="u2223-17.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs.png" crc="450571855" ref="contact"/>
+    <file name="u2223-172.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r2.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m2.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs2.png" crc="450571855" ref="contact"/>
+    <file name="u2223-173.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r3.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m3.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs3.png" crc="450571855" ref="contact"/>
+    <file name="u2223-174.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r4.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m4.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs4.png" crc="450571855" ref="contact"/>
+    <file name="u2223-175.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r5.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m5.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs5.png" crc="450571855" ref="contact"/>
+    <file name="u2223-176.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r6.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m6.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs6.png" crc="450571855" ref="contact"/>
+    <file name="u2223-177.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r7.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m7.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs7.png" crc="450571855" ref="contact"/>
+    <file name="u2223-178.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r8.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m8.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs8.png" crc="450571855" ref="contact"/>
+    <file name="u2223-179.png" crc="3904437901" ref="contact"/>
+    <file name="u2223-17-r9.png" crc="174039896" ref="contact"/>
+    <file name="u2223-17-m9.png" crc="4087376994" ref="contact"/>
+    <file name="u2223-17-fs9.png" crc="450571855" ref="contact"/>
+  </folder>
+  <file name="index.html" crc="14017282" seo="true" mt="1461074816032" redirect="true"/>
+  <file name="casual_cube.html" crc="3838006416" seo="true" mt="1461074826425" redirect="true"/>
+  <file name="contact.html" crc="237619676" seo="true" mt="1461074648775" redirect="true"/>
+</manifest>
