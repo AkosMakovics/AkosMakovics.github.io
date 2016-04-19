@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F1;
-	background-color: #A13B78;
+	color: #0000ED;
+	background-color: #2BBF9F;
 }
 
 .js body
@@ -62,7 +62,7 @@
 	font-weight: 400;
 	color: #FFFFFF;
 	z-index: 16;
-	font-family: fresca, sans-serif;
+	font-family: imprima, sans-serif;
 	font-size: 42px;
 }
 
