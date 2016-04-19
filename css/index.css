@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #00001D;
-	background-color: #A6D8E6;
+	color: #0000ED;
+	background-color: #EB8EF7;
 }
 
 .js body
@@ -16,16 +16,15 @@
 
 #page
 {
-	z-index: 1;
-	margin-right: auto;
 	background-color: #0EBEF7;
-	background-position: left top;
 	background-repeat: repeat-x;
-	padding-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	background-position: left top;
 	border-width: 0px;
 	border-color: #000000;
 	width: 100%;
-	margin-left: auto;
+	z-index: 1;
 }
 
 #u181
@@ -37,32 +36,34 @@
 #u209
 {
 	z-index: 8;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u219
 {
 	z-index: 10;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u229
 {
 	z-index: 12;
-	margin-right: -10000px;
 	position: relative;
+	margin-right: -10000px;
 }
 
 #u309-4
 {
-	z-index: 16;
-	font-size: 42px;
+	background-color: transparent;
 	text-align: center;
 	line-height: 50px;
+	font-weight: 400;
 	color: #FFFFFF;
-	background-color: transparent;
+	z-index: 16;
+	font-family: amaranth, sans-serif;
+	font-size: 42px;
 }
 
 #u309-4-bw
@@ -72,9 +73,9 @@
 
 #u299
 {
-	z-index: 14;
-	position: relative;
 	background-color: transparent;
+	position: relative;
+	z-index: 14;
 }
 
 #pu209,#pu352
@@ -84,32 +85,32 @@
 
 #u352
 {
+	background-color: transparent;
+	position: relative;
 	z-index: 20;
 	margin-right: -10000px;
-	position: relative;
-	background-color: transparent;
 }
 
 #u364
 {
+	background-color: transparent;
+	position: relative;
 	z-index: 22;
 	margin-right: -10000px;
-	position: relative;
-	background-color: transparent;
 }
 
 #u198-4
 {
-	z-index: 4;
 	position: relative;
 	min-height: 50px;
+	z-index: 4;
 }
 
 .html
 {
+	background-color: #0CBCF7;
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=1);
-	background-color: #0CBCF7;
 }
 
 body
@@ -131,19 +132,20 @@ body
 
 	#page
 	{
-		min-height: 1158.9853131749455px;
+		min-height: 1140.6853131749458px;
 		background-image: url("../images/u82-grad.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-bottom: 20.01468682505447px;
+		padding-top: 38px;
+		padding-bottom: 20.314686825054196px;
 		max-width: 960px;
 	}
 
 	#u181
 	{
-		width: 178px;
-		margin-left: 40.73%;
+		width: 162px;
+		margin-left: 41.57%;
 	}
 
 	#pu209
@@ -177,7 +179,7 @@ body
 	#u309-4-bw
 	{
 		min-height: 62px;
-		margin-top: 83px;
+		margin-top: 117px;
 	}
 
 	#u299
@@ -191,21 +193,26 @@ body
 		width: 100%;
 	}
 
+	#pu352
+	{
+		margin-top: 6px;
+	}
+
 	#u352
 	{
 		width: 186px;
-		left: 25%;
+		left: 27.92%;
 	}
 
 	#u364
 	{
 		width: 186px;
-		left: 55.63%;
+		left: 53.13%;
 	}
 
 	#u198-4
 	{
-		margin-top: 250px;
+		margin-top: 210px;
 		width: 48.23%;
 		margin-left: 25.84%;
 	}
@@ -232,19 +239,20 @@ body
 
 	#page
 	{
-		min-height: 1128.9853131749455px;
+		min-height: 1110.6853131749458px;
 		background-image: url("../images/u82-grad2.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-bottom: 20.01468682505447px;
+		padding-top: 38px;
+		padding-bottom: 20.314686825054196px;
 		max-width: 750px;
 	}
 
 	#u181
 	{
-		width: 178px;
-		margin-left: 38.14%;
+		width: 162px;
+		margin-left: 39.2%;
 	}
 
 	#pu209
@@ -278,7 +286,7 @@ body
 	#u309-4-bw
 	{
 		min-height: 62px;
-		margin-top: 84px;
+		margin-top: 120px;
 	}
 
 	#u299
@@ -290,13 +298,13 @@ body
 	#u352
 	{
 		width: 24.8%;
-		left: 17.6%;
+		left: 22.67%;
 	}
 
 	#u364
 	{
 		width: 24.8%;
-		left: 57.6%;
+		left: 52.54%;
 	}
 
 	#u352_img,#u364_img
@@ -306,7 +314,7 @@ body
 
 	#u198-4
 	{
-		margin-top: 219px;
+		margin-top: 183px;
 		width: 48.27%;
 		margin-left: 25.87%;
 	}
@@ -333,19 +341,20 @@ body
 
 	#page
 	{
-		min-height: 1110.9853131749455px;
+		min-height: 1094.7853131749457px;
 		background-image: url("../images/u82-grad3.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-bottom: 20.01468682505447px;
+		padding-top: 36px;
+		padding-bottom: 20.214686825054287px;
 		max-width: 575px;
 	}
 
 	#u181
 	{
-		width: 178px;
-		margin-left: 34.44%;
+		width: 164px;
+		margin-left: 35.83%;
 	}
 
 	#pu209
@@ -379,7 +388,7 @@ body
 	#u309-4-bw
 	{
 		min-height: 50px;
-		margin-top: 95px;
+		margin-top: 103px;
 	}
 
 	#u299
@@ -407,7 +416,7 @@ body
 
 	#u198-4
 	{
-		margin-top: 236px;
+		margin-top: 228px;
 		width: 48.18%;
 		margin-left: 25.92%;
 	}
@@ -434,24 +443,25 @@ body
 
 	#page
 	{
-		min-height: 863.9353131749457px;
+		min-height: 854px;
 		background-image: url("../images/u82-grad4.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-bottom: 20.06468682505431px;
+		padding-top: 30px;
+		padding-bottom: 20px;
 		max-width: 440px;
 	}
 
 	#u181
 	{
-		width: 132px;
-		margin-left: 35%;
+		width: 129px;
+		margin-left: 35.23%;
 	}
 
 	#pu209
 	{
-		margin-top: 36px;
+		margin-top: 29px;
 	}
 
 	#u209
@@ -480,7 +490,7 @@ body
 	#u309-4-bw
 	{
 		min-height: 38px;
-		margin-top: 57px;
+		margin-top: 82px;
 	}
 
 	#u299
@@ -510,7 +520,7 @@ body
 
 	#u198-4
 	{
-		margin-top: 187px;
+		margin-top: 162px;
 		width: 48.19%;
 		margin-left: 25.91%;
 	}
@@ -537,24 +547,25 @@ body
 
 	#page
 	{
-		min-height: 742px;
+		min-height: 731.5353131749457px;
 		background-image: url("../images/u82-grad5.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-bottom: 16px;
+		padding-top: 29px;
+		padding-bottom: 17.464686825054287px;
 		max-width: 320px;
 	}
 
 	#u181
 	{
-		width: 126px;
-		margin-left: 30.32%;
+		width: 115px;
+		margin-left: 31.88%;
 	}
 
 	#pu209
 	{
-		margin-top: 28px;
+		margin-top: 31px;
 	}
 
 	#u209
@@ -583,7 +594,7 @@ body
 	#u309-4-bw
 	{
 		min-height: 38px;
-		margin-top: 51px;
+		margin-top: 81px;
 	}
 
 	#u299
@@ -611,7 +622,7 @@ body
 
 	#u198-4
 	{
-		margin-top: 166px;
+		margin-top: 135px;
 		width: 62.5%;
 		margin-left: 18.75%;
 	}

@@ -5,11 +5,13 @@
 
 #u198-4
 {
+	background-color: transparent;
 	text-align: center;
 	line-height: 19px;
-	font-size: 16px;
+	font-weight: 400;
 	color: #FFFFFF;
-	background-color: transparent;
+	font-family: amaranth, sans-serif;
+	font-size: 16px;
 }
 
 

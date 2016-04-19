@@ -109,19 +109,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://akos-makovics.com/images/logo133x142.png</loc>
-    <lastmod>2016-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://akos-makovics.com/images/banner_casualcubes390x242.png</loc>
-    <lastmod>2016-04-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://akos-makovics.com/images/logo126x136.png</loc>
     <lastmod>2016-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -158,6 +146,24 @@
   </url>
   <url>
     <loc>http://akos-makovics.com/images/logo80x87.png</loc>
+    <lastmod>2016-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://akos-makovics.com/images/logo162x174.png</loc>
+    <lastmod>2016-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://akos-makovics.com/images/logo130x139.png</loc>
+    <lastmod>2016-04-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://akos-makovics.com/images/logo116x124.png</loc>
     <lastmod>2016-04-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

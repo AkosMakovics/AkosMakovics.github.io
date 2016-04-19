@@ -1,10 +1,12 @@
 #u2042-6
 {
+	background-color: transparent;
 	text-align: center;
 	line-height: 23px;
-	font-size: 19px;
+	font-weight: 400;
 	color: #FFFFFF;
-	background-color: transparent;
+	font-family: amaranth, sans-serif;
+	font-size: 19px;
 }
 
 #u2038

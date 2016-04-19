@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461082699636">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461084335968">
   <folder name="assets">
     <file name="cc_screen_1.png" crc="4142810002" seo="true" mt="1461005902000"/>
     <file name="cc_screen_2.png" crc="4113807219" seo="true" mt="1461005905000"/>
@@ -8,16 +8,16 @@
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_master.css" crc="3922184462" ref="index"/>
-    <file name="index.css" crc="497473766" ref="index"/>
-    <file name="master_footer.css" crc="397214281" ref="casual_cube"/>
+    <file name="master_master.css" crc="187491519" ref="index"/>
+    <file name="index.css" crc="3991637751" ref="index"/>
+    <file name="master_footer.css" crc="3887996312" ref="casual_cube"/>
     <file name="nomq_preview_master_footer.css" crc="321525473" ref="casual_cube"/>
     <file name="nomq_preview_master_master.css" crc="321525473" ref="index"/>
     <file name="master_landing-page.css" crc="3957631051" ref="casual_cube"/>
     <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="casual_cube"/>
-    <file name="casual_cube.css" crc="25793786" ref="casual_cube"/>
-    <file name="nomq_casual_cube.css" crc="3878342177" ref="casual_cube"/>
-    <file name="nomq_index.css" crc="3866354784" ref="index"/>
+    <file name="casual_cube.css" crc="396981501" ref="casual_cube"/>
+    <file name="nomq_casual_cube.css" crc="536027401" ref="casual_cube"/>
+    <file name="nomq_index.css" crc="3873591043" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="207176553" ref="index:casual_cube"/>
@@ -46,16 +46,17 @@
     <file name="u82-grad3.png" crc="520113214" ref="index"/>
     <file name="u82-grad4.png" crc="192911171" ref="index"/>
     <file name="u82-grad5.png" crc="3774694395" ref="index"/>
-    <file name="logo133x142.png" crc="3986456696" seo="true" ref="index"/>
     <file name="banner_casualcubes390x242.png" crc="18741440" seo="true" ref="index"/>
-    <file name="logo126x136.png" crc="3952078486" seo="true" ref="index"/>
     <file name="banner_casualcubes280x174.png" crc="3992440444" seo="true" ref="index"/>
     <file name="logo100x108.png" crc="525204700" seo="true" ref="casual_cube"/>
     <file name="casual_cube_image2302x350.png" crc="159075169" seo="true" ref="casual_cube"/>
     <file name="logo90x97.png" crc="376120487" seo="true" ref="casual_cube"/>
     <file name="casual_cube_image2250x290.png" crc="4271167203" seo="true" ref="casual_cube"/>
     <file name="logo80x87.png" crc="449062625" seo="true" ref="casual_cube"/>
+    <file name="logo162x174.png" crc="3924384905" seo="true" ref="index"/>
+    <file name="logo130x139.png" crc="271980211" seo="true" ref="index"/>
+    <file name="logo116x124.png" crc="220466632" seo="true" ref="index"/>
   </folder>
-  <file name="index.html" crc="4143693641" seo="true" mt="1461082412477" redirect="true"/>
-  <file name="casual_cube.html" crc="508486471" seo="true" mt="1461082690280" redirect="true"/>
+  <file name="index.html" crc="464296858" seo="true" mt="1461084319989" redirect="true"/>
+  <file name="casual_cube.html" crc="299483570" seo="true" mt="1461084298873" redirect="true"/>
 </manifest>
