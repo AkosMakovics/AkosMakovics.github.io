@@ -1,22 +1,22 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461085314740">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461699449707">
   <folder name="assets">
     <file name="cc_screen_1.png" crc="4142810002" seo="true" mt="1461005902000"/>
-    <file name="cc_screen_2.png" crc="4113807219" seo="true" mt="1461005905000"/>
-    <file name="cc_screen_3.png" crc="44941519" seo="true" mt="1461005907000"/>
-    <file name="cc_screen_4.png" crc="4011165015" seo="true" mt="1461005909000"/>
-    <file name="cc_screen_5.png" crc="338187343" seo="true" mt="1461005911000"/>
+    <file name="cc_screen_2.png" crc="4113807219" seo="true" mt="1461005904000"/>
+    <file name="cc_screen_3.png" crc="44941519" seo="true" mt="1461005906000"/>
+    <file name="cc_screen_4.png" crc="4011165015" seo="true" mt="1461005908000"/>
+    <file name="cc_screen_5.png" crc="338187343" seo="true" mt="1461005910000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
-    <file name="master_master.css" crc="3942330018" ref="index"/>
-    <file name="index.css" crc="3979067295" ref="index"/>
-    <file name="master_footer.css" crc="238263715" ref="casual_cube"/>
+    <file name="master_master.css" crc="55664839" ref="index"/>
+    <file name="index.css" crc="4013029780" ref="index"/>
+    <file name="master_footer.css" crc="30531005" ref="casual_cube"/>
     <file name="nomq_preview_master_footer.css" crc="321525473" ref="casual_cube"/>
     <file name="nomq_preview_master_master.css" crc="321525473" ref="index"/>
     <file name="master_landing-page.css" crc="3957631051" ref="casual_cube"/>
     <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="casual_cube"/>
-    <file name="casual_cube.css" crc="303015204" ref="casual_cube"/>
-    <file name="nomq_casual_cube.css" crc="3762905724" ref="casual_cube"/>
+    <file name="casual_cube.css" crc="4044428760" ref="casual_cube"/>
+    <file name="nomq_casual_cube.css" crc="318315453" ref="casual_cube"/>
     <file name="nomq_index.css" crc="3873591043" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -28,7 +28,7 @@
   </folder>
   <folder name="images">
     <file name="u82-grad.png" crc="22101989" ref="index"/>
-    <file name="logo.png" crc="3924384905" seo="true" ref="index"/>
+    <file name="logo.png" crc="314074293" seo="true" ref="index:casual_cube"/>
     <file name="twitter.png" crc="153715256" seo="true" ref="index:casual_cube"/>
     <file name="email.png" crc="101407751" seo="true" ref="index:casual_cube"/>
     <file name="facebook.png" crc="295356413" seo="true" ref="index:casual_cube"/>
@@ -36,7 +36,6 @@
     <file name="button_appstore.png" crc="3787622123" seo="true" ref="index:casual_cube"/>
     <file name="button_google_play.png" crc="413404375" seo="true" ref="index:casual_cube"/>
     <file name="blank.gif" crc="4208392903" ref="index:casual_cube"/>
-    <file name="casual_cube_image2.png" crc="160414349" seo="true" ref="casual_cube"/>
     <file name="cc_screen1_thumb.png" crc="336745249" seo="true" ref="casual_cube"/>
     <file name="cc_screen2_thumb.png" crc="16982950" seo="true" ref="casual_cube"/>
     <file name="cc_screen3_thumb.png" crc="4032129510" seo="true" ref="casual_cube"/>
@@ -48,15 +47,10 @@
     <file name="u82-grad5.png" crc="3774694395" ref="index"/>
     <file name="banner_casualcubes390x242.png" crc="18741440" seo="true" ref="index"/>
     <file name="banner_casualcubes280x174.png" crc="3992440444" seo="true" ref="index"/>
-    <file name="logo100x108.png" crc="525204700" seo="true" ref="casual_cube"/>
-    <file name="casual_cube_image2302x350.png" crc="159075169" seo="true" ref="casual_cube"/>
-    <file name="logo90x97.png" crc="376120487" seo="true" ref="casual_cube"/>
-    <file name="casual_cube_image2250x290.png" crc="4271167203" seo="true" ref="casual_cube"/>
-    <file name="logo80x87.png" crc="449062625" seo="true" ref="casual_cube"/>
-    <file name="logo162x174.png" crc="3924384905" seo="true" ref="index"/>
-    <file name="logo130x139.png" crc="271980211" seo="true" ref="index"/>
-    <file name="logo116x124.png" crc="220466632" seo="true" ref="index"/>
+    <file name="casual_cube_image3.png" crc="300720544" seo="true" ref="casual_cube"/>
+    <file name="casual_cube_image3302x350.png" crc="59820739" seo="true" ref="casual_cube"/>
+    <file name="casual_cube_image3250x290.png" crc="3899469999" seo="true" ref="casual_cube"/>
   </folder>
-  <file name="index.html" crc="4096674657" seo="true" mt="1461085291217" redirect="true"/>
-  <file name="casual_cube.html" crc="4253917368" seo="true" mt="1461085303147" redirect="true"/>
+  <file name="index.html" crc="3979629223" seo="true" mt="1461696231048" redirect="true"/>
+  <file name="casual_cube.html" crc="4267600189" seo="true" mt="1461699418497" redirect="true"/>
 </manifest>

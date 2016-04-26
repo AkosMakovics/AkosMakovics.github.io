@@ -10,7 +10,7 @@
 
 	#page
 	{
-		min-height: 1950px;
+		min-height: 2499px;
 		padding-top: 20px;
 		padding-bottom: 22px;
 		max-width: 960px;
@@ -72,9 +72,16 @@
 		margin-left: 8.13%;
 	}
 
+	#u5304
+	{
+		margin-top: 62px;
+		width: 58.34%;
+		margin-left: 20.84%;
+	}
+
 	#pu634
 	{
-		margin-top: 54px;
+		margin-top: 69px;
 		width: 83.44%;
 		margin-left: 8.23%;
 	}
@@ -117,7 +124,7 @@
 	#u2042-6
 	{
 		min-height: 49px;
-		margin-top: 72px;
+		margin-top: 225px;
 		position: relative;
 		width: 99.9%;
 		margin-left: 0.11%;
