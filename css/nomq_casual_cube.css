@@ -74,14 +74,15 @@
 
 	#u5304
 	{
-		margin-top: 62px;
-		width: 58.34%;
-		margin-left: 20.84%;
+		min-height: 484px;
+		margin-top: 66px;
+		width: 88.86%;
+		margin-left: 5.53%;
 	}
 
 	#pu634
 	{
-		margin-top: 69px;
+		margin-top: 65px;
 		width: 83.44%;
 		margin-left: 8.23%;
 	}
@@ -124,7 +125,7 @@
 	#u2042-6
 	{
 		min-height: 49px;
-		margin-top: 225px;
+		margin-top: 60px;
 		position: relative;
 		width: 99.9%;
 		margin-left: 0.11%;
