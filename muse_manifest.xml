@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461745793602">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461745925078">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_landing-page.css" crc="164859611" ref="casual_cube"/>
@@ -77,5 +77,5 @@
     <file name="casual_cube.html" crc="452467224" seo="true" mt="1461743397515" redirect="true"/>
   </folder>
   <file name="index.html" crc="3876224908" seo="true" mt="1461745485143" redirect="true"/>
-  <file name="casual_cube.html" crc="3860001873" seo="true" mt="1461745641800" redirect="true"/>
+  <file name="casual_cube.html" crc="399397221" seo="true" mt="1461745899541" redirect="true"/>
 </manifest>
