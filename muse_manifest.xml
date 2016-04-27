@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461742697802">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461743042264">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="198359501" ref="tablet>index"/>
@@ -11,19 +11,14 @@
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_footer.css" crc="3822747757" ref="phone>casual_cube"/>
-      <file name="nomq_preview_master_footer.css" crc="321525473" ref="phone>casual_cube"/>
-      <file name="master_landing-page.css" crc="467966895" ref="phone>casual_cube"/>
-      <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="phone>casual_cube"/>
-      <file name="master_master.css" crc="3800044577" ref="phone>index"/>
-      <file name="nomq_preview_master_master.css" crc="321525473" ref="phone>index"/>
-      <file name="casual_cube.css" crc="4184873913" ref="phone>casual_cube"/>
-      <file name="nomq_casual_cube.css" crc="321525473" ref="phone>casual_cube"/>
-      <file name="index.css" crc="174649459" ref="phone>index"/>
-      <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
+      <file name="master_footer.css" crc="4005232737" ref="phone>casual_cube"/>
+      <file name="master_landing-page.css" crc="340765147" ref="phone>casual_cube"/>
+      <file name="master_master.css" crc="375705501" ref="phone>index"/>
+      <file name="casual_cube.css" crc="185314589" ref="phone>casual_cube"/>
+      <file name="index.css" crc="90566595" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="4087155291" seo="true" mt="1461742384799" redirect="true"/>
-    <file name="casual_cube.html" crc="487320502" seo="true" mt="1461742679418" redirect="true"/>
+    <file name="index.html" crc="3957350096" seo="true" mt="1461743022027" redirect="true"/>
+    <file name="casual_cube.html" crc="452467224" seo="true" mt="1461742993709" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
