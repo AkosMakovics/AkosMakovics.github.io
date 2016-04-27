@@ -10,13 +10,13 @@
 
 	#page
 	{
-		min-height: 1140.6853131749458px;
+		min-height: 1149.6853131749458px;
 		background-image: url("../images/u82-grad.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
 		padding-top: 38px;
-		padding-bottom: 20.314686825054196px;
+		padding-bottom: 11.314686825054196px;
 		max-width: 960px;
 	}
 
@@ -28,25 +28,22 @@
 
 	#pu209
 	{
-		margin-top: 39px;
+		margin-top: 26px;
 	}
 
 	#u209
 	{
-		width: 76px;
-		left: 32.82%;
+		left: 33.34%;
 	}
 
 	#u219
 	{
-		width: 76px;
-		left: 46.05%;
+		left: 46.57%;
 	}
 
 	#u229
 	{
-		width: 76px;
-		left: 59.28%;
+		left: 59.9%;
 	}
 
 	#u309-4
@@ -57,7 +54,7 @@
 	#u309-4-bw
 	{
 		min-height: 62px;
-		margin-top: 117px;
+		margin-top: 96px;
 	}
 
 	#u299
@@ -78,19 +75,19 @@
 
 	#u352
 	{
-		width: 186px;
-		left: 27.92%;
+		width: 150px;
+		left: 26.88%;
 	}
 
 	#u364
 	{
-		width: 186px;
-		left: 53.13%;
+		width: 150px;
+		left: 57.5%;
 	}
 
 	#u198-4
 	{
-		margin-top: 210px;
+		margin-top: 277px;
 		width: 48.23%;
 		margin-left: 25.84%;
 	}

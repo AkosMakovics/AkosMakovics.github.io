@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F0;
-	background-color: #686E83;
+	color: #000000;
+	background-color: #77DBF0;
 }
 
 .js body
@@ -16,14 +16,14 @@
 
 #page
 {
-	width: 100%;
+	background-color: #0EBEF7;
 	margin-right: auto;
 	margin-left: auto;
 	background-repeat: repeat-x;
 	z-index: 1;
 	border-color: #000000;
 	border-width: 0px;
-	background-color: #0EBEF7;
+	width: 100%;
 	background-position: left top;
 }
 
@@ -36,6 +36,7 @@
 #u209
 {
 	z-index: 8;
+	width: 65px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -43,6 +44,7 @@
 #u219
 {
 	z-index: 10;
+	width: 65px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -50,6 +52,7 @@
 #u229
 {
 	z-index: 12;
+	width: 65px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -74,8 +77,8 @@
 #u299
 {
 	z-index: 14;
-	background-color: transparent;
 	position: relative;
+	background-color: transparent;
 }
 
 #pu209,#pu352
@@ -132,13 +135,13 @@ body
 
 	#page
 	{
-		min-height: 1140.6853131749458px;
+		min-height: 1149.6853131749458px;
 		background-image: url("../images/u82-grad.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
 		padding-top: 38px;
-		padding-bottom: 20.314686825054196px;
+		padding-bottom: 11.314686825054196px;
 		max-width: 960px;
 	}
 
@@ -150,25 +153,22 @@ body
 
 	#pu209
 	{
-		margin-top: 39px;
+		margin-top: 26px;
 	}
 
 	#u209
 	{
-		width: 76px;
-		left: 32.82%;
+		left: 33.34%;
 	}
 
 	#u219
 	{
-		width: 76px;
-		left: 46.05%;
+		left: 46.57%;
 	}
 
 	#u229
 	{
-		width: 76px;
-		left: 59.28%;
+		left: 59.9%;
 	}
 
 	#u309-4
@@ -179,7 +179,7 @@ body
 	#u309-4-bw
 	{
 		min-height: 62px;
-		margin-top: 117px;
+		margin-top: 96px;
 	}
 
 	#u299
@@ -200,19 +200,19 @@ body
 
 	#u352
 	{
-		width: 186px;
-		left: 27.92%;
+		width: 150px;
+		left: 26.88%;
 	}
 
 	#u364
 	{
-		width: 186px;
-		left: 53.13%;
+		width: 150px;
+		left: 57.5%;
 	}
 
 	#u198-4
 	{
-		margin-top: 210px;
+		margin-top: 277px;
 		width: 48.23%;
 		margin-left: 25.84%;
 	}
@@ -225,7 +225,7 @@ body
 	}
 }
 
-@media (min-width: 576px) and (max-width: 750px)
+@media (min-width: 641px) and (max-width: 750px)
 {
 	#muse_css_mq
 	{
@@ -239,13 +239,13 @@ body
 
 	#page
 	{
-		min-height: 1110.6853131749458px;
+		min-height: 1115.6853131749458px;
 		background-image: url("../images/u82-grad2.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
 		padding-top: 38px;
-		padding-bottom: 20.314686825054196px;
+		padding-bottom: 15.314686825054196px;
 		max-width: 750px;
 	}
 
@@ -257,25 +257,22 @@ body
 
 	#pu209
 	{
-		margin-top: 39px;
+		margin-top: 28px;
 	}
 
 	#u209
 	{
-		width: 76px;
-		left: 28.01%;
+		left: 28.67%;
 	}
 
 	#u219
 	{
-		width: 76px;
-		left: 44.94%;
+		left: 45.6%;
 	}
 
 	#u229
 	{
-		width: 76px;
-		left: 61.87%;
+		left: 62.67%;
 	}
 
 	#u309-4
@@ -286,7 +283,7 @@ body
 	#u309-4-bw
 	{
 		min-height: 62px;
-		margin-top: 120px;
+		margin-top: 89px;
 	}
 
 	#u299
@@ -295,16 +292,21 @@ body
 		margin-left: 13.34%;
 	}
 
+	#pu352
+	{
+		margin-top: 6px;
+	}
+
 	#u352
 	{
-		width: 24.8%;
-		left: 22.67%;
+		width: 20%;
+		left: 22.41%;
 	}
 
 	#u364
 	{
-		width: 24.8%;
-		left: 52.54%;
+		width: 20%;
+		left: 57.6%;
 	}
 
 	#u352_img,#u364_img
@@ -314,7 +316,7 @@ body
 
 	#u198-4
 	{
-		margin-top: 183px;
+		margin-top: 248px;
 		width: 48.27%;
 		margin-left: 25.87%;
 	}
@@ -327,57 +329,54 @@ body
 	}
 }
 
-@media (min-width: 441px) and (max-width: 575px)
+@media (max-width: 640px)
 {
 	#muse_css_mq
 	{
-		background-color: #00023f;
+		background-color: #000280;
 	}
 
-	#bp_575.active
+	#bp_640.active
 	{
 		display: block;
 	}
 
 	#page
 	{
-		min-height: 1094.7853131749457px;
+		min-height: 1103px;
 		background-image: url("../images/u82-grad3.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
 		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-top: 36px;
-		padding-bottom: 20.214686825054287px;
-		max-width: 575px;
+		padding-top: 37px;
+		padding-bottom: 11px;
+		max-width: 640px;
 	}
 
 	#u181
 	{
 		width: 164px;
-		margin-left: 35.83%;
+		margin-left: 37.19%;
 	}
 
 	#pu209
 	{
-		margin-top: 39px;
+		margin-top: 26px;
 	}
 
 	#u209
 	{
-		width: 76px;
-		left: 21.22%;
+		left: 25.32%;
 	}
 
 	#u219
 	{
-		width: 76px;
-		left: 43.31%;
+		left: 44.85%;
 	}
 
 	#u229
 	{
-		width: 76px;
-		left: 65.57%;
+		left: 64.54%;
 	}
 
 	#u309-4
@@ -388,25 +387,30 @@ body
 	#u309-4-bw
 	{
 		min-height: 50px;
-		margin-top: 103px;
+		margin-top: 77px;
 	}
 
 	#u299
 	{
-		width: 86.09%;
-		margin-left: 6.96%;
+		width: 74.22%;
+		margin-left: 12.82%;
+	}
+
+	#pu352
+	{
+		margin-top: 11px;
 	}
 
 	#u352
 	{
-		width: 32.35%;
-		left: 16%;
+		width: 23.44%;
+		left: 20.63%;
 	}
 
 	#u364
 	{
-		width: 32.35%;
-		left: 50.79%;
+		width: 23.44%;
+		left: 55.94%;
 	}
 
 	#u299_img,#u352_img,#u364_img
@@ -416,215 +420,9 @@ body
 
 	#u198-4
 	{
-		margin-top: 228px;
-		width: 48.18%;
-		margin-left: 25.92%;
-	}
-
-	.html
-	{
-		background: -webkit-gradient(linear, left center, right center, from(#0CBCF7),color-stop(100%, #0EBEF7));
-		background: -webkit-linear-gradient(left,#0CBCF7 ,#0EBEF7 100%);
-		background: linear-gradient(to right,#0CBCF7 ,#0EBEF7 100%);
-	}
-}
-
-@media (min-width: 321px) and (max-width: 440px)
-{
-	#muse_css_mq
-	{
-		background-color: #0001b8;
-	}
-
-	#bp_440.active
-	{
-		display: block;
-	}
-
-	#page
-	{
-		min-height: 854px;
-		background-image: url("../images/u82-grad4.png");
-		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
-		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
-		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-top: 30px;
-		padding-bottom: 20px;
-		max-width: 440px;
-	}
-
-	#u181
-	{
-		width: 129px;
-		margin-left: 35.23%;
-	}
-
-	#pu209
-	{
-		margin-top: 29px;
-	}
-
-	#u209
-	{
-		width: 60px;
-		left: 21.37%;
-	}
-
-	#u219
-	{
-		width: 60px;
-		left: 43.19%;
-	}
-
-	#u229
-	{
-		width: 60px;
-		left: 65%;
-	}
-
-	#u309-4
-	{
-		min-height: 38px;
-	}
-
-	#u309-4-bw
-	{
-		min-height: 38px;
-		margin-top: 82px;
-	}
-
-	#u299
-	{
-		top: -6px;
-		margin-bottom: -6px;
-		width: 88.64%;
-		margin-left: 6.82%;
-	}
-
-	#u352
-	{
-		width: 29.78%;
-		left: 16.82%;
-	}
-
-	#u364
-	{
-		width: 29.78%;
-		left: 53.19%;
-	}
-
-	#u299_img,#u352_img,#u364_img
-	{
-		width: 100%;
-	}
-
-	#u198-4
-	{
-		margin-top: 162px;
-		width: 48.19%;
-		margin-left: 25.91%;
-	}
-
-	.html
-	{
-		background: -webkit-gradient(linear, left center, right center, from(#0CBCF7),color-stop(100%, #0EBEF7));
-		background: -webkit-linear-gradient(left,#0CBCF7 ,#0EBEF7 100%);
-		background: linear-gradient(to right,#0CBCF7 ,#0EBEF7 100%);
-	}
-}
-
-@media (max-width: 320px)
-{
-	#muse_css_mq
-	{
-		background-color: #000140;
-	}
-
-	#bp_320.active
-	{
-		display: block;
-	}
-
-	#page
-	{
-		min-height: 731.5353131749457px;
-		background-image: url("../images/u82-grad5.png");
-		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
-		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
-		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
-		padding-top: 29px;
-		padding-bottom: 17.464686825054287px;
-		max-width: 320px;
-	}
-
-	#u181
-	{
-		width: 115px;
-		margin-left: 31.88%;
-	}
-
-	#pu209
-	{
-		margin-top: 31px;
-	}
-
-	#u209
-	{
-		width: 54px;
-		left: 14.38%;
-	}
-
-	#u219
-	{
-		width: 54px;
-		left: 41.57%;
-	}
-
-	#u229
-	{
-		width: 54px;
-		left: 68.75%;
-	}
-
-	#u309-4
-	{
-		min-height: 38px;
-	}
-
-	#u309-4-bw
-	{
-		min-height: 38px;
-		margin-top: 81px;
-	}
-
-	#u299
-	{
-		width: 87.5%;
-		margin-left: 6.25%;
-	}
-
-	#u352
-	{
-		width: 29.69%;
-		left: 16.25%;
-	}
-
-	#u364
-	{
-		width: 29.69%;
-		left: 53.75%;
-	}
-
-	#u299_img,#u352_img,#u364_img
-	{
-		width: 100%;
-	}
-
-	#u198-4
-	{
-		margin-top: 135px;
-		width: 62.5%;
-		margin-left: 18.75%;
+		margin-top: 300px;
+		width: 48.29%;
+		margin-left: 24.38%;
 	}
 
 	.html
@@ -636,7 +434,7 @@ body
 
 	body
 	{
-		min-width: 320px;
+		min-width: 640px;
 	}
 }
 

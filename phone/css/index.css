@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000005;
-	background-color: #65EFC3;
+	color: #00000A;
+	background-color: #B9D4B8;
 }
 
 #muse_css_mq
@@ -162,4 +162,7 @@ body
 {
 	min-height: 96px;
 }
+
+
+
 

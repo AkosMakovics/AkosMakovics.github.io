@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #000006;
-	background-color: #6A6449;
+	color: #0000EA;
+	background-color: #751AFC;
 }
 
 #muse_css_mq
@@ -228,4 +228,7 @@ body
 	min-width: 320px;
 	padding-bottom: 82px;
 }
+
+
+
 

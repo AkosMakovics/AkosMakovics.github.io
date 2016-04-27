@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000FC;
-	background-color: #E37CD5;
+	color: #0000F6;
+	background-color: #83AC35;
 }
 
 .js body
@@ -16,19 +16,20 @@
 
 #page
 {
-	background-color: transparent;
+	z-index: 1;
 	margin-right: auto;
 	margin-left: auto;
 	background-image: none;
-	width: 100%;
-	z-index: 1;
 	border-color: #000000;
 	border-width: 0px;
+	background-color: transparent;
+	width: 100%;
 }
 
 #u457
 {
 	z-index: 10;
+	width: 76px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -36,6 +37,7 @@
 #u459
 {
 	z-index: 12;
+	width: 76px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -43,6 +45,7 @@
 #u461
 {
 	z-index: 14;
+	width: 76px;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -57,8 +60,8 @@
 #u570
 {
 	background-color: transparent;
-	position: relative;
 	z-index: 18;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -73,6 +76,7 @@
 #u607-11
 {
 	background-color: transparent;
+	min-height: 123px;
 	font-size: 19px;
 	position: relative;
 	font-family: imprima, sans-serif;
@@ -95,8 +99,8 @@
 #u634
 {
 	z-index: 33;
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -119,8 +123,8 @@
 #u687
 {
 	z-index: 39;
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	margin-right: -10000px;
 }
 
@@ -132,7 +136,7 @@
 	position: relative;
 }
 
-#u634_img,#u642_img,#u649_img,#u687_img,#u695_img
+#page_position_content,#u634_img,#u642_img,#u649_img,#u687_img,#u695_img
 {
 	width: 100%;
 }
@@ -145,6 +149,7 @@
 #u2038
 {
 	z-index: 8;
+	width: 100px;
 	position: relative;
 }
 
@@ -174,10 +179,14 @@ body
 
 	#page
 	{
-		min-height: 2499px;
-		padding-top: 20px;
-		padding-bottom: 22px;
+		min-height: 2448px;
 		max-width: 960px;
+	}
+
+	#page_position_content
+	{
+		margin-bottom: -106px;
+		padding-top: 20px;
 	}
 
 	#pu457
@@ -186,20 +195,13 @@ body
 		margin-left: 32.82%;
 	}
 
-	#u457
-	{
-		width: 76px;
-	}
-
 	#u459
 	{
-		width: 76px;
 		left: 38.49%;
 	}
 
 	#u461
 	{
-		width: 76px;
 		left: 76.97%;
 	}
 
@@ -212,41 +214,40 @@ body
 
 	#pu570
 	{
-		margin-top: 28px;
-		width: 41.57%;
-		margin-left: 28.96%;
+		margin-top: 20px;
+		width: 42.4%;
+		margin-left: 28.75%;
 	}
 
 	#u570
 	{
-		width: 186px;
+		width: 150px;
 	}
 
 	#u572
 	{
-		width: 186px;
-		left: 53.39%;
+		width: 150px;
+		left: 63.15%;
 	}
 
 	#u607-11
 	{
-		min-height: 123px;
-		margin-top: 54px;
+		margin-top: 75px;
 		width: 83.65%;
 		margin-left: 8.13%;
 	}
 
 	#u5304
 	{
-		min-height: 484px;
-		margin-top: 66px;
-		width: 88.86%;
-		margin-left: 5.53%;
+		min-height: 369px;
+		margin-top: 54px;
+		width: 67.4%;
+		margin-left: 16.25%;
 	}
 
 	#pu634
 	{
-		margin-top: 65px;
+		margin-top: 34px;
 		width: 83.44%;
 		margin-left: 8.23%;
 	}
@@ -289,7 +290,7 @@ body
 	#u2042-6
 	{
 		min-height: 49px;
-		margin-top: 60px;
+		margin-top: 253px;
 		position: relative;
 		width: 99.9%;
 		margin-left: 0.11%;
@@ -297,7 +298,6 @@ body
 
 	#u2038
 	{
-		width: 100px;
 		margin-top: 10px;
 		margin-left: 44.8%;
 	}
@@ -310,7 +310,7 @@ body
 	}
 }
 
-@media (min-width: 576px) and (max-width: 750px)
+@media (min-width: 641px) and (max-width: 750px)
 {
 	#muse_css_mq
 	{
@@ -330,26 +330,22 @@ body
 
 	#page_position_content
 	{
+		margin-bottom: -94px;
 		padding-top: 24px;
-		padding-bottom: 35px;
-		width: 100%;
 	}
 
 	#u457
 	{
-		width: 76px;
 		left: 28.54%;
 	}
 
 	#u459
 	{
-		width: 76px;
 		left: 44.81%;
 	}
 
 	#u461
 	{
-		width: 76px;
 		left: 62.4%;
 	}
 
@@ -360,16 +356,22 @@ body
 		margin-left: 20%;
 	}
 
+	#pu570
+	{
+		margin-top: 16px;
+		width: 100%;
+	}
+
 	#u570
 	{
-		width: 24.8%;
-		left: 22.67%;
+		width: 20%;
+		left: 24.8%;
 	}
 
 	#u572
 	{
-		width: 24.8%;
-		left: 52.94%;
+		width: 20%;
+		left: 54.94%;
 	}
 
 	#pu457,#u515_img,#u570_img,#u572_img
@@ -379,23 +381,22 @@ body
 
 	#u607-11
 	{
-		min-height: 123px;
-		margin-top: 32px;
+		margin-top: 61px;
 		width: 83.34%;
 		margin-left: 8.27%;
 	}
 
 	#u5304
 	{
-		min-height: 357px;
-		margin-top: 33px;
-		width: 113.74%;
-		left: -6.94%;
+		min-height: 361px;
+		margin-top: 20px;
+		width: 85.87%;
+		margin-left: 6.94%;
 	}
 
-	#pu570,#pu634
+	#pu634
 	{
-		margin-top: 32px;
+		margin-top: 35px;
 		width: 100%;
 	}
 
@@ -444,12 +445,11 @@ body
 	{
 		z-index: 2;
 		min-height: 55px;
-		margin-top: 2px;
+		margin-top: 198px;
 	}
 
 	#u2038
 	{
-		width: 100px;
 		margin-top: 10px;
 		margin-left: 43.2%;
 	}
@@ -462,72 +462,68 @@ body
 	}
 }
 
-@media (min-width: 441px) and (max-width: 575px)
+@media (max-width: 640px)
 {
 	#muse_css_mq
 	{
-		background-color: #00023f;
+		background-color: #000280;
 	}
 
-	#bp_575.active
+	#bp_640.active
 	{
 		display: block;
 	}
 
 	#page
 	{
-		min-height: 2031px;
-		max-width: 575px;
+		min-height: 2105px;
+		max-width: 640px;
 	}
 
 	#page_position_content
 	{
 		padding-top: 24px;
-		padding-bottom: 43px;
-		width: 100%;
+		padding-bottom: 18px;
 	}
 
 	#u457
 	{
-		width: 76px;
-		left: 21.4%;
+		left: 21.41%;
 	}
 
 	#u459
 	{
-		width: 76px;
-		left: 43.66%;
+		left: 43.6%;
 	}
 
 	#u461
 	{
-		width: 76px;
-		left: 65.4%;
+		left: 65.32%;
 	}
 
 	#u515
 	{
 		margin-top: 18px;
-		width: 69.57%;
-		margin-left: 15.14%;
+		width: 69.54%;
+		margin-left: 15.16%;
 	}
 
 	#pu570
 	{
-		margin-top: 27px;
+		margin-top: 17px;
 		width: 100%;
 	}
 
 	#u570
 	{
-		width: 32.35%;
-		left: 16%;
+		width: 23.44%;
+		left: 20.63%;
 	}
 
 	#u572
 	{
-		width: 32.35%;
-		left: 51.66%;
+		width: 23.44%;
+		left: 56.88%;
 	}
 
 	#pu457,#u515_img,#u570_img,#u572_img
@@ -537,396 +533,77 @@ body
 
 	#u607-11
 	{
-		min-height: 123px;
+		margin-top: 58px;
+		width: 83.29%;
+		margin-left: 8.29%;
+	}
+
+	#u5304
+	{
+		min-height: 362px;
 		margin-top: 27px;
-		width: 83.31%;
-		margin-left: 8.35%;
-	}
-
-	#u5304
-	{
-		min-height: 484px;
-		margin-top: 40px;
-		width: 148.35%;
-		left: -24.18%;
+		width: 100.63%;
+		left: 0.32%;
 	}
 
 	#pu634
 	{
-		margin-top: 23px;
+		margin-top: 44px;
 		width: 100%;
 	}
 
 	#u634
 	{
-		width: 26.44%;
-		left: 5.74%;
+		width: 26.41%;
+		left: 8.29%;
 	}
 
 	#u642
 	{
-		width: 26.44%;
-		left: 34.27%;
+		width: 26.41%;
+		left: 36.72%;
 	}
 
 	#u649
 	{
-		width: 26.44%;
-		left: 62.79%;
-	}
-
-	#pu687
-	{
-		margin-top: 15px;
-		width: 100%;
-	}
-
-	#u687
-	{
-		width: 26.44%;
-		left: 19.66%;
-	}
-
-	#u695
-	{
-		width: 26.44%;
-		left: 49.05%;
-	}
-
-	#u2042-6
-	{
-		min-height: 49px;
-	}
-
-	#u2042-6-bw
-	{
-		z-index: 2;
-		min-height: 49px;
-		margin-top: 6px;
-	}
-
-	#u2038
-	{
-		width: 100px;
-		margin-top: 4px;
-		margin-left: 41.22%;
-	}
-
-	.html
-	{
-		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
-		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 100%);
-		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 100%);
-	}
-}
-
-@media (min-width: 321px) and (max-width: 440px)
-{
-	#muse_css_mq
-	{
-		background-color: #0001b8;
-	}
-
-	#bp_440.active
-	{
-		display: block;
-	}
-
-	#page
-	{
-		min-height: 1668px;
-		max-width: 440px;
-	}
-
-	#page_position_content
-	{
-		padding-top: 24px;
-		padding-bottom: 39px;
-		width: 100%;
-	}
-
-	#pu457
-	{
-		width: 69.55%;
-		margin-left: 15.23%;
-	}
-
-	#u457
-	{
-		width: 60px;
-	}
-
-	#u459
-	{
-		width: 60px;
-		left: 40.85%;
-	}
-
-	#u461
-	{
-		width: 60px;
-		left: 80.4%;
-	}
-
-	#u515
-	{
-		margin-top: 18px;
-		width: 68.64%;
-		margin-left: 16.14%;
-	}
-
-	#pu570
-	{
-		margin-top: 22px;
-		width: 68.64%;
-		margin-left: 16.14%;
-	}
-
-	#u570
-	{
-		width: 43.38%;
-	}
-
-	#u572
-	{
-		width: 43.38%;
-		left: 56.63%;
-	}
-
-	#u515_img,#u570_img,#u572_img
-	{
-		width: 100%;
-	}
-
-	#u607-11
-	{
-		min-height: 211px;
-		margin-top: 22px;
-		width: 83.19%;
-		margin-left: 8.41%;
-	}
-
-	#u5304
-	{
-		min-height: 484px;
-		margin-top: 10px;
-		width: 193.87%;
-		left: -47.05%;
-	}
-
-	#pu634
-	{
-		margin-top: 10px;
-		width: 83.41%;
-		margin-left: 8.19%;
-	}
-
-	#u634
-	{
-		width: 31.61%;
-	}
-
-	#u642
-	{
-		width: 31.61%;
-		left: 34.06%;
-	}
-
-	#u649
-	{
-		width: 31.61%;
-		left: 68.4%;
-	}
-
-	#pu687
-	{
-		margin-top: 10px;
-		width: 55.91%;
-		margin-left: 22.05%;
-	}
-
-	#u687
-	{
-		width: 47.16%;
-	}
-
-	#u695
-	{
-		width: 47.16%;
-		left: 52.85%;
-	}
-
-	#u2042-6
-	{
-		min-height: 72px;
-		margin-top: 2px;
-		position: relative;
-		width: 90.91%;
-		margin-left: 4.55%;
-	}
-
-	#u2038
-	{
-		width: 90px;
-		margin-left: 40.23%;
-	}
-
-	.html
-	{
-		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
-		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 100%);
-		background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 100%);
-	}
-}
-
-@media (max-width: 320px)
-{
-	#muse_css_mq
-	{
-		background-color: #000140;
-	}
-
-	#bp_320.active
-	{
-		display: block;
-	}
-
-	#page
-	{
-		min-height: 1606px;
-		max-width: 320px;
-	}
-
-	#page_position_content
-	{
-		padding-top: 24px;
-		padding-bottom: 50px;
-		width: 100%;
-	}
-
-	#u457
-	{
-		width: 54px;
-		left: 16.25%;
-	}
-
-	#u459
-	{
-		width: 54px;
-		left: 41.57%;
-	}
-
-	#u461
-	{
-		width: 54px;
-		left: 66.57%;
-	}
-
-	#u515
-	{
-		margin-top: 15px;
-		width: 78.13%;
-		margin-left: 11.57%;
-	}
-
-	#pu570
-	{
-		margin-top: 15px;
-		width: 100%;
-	}
-
-	#u570
-	{
-		width: 29.69%;
-		left: 11.57%;
-	}
-
-	#u572
-	{
-		margin-top: 1px;
-		width: 29.69%;
-		left: 58.75%;
-	}
-
-	#pu457,#u515_img,#u570_img,#u572_img
-	{
-		width: 100%;
-	}
-
-	#u607-11
-	{
-		min-height: 198px;
-		margin-top: 24px;
-		width: 89.69%;
-		margin-left: 5.32%;
-	}
-
-	#u5304
-	{
-		min-height: 484px;
-		margin-top: 32px;
-		width: 266.57%;
-		left: -83.44%;
-	}
-
-	#pu634
-	{
-		margin-top: 21px;
-		width: 100%;
-	}
-
-	#u634
-	{
-		width: 26.57%;
-		left: 8.13%;
-	}
-
-	#u642
-	{
-		width: 26.57%;
-		left: 36.88%;
-	}
-
-	#u649
-	{
-		width: 26.57%;
+		width: 26.41%;
 		left: 65.32%;
 	}
 
 	#pu687
 	{
-		margin-top: 10px;
+		margin-top: 15px;
 		width: 100%;
 	}
 
 	#u687
 	{
-		width: 26.57%;
-		left: 22.19%;
+		width: 26.41%;
+		left: 22.04%;
 	}
 
 	#u695
 	{
-		width: 26.57%;
-		left: 51.57%;
+		width: 26.41%;
+		left: 51.41%;
 	}
 
 	#u2042-6
 	{
-		min-height: 72px;
+		min-height: 49px;
 	}
 
 	#u2042-6-bw
 	{
 		z-index: 2;
-		min-height: 72px;
-		margin-top: 1px;
+		min-height: 49px;
+		margin-top: 59px;
 	}
 
 	#u2038
 	{
-		width: 80px;
-		margin-left: 36.88%;
+		margin-top: 3px;
+		margin-left: 41.25%;
 	}
 
 	.html
@@ -938,7 +615,7 @@ body
 
 	body
 	{
-		min-width: 320px;
+		min-width: 640px;
 	}
 }
 
