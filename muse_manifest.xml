@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461745925078">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461746027828">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_landing-page.css" crc="164859611" ref="casual_cube"/>
@@ -9,8 +9,8 @@
     <file name="nomq_preview_master_master.css" crc="321525473" ref="index"/>
     <file name="casual_cube.css" crc="4135824437" ref="casual_cube"/>
     <file name="nomq_casual_cube.css" crc="235819213" ref="casual_cube"/>
-    <file name="index.css" crc="7855088" ref="index"/>
-    <file name="nomq_index.css" crc="351497744" ref="index"/>
+    <file name="index.css" crc="483765786" ref="index"/>
+    <file name="nomq_index.css" crc="4088134328" ref="index"/>
   </folder>
   <folder name="assets">
     <file name="cc_screen_1.png" crc="4142810002" seo="true" mt="1461005902000"/>
@@ -76,6 +76,6 @@
     <file name="index.html" crc="3957350096" seo="true" mt="1461743022027" redirect="true"/>
     <file name="casual_cube.html" crc="452467224" seo="true" mt="1461743397515" redirect="true"/>
   </folder>
-  <file name="index.html" crc="3876224908" seo="true" mt="1461745485143" redirect="true"/>
+  <file name="index.html" crc="150192551" seo="true" mt="1461746008860" redirect="true"/>
   <file name="casual_cube.html" crc="399397221" seo="true" mt="1461745899541" redirect="true"/>
 </manifest>
