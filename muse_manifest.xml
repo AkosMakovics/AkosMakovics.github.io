@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461742138295">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461742697802">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="198359501" ref="tablet>index"/>
@@ -17,13 +17,13 @@
       <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="phone>casual_cube"/>
       <file name="master_master.css" crc="3800044577" ref="phone>index"/>
       <file name="nomq_preview_master_master.css" crc="321525473" ref="phone>index"/>
-      <file name="casual_cube.css" crc="120317556" ref="phone>casual_cube"/>
+      <file name="casual_cube.css" crc="4184873913" ref="phone>casual_cube"/>
       <file name="nomq_casual_cube.css" crc="321525473" ref="phone>casual_cube"/>
       <file name="index.css" crc="174649459" ref="phone>index"/>
       <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3985230377" seo="true" mt="1461742032459" redirect="true"/>
-    <file name="casual_cube.html" crc="4210224841" seo="true" mt="1461742032460" redirect="true"/>
+    <file name="index.html" crc="4087155291" seo="true" mt="1461742384799" redirect="true"/>
+    <file name="casual_cube.html" crc="487320502" seo="true" mt="1461742679418" redirect="true"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
@@ -60,8 +60,8 @@
     <file name="email.png" crc="101407751" seo="true" ref="index:casual_cube:phone>index:phone>casual_cube"/>
     <file name="facebook.png" crc="295356413" seo="true" ref="index:casual_cube:phone>index:phone>casual_cube"/>
     <file name="banner_casualcubes.png" crc="4250670463" seo="true" ref="index"/>
-    <file name="button_appstore.png" crc="3787622123" seo="true" ref="index:casual_cube:phone>index"/>
-    <file name="button_google_play.png" crc="413404375" seo="true" ref="index:casual_cube:phone>index"/>
+    <file name="button_appstore.png" crc="3787622123" seo="true" ref="index:casual_cube:phone>index:phone>casual_cube"/>
+    <file name="button_google_play.png" crc="413404375" seo="true" ref="index:casual_cube:phone>index:phone>casual_cube"/>
     <file name="u82-grad2.png" crc="313975078" ref="index"/>
     <file name="u82-grad3.png" crc="520113214" ref="index"/>
     <file name="u82-grad4.png" crc="192911171" ref="index"/>
@@ -70,17 +70,18 @@
     <file name="banner_casualcubes280x174.png" crc="3992440444" seo="true" ref="index"/>
     <file name="blank.gif" crc="4208392903" ref="index:casual_cube"/>
     <file name="casual_cube_image3.png" crc="300720544" seo="true" ref="casual_cube"/>
-    <file name="cc_screen1_thumb.png" crc="336745249" seo="true" ref="casual_cube"/>
-    <file name="cc_screen2_thumb.png" crc="16982950" seo="true" ref="casual_cube"/>
-    <file name="cc_screen3_thumb.png" crc="4032129510" seo="true" ref="casual_cube"/>
-    <file name="cc_screen4_thumb.png" crc="118737383" seo="true" ref="casual_cube"/>
-    <file name="cc_screen5_thumb.png" crc="4101825590" seo="true" ref="casual_cube"/>
+    <file name="cc_screen1_thumb.png" crc="336745249" seo="true" ref="casual_cube:phone>casual_cube"/>
+    <file name="cc_screen2_thumb.png" crc="16982950" seo="true" ref="casual_cube:phone>casual_cube"/>
+    <file name="cc_screen3_thumb.png" crc="4032129510" seo="true" ref="casual_cube:phone>casual_cube"/>
+    <file name="cc_screen4_thumb.png" crc="118737383" seo="true" ref="casual_cube:phone>casual_cube"/>
+    <file name="cc_screen5_thumb.png" crc="4101825590" seo="true" ref="casual_cube:phone>casual_cube"/>
     <file name="casual_cube_image3302x350.png" crc="59820739" seo="true" ref="casual_cube"/>
     <file name="casual_cube_image3250x290.png" crc="3899469999" seo="true" ref="casual_cube"/>
     <file name="u5385-grad.png" crc="3937527095" ref="phone>index"/>
     <file name="banner_casualcubes314x194.png" crc="13730669" seo="true" ref="phone>index"/>
     <file name="u5713-grad.png" crc="4165776963" ref="tablet>index"/>
+    <file name="casual_cube_image3315x366.png" crc="4237663140" seo="true" ref="phone>casual_cube"/>
   </folder>
   <file name="index.html" crc="132500084" seo="true" mt="1461742032300" redirect="true"/>
-  <file name="casual_cube.html" crc="4241605481" seo="true" mt="1461742032384" redirect="true"/>
+  <file name="casual_cube.html" crc="4241605481" seo="true" mt="1461742625998" redirect="true"/>
 </manifest>
