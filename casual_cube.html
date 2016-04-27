@@ -3,18 +3,25 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "jquery.museresponsive.js", "casual_cube.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "museredirect.js", "jquery.museresponsive.js", "casual_cube.css"], "outOfDate":[]};
+</script>
+  
+  <script src="scripts/museredirect.js?71780213" type="text/javascript"></script>
+  
+  <script type="text/javascript">
+   Muse.Redirect.redirect('desktop', '', 'phone/casual_cube.html');
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <link media="only screen and (max-width: 370px)" rel="alternate" href="http://akos-makovics.com/phone/casual_cube.html"/>
   <meta name="generator" content="2015.1.2.344"/>
   <title>Casual Cube</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?131700929"/>
-  <link rel="stylesheet" type="text/css" href="css/master_footer.css?30531005"/>
+  <link rel="stylesheet" type="text/css" href="css/master_footer.css?4246435156"/>
   <link rel="stylesheet" type="text/css" href="css/master_landing-page.css?3957631051"/>
-  <link rel="stylesheet" type="text/css" href="css/casual_cube.css?3891540711" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/casual_cube.css?4242767061" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_footer.css?321525473"/>
@@ -61,7 +68,7 @@ var __adobewebfontsappname__ = "muse";
      <p>- Compete for the best score in the world</p>
     </div>
     <div class="colelem shared_content" id="u5304" data-content-guid="u5304_content"><!-- custom html -->
-     <iframe width="853" height="480" src="https://www.youtube.com/embed/ZpugxGzjDvY?rel=0" frameborder="4" allowfullscreen></iframe>
+     <style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ZpugxGzjDvY' frameborder='0' allowfullscreen></iframe></div>
 </div>
     <div class="clearfix colelem" id="pu634"><!-- group -->
      <a class="nonblock nontext clip_frame grpelem" id="u634" href="assets/cc_screen_1.png" target="_blank"><!-- image --><img class="block temp_no_img_src" id="u634_img" data-orig-src="images/cc_screen1_thumb.png" alt="" data-image-width="254" data-image-height="368" src="images/blank.gif"/></a>
@@ -235,8 +242,7 @@ var __adobewebfontsappname__ = "muse";
    $(document).ready(function() { try {
 (function(){var a={},b=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),16);return 0};(function(){$('link[type="text/css"]').each(function(){var b=($(this).attr("href")||"").match(/\/?css\/([\w\-]+\.css)\?(\d+)/);b&&b[1]&&b[2]&&(a[b[1]]=b[2])})})();(function(){$("body").append('<div class="version" style="display:none; width:1px; height:1px;"></div>');
 for(var c=$(".version"),d=0;d<Muse.assets.required.length;){var f=Muse.assets.required[d],g=f.match(/([\w\-\.]+)\.(\w+)$/),k=g&&g[1]?g[1]:null,g=g&&g[2]?g[2]:null;switch(g.toLowerCase()){case "css":k=k.replace(/\W/gi,"_").replace(/^([^a-z])/gi,"_$1");c.addClass(k);var g=b(c.css("color")),h=b(c.css("background-color"));g!=0||h!=0?(Muse.assets.required.splice(d,1),"undefined"!=typeof a[f]&&(g!=a[f]>>>24||h!=(a[f]&16777215))&&Muse.assets.outOfDate.push(f)):d++;c.removeClass(k);break;case "js":k.match(/^jquery-[\d\.]+/gi)&&
-typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();
-/* body */
+typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw Error("Unsupported file type: "+g);}}c.remove();if(Muse.assets.outOfDate.length||Muse.assets.required.length)c="Some files on the server may be missing or incorrect. Clear browser cache and try again. If the problem persists please contact website author.",(d=location&&location.search&&location.search.match&&location.search.match(/muse_debug/gi))&&Muse.assets.outOfDate.length&&(c+="\nOut of date: "+Muse.assets.outOfDate.join(",")),d&&Muse.assets.required.length&&(c+="\nMissing: "+Muse.assets.required.join(",")),alert(c)})()})();/* body */
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.fullPage('#page');/* 100% height page */
@@ -246,70 +252,5 @@ $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 } catch(e) { if (e && 'function' == typeof e.notify) e.notify(); else Muse.Assert.fail('Error calling selector function:' + e); }});
 </script>
-  <script>
-      (function ( window, document, undefined ) {
-       
-       /*
-        * Grab all iframes on the page or return
-        */
-       var iframes = document.getElementsByTagName( 'iframe' );
-       
-       /*
-        * Loop through the iframes array
-        */
-       for ( var i = 0; i < iframes.length; i++ ) {
-       
-       var iframe = iframes[i],
-       
-       /*
-        * RegExp, extend this if you need more players
-        */
-       players = /www.youtube.com|player.vimeo.com/;
-       
-       /*
-        * If the RegExp pattern exists within the current iframe
-        */
-       if ( iframe.src.search( players ) > 0 ) {
-       
-       /*
-        * Calculate the video ratio based on the iframe's w/h dimensions
-        */
-       var videoRatio        = ( iframe.height / iframe.width ) * 100;
-       
-       /*
-        * Replace the iframe's dimensions and position
-        * the iframe absolute, this is the trick to emulate
-        * the video ratio
-        */
-       iframe.style.position = 'absolute';
-       iframe.style.top      = '0';
-       iframe.style.left     = '0';
-       iframe.width          = '100%';
-       iframe.height         = '100%';
-       
-       /*
-        * Wrap the iframe in a new <div> which uses a
-        * dynamically fetched padding-top property based
-        * on the video's w/h dimensions
-        */
-       var wrap              = document.createElement( 'div' );
-       wrap.className        = 'fluid-vids';
-       wrap.style.width      = '100%';
-       wrap.style.position   = 'relative';
-       wrap.style.paddingTop = videoRatio + '%';
-       
-       /*
-        * Add the iframe inside our newly created <div>
-        */
-       var iframeParent      = iframe.parentNode;
-       iframeParent.insertBefore( wrap, iframe );
-       wrap.appendChild( iframe );
-       
-       }
-       
-       }
-       
-       })( window, document );
-      </script>
    </body>
 </html>

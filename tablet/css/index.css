@@ -1,0 +1,38 @@
+.version.index /* version checker */
+{
+	color: #00000B;
+	background-color: #D2B9CD;
+}
+
+#page
+{
+	z-index: 1;
+	min-height: 0px;
+	background: #0EBEF7 url("../../images/u5713-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
+	background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
+	background: linear-gradient(to bottom,#0CBCF7 ,#0EBEF7 5000px);
+	border-width: 0px;
+	border-color: #000000;
+	padding-top: 128px;
+	padding-bottom: 896px;
+	width: 100%;
+	max-width: 768px;
+}
+
+#muse_css_mq,.html
+{
+	background-color: #FFFFFF;
+}
+
+body
+{
+	position: relative;
+	min-width: 320px;
+}
+
+
+
+
+
+

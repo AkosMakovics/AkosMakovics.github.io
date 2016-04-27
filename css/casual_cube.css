@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000E7;
-	background-color: #F432E7;
+	color: #0000FC;
+	background-color: #E37CD5;
 }
 
 .js body
@@ -16,119 +16,119 @@
 
 #page
 {
+	background-color: transparent;
 	margin-right: auto;
-	z-index: 1;
+	margin-left: auto;
 	background-image: none;
 	width: 100%;
-	background-color: transparent;
+	z-index: 1;
 	border-color: #000000;
 	border-width: 0px;
-	margin-left: auto;
 }
 
 #u457
 {
-	margin-right: -10000px;
-	position: relative;
 	z-index: 10;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u459
 {
-	margin-right: -10000px;
-	position: relative;
 	z-index: 12;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u461
 {
-	margin-right: -10000px;
-	position: relative;
 	z-index: 14;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u515
 {
-	position: relative;
-	background-color: transparent;
 	z-index: 16;
+	background-color: transparent;
+	position: relative;
 }
 
 #u570
 {
-	margin-right: -10000px;
-	position: relative;
 	background-color: transparent;
+	position: relative;
 	z-index: 18;
+	margin-right: -10000px;
 }
 
 #u572
 {
+	z-index: 20;
 	margin-right: -10000px;
 	background-color: transparent;
-	z-index: 20;
 	position: relative;
 }
 
 #u607-11
 {
 	background-color: transparent;
+	font-size: 19px;
+	position: relative;
+	font-family: imprima, sans-serif;
 	z-index: 22;
 	text-align: justify;
-	font-size: 19px;
-	line-height: 23px;
-	font-family: imprima, sans-serif;
-	font-weight: 400;
 	color: #FFFFFF;
-	position: relative;
+	font-weight: 400;
+	line-height: 23px;
 }
 
 #u5304
 {
-	background-color: transparent;
 	z-index: 43;
-	border-width: 0px;
-	position: relative;
 	border-color: transparent;
+	border-width: 0px;
+	background-color: transparent;
+	position: relative;
 }
 
 #u634
 {
-	margin-right: -10000px;
+	z-index: 33;
 	position: relative;
 	background-color: transparent;
-	z-index: 33;
+	margin-right: -10000px;
 }
 
 #u642
 {
+	z-index: 35;
 	margin-right: -10000px;
 	background-color: transparent;
-	z-index: 35;
 	position: relative;
 }
 
 #u649
 {
+	z-index: 37;
 	margin-right: -10000px;
 	background-color: transparent;
-	z-index: 37;
 	position: relative;
 }
 
 #u687
 {
-	margin-right: -10000px;
+	z-index: 39;
 	position: relative;
 	background-color: transparent;
-	z-index: 39;
+	margin-right: -10000px;
 }
 
 #u695
 {
+	z-index: 41;
 	margin-right: -10000px;
 	background-color: transparent;
-	z-index: 41;
 	position: relative;
 }
 
@@ -144,15 +144,15 @@
 
 #u2038
 {
-	position: relative;
 	z-index: 8;
+	position: relative;
 }
 
 .html
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=0)";
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=0);
 	background-color: #0CBCF7;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=0)";
 }
 
 body
@@ -390,7 +390,7 @@ body
 		min-height: 357px;
 		margin-top: 33px;
 		width: 113.74%;
-		margin-left: 5.74%;
+		left: -6.94%;
 	}
 
 	#pu570,#pu634
@@ -545,10 +545,10 @@ body
 
 	#u5304
 	{
-		min-height: 319px;
+		min-height: 484px;
 		margin-top: 40px;
-		width: 97.4%;
-		margin-left: 1.22%;
+		width: 148.35%;
+		left: -24.18%;
 	}
 
 	#pu634
@@ -602,7 +602,7 @@ body
 	{
 		z-index: 2;
 		min-height: 49px;
-		margin-top: 127px;
+		margin-top: 6px;
 	}
 
 	#u2038
@@ -641,7 +641,7 @@ body
 	#page_position_content
 	{
 		padding-top: 24px;
-		padding-bottom: 38px;
+		padding-bottom: 39px;
 		width: 100%;
 	}
 
@@ -708,10 +708,10 @@ body
 
 	#u5304
 	{
-		min-height: 319px;
+		min-height: 484px;
 		margin-top: 10px;
-		width: 127.28%;
-		left: -16.6%;
+		width: 193.87%;
+		left: -47.05%;
 	}
 
 	#pu634
@@ -759,7 +759,7 @@ body
 	#u2042-6
 	{
 		min-height: 72px;
-		margin-top: 20px;
+		margin-top: 2px;
 		position: relative;
 		width: 90.91%;
 		margin-left: 4.55%;
@@ -793,8 +793,7 @@ body
 
 	#page
 	{
-		min-height: 1605.9516198704105px;
-		padding-bottom: 0px;
+		min-height: 1606px;
 		max-width: 320px;
 	}
 
@@ -864,10 +863,10 @@ body
 
 	#u5304
 	{
-		min-height: 319px;
+		min-height: 484px;
 		margin-top: 32px;
-		width: 175%;
-		left: -35.94%;
+		width: 266.57%;
+		left: -83.44%;
 	}
 
 	#pu634
@@ -921,7 +920,7 @@ body
 	{
 		z-index: 2;
 		min-height: 72px;
-		margin-top: 60px;
+		margin-top: 1px;
 	}
 
 	#u2038

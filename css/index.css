@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000EF;
-	background-color: #31F994;
+	color: #0000F0;
+	background-color: #686E83;
 }
 
 .js body
@@ -16,54 +16,54 @@
 
 #page
 {
-	margin-right: auto;
-	background-color: #0EBEF7;
-	z-index: 1;
-	background-position: left top;
-	background-repeat: repeat-x;
 	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	background-repeat: repeat-x;
+	z-index: 1;
 	border-color: #000000;
 	border-width: 0px;
-	margin-left: auto;
+	background-color: #0EBEF7;
+	background-position: left top;
 }
 
 #u181
 {
-	position: relative;
 	z-index: 2;
+	position: relative;
 }
 
 #u209
 {
-	margin-right: -10000px;
-	position: relative;
 	z-index: 8;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u219
 {
-	margin-right: -10000px;
-	position: relative;
 	z-index: 10;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u229
 {
-	margin-right: -10000px;
-	position: relative;
 	z-index: 12;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u309-4
 {
-	font-weight: 400;
-	text-align: center;
 	font-family: imprima, sans-serif;
-	background-color: transparent;
 	z-index: 16;
 	color: #FFFFFF;
-	line-height: 50px;
+	text-align: center;
+	background-color: transparent;
 	font-size: 42px;
+	font-weight: 400;
+	line-height: 50px;
 }
 
 #u309-4-bw
@@ -73,8 +73,8 @@
 
 #u299
 {
-	background-color: transparent;
 	z-index: 14;
+	background-color: transparent;
 	position: relative;
 }
 
@@ -85,32 +85,32 @@
 
 #u352
 {
+	z-index: 20;
 	margin-right: -10000px;
 	background-color: transparent;
-	z-index: 20;
 	position: relative;
 }
 
 #u364
 {
+	z-index: 22;
 	margin-right: -10000px;
 	background-color: transparent;
-	z-index: 22;
 	position: relative;
 }
 
 #u198-4
 {
-	position: relative;
 	z-index: 4;
 	min-height: 50px;
+	position: relative;
 }
 
 .html
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
-	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=1);
 	background-color: #0CBCF7;
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
 }
 
 body
