@@ -1,4 +1,4 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461743280474">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1461743351904">
   <folder name="tablet">
     <folder name="css">
       <file name="index.css" crc="198359501" ref="tablet>index"/>
