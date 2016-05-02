@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000FB;
-	background-color: #31339E;
+	color: #0000FF;
+	background-color: #6A7E21;
 }
 
 #muse_css_mq
@@ -97,10 +97,10 @@
 #u6265
 {
 	z-index: 42;
+	width: 150px;
 	height: 45px;
 	position: relative;
 	margin-right: -10000px;
-	width: 47.62%;
 	left: 52.39%;
 	background: transparent url("../../images/get_it_on_google_play.svg") no-repeat center center;
 	background-size: contain;
@@ -116,10 +116,10 @@
 	z-index: 20;
 	min-height: 123px;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 23px;
 	text-align: justify;
 	font-size: 19px;
-	color: #FFFFFF;
 	font-family: imprima, sans-serif;
 	font-weight: 400;
 	margin-top: 18px;

@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F2;
-	background-color: #AB332D;
+	color: #0000F0;
+	background-color: #D8F198;
 }
 
 #muse_css_mq
@@ -29,10 +29,10 @@
 	z-index: 16;
 	min-height: 43px;
 	background-color: transparent;
+	color: #FFFFFF;
 	line-height: 43px;
 	text-align: center;
 	font-size: 36px;
-	color: #FFFFFF;
 	font-family: imprima, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -108,8 +108,8 @@
 
 #pu5614
 {
-	margin-top: 4px;
-	width: 91.7%;
+	margin-top: 5px;
+	width: 92.98%;
 	margin-left: 2.24%;
 }
 
@@ -120,7 +120,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 5px;
+	margin-top: 4px;
 }
 
 #u6182
@@ -133,11 +133,11 @@
 #u6262
 {
 	z-index: 22;
+	width: 125px;
 	height: 45px;
 	position: relative;
 	margin-right: -10000px;
-	width: 43.56%;
-	left: 56.45%;
+	left: 57.05%;
 	background: transparent url("../../images/get_it_on_google_play.svg") no-repeat center center;
 	background-size: contain;
 }
