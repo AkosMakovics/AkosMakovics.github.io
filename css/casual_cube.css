@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000E0;
-	background-color: #DF8D83;
+	color: #00000C;
+	background-color: #69B539;
 }
 
 .js body
@@ -71,18 +71,19 @@
 	display: block;
 }
 
-#u572
+#u6247
 {
-	background-color: transparent;
-	z-index: 20;
+	z-index: 42;
+	height: 45px;
 	margin-right: -10000px;
 	position: relative;
+	background: transparent url("../images/google%20play%20badge.png") no-repeat center center;
 }
 
 #u607-11
 {
 	text-align: justify;
-	z-index: 22;
+	z-index: 20;
 	font-weight: 400;
 	line-height: 23px;
 	min-height: 123px;
@@ -95,7 +96,7 @@
 
 #u5304
 {
-	z-index: 43;
+	z-index: 41;
 	background-color: transparent;
 	border-color: transparent;
 	border-width: 0px;
@@ -104,7 +105,7 @@
 
 #u634
 {
-	z-index: 33;
+	z-index: 31;
 	margin-right: -10000px;
 	position: relative;
 	background-color: transparent;
@@ -112,7 +113,7 @@
 
 #u642
 {
-	z-index: 35;
+	z-index: 33;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -120,7 +121,7 @@
 
 #u649
 {
-	z-index: 37;
+	z-index: 35;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -128,7 +129,7 @@
 
 #u687
 {
-	z-index: 39;
+	z-index: 37;
 	margin-right: -10000px;
 	position: relative;
 	background-color: transparent;
@@ -136,7 +137,7 @@
 
 #u695
 {
-	z-index: 41;
+	z-index: 39;
 	background-color: transparent;
 	margin-right: -10000px;
 	position: relative;
@@ -221,7 +222,7 @@ body
 	#pu570
 	{
 		margin-top: 20px;
-		width: 42.92%;
+		width: 43.55%;
 		margin-left: 28.23%;
 	}
 
@@ -235,10 +236,10 @@ body
 		margin-bottom: 10px;
 	}
 
-	#u572
+	#u6247
 	{
-		width: 150px;
-		left: 63.6%;
+		width: 35.89%;
+		left: 64.12%;
 	}
 
 	#u607-11
@@ -367,6 +368,11 @@ body
 		margin-left: 20%;
 	}
 
+	#pu457,#u515_img
+	{
+		width: 100%;
+	}
+
 	#pu570
 	{
 		margin-top: 16px;
@@ -385,15 +391,11 @@ body
 		width: 100%;
 	}
 
-	#u572
+	#u6247
 	{
+		margin-top: 2px;
 		width: 20%;
-		left: 54.94%;
-	}
-
-	#pu457,#u515_img,#u572_img
-	{
-		width: 100%;
+		left: 56.14%;
 	}
 
 	#u607-11
@@ -525,6 +527,11 @@ body
 		margin-left: 15.16%;
 	}
 
+	#pu457,#u515_img
+	{
+		width: 100%;
+	}
+
 	#pu570
 	{
 		margin-top: 17px;
@@ -543,15 +550,10 @@ body
 		width: 100%;
 	}
 
-	#u572
+	#u6247
 	{
-		width: 23.44%;
-		left: 56.88%;
-	}
-
-	#pu457,#u515_img,#u572_img
-	{
-		width: 100%;
+		width: 150px;
+		left: 57.82%;
 	}
 
 	#u607-11

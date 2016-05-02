@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "index.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -14,7 +14,7 @@
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="../css/site_global.css?131700929"/>
   <link rel="stylesheet" type="text/css" href="css/master_master.css?177817303"/>
-  <link rel="stylesheet" type="text/css" href="css/index.css?4248636180" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/index.css?131437411" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
@@ -45,11 +45,9 @@ var __adobewebfontsappname__ = "muse";
     <a class="nonblock nontext clip_frame colelem" id="u5611" href="casual_cube.html"><!-- image --><img class="block" id="u5611_img" src="../images/banner_casualcubes314x194.png" alt="" data-image-width="313" data-image-height="194"/></a>
     <div class="clearfix colelem" id="pu5614"><!-- group -->
      <div class="clip_frame grpelem" id="u5614"><!-- svg -->
-      <img class="svg" id="u6182" src="../images/app-store-badge.svg" width="120" height="36" alt="" data-mu-svgfallback="../images/app%20store%20badge_poster_.png"/>
+      <img class="svg" id="u6182" src="../images/app-store-badge.svg" width="150" height="37" alt="" data-mu-svgfallback="../images/app%20store%20badge_poster_.png"/>
      </div>
-     <div class="clip_frame grpelem" id="u5616"><!-- image -->
-      <img class="block" id="u5616_img" src="../images/button_google_play.png" alt="" width="120" height="43"/>
-     </div>
+     <div class="museBGSize grpelem" id="u6262"><!-- simple frame --></div>
     </div>
    </div>
    <div class="verticalspacer"></div>
@@ -58,9 +56,15 @@ var __adobewebfontsappname__ = "muse";
    </div>
   </div>
   <!-- JS includes -->
-  <script src="../scripts/jquery-1.8.3.min.js?207176553" type="text/javascript"></script>
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn2.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="../scripts/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
   <script src="../scripts/museutils.js?3790713428" type="text/javascript"></script>
   <script src="../scripts/whatinput.js?84559013" type="text/javascript"></script>
+  <script src="../scripts/jquery.musepolyfill.bgsize.js?3918880840" type="text/javascript"></script>
   <script src="../scripts/jquery.watch.js?4244854265" type="text/javascript"></script>
   <!-- Other scripts -->
   <script type="text/javascript">

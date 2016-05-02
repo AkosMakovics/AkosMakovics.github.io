@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000E5;
-	background-color: #13E056;
+	color: #0000F8;
+	background-color: #10765E;
 }
 
 #muse_css_mq
@@ -73,8 +73,8 @@
 
 #pu5791
 {
-	margin-top: 13px;
-	width: 73.43%;
+	margin-top: 9px;
+	width: 73.69%;
 	margin-left: 12.9%;
 }
 
@@ -85,6 +85,7 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	margin-top: 4px;
 }
 
 #u6175
@@ -94,19 +95,21 @@
 	margin-bottom: 8px;
 }
 
-#u5793
+#u6265
 {
-	z-index: 20;
-	width: 120px;
-	background-color: transparent;
+	z-index: 42;
+	height: 43px;
 	position: relative;
 	margin-right: -10000px;
-	left: 56.99%;
+	width: 42.86%;
+	left: 57.15%;
+	background: transparent url("../../images/google%20play%20badge-u6265-fr.png") no-repeat center center;
+	background-size: contain;
 }
 
 #u5795-11
 {
-	z-index: 22;
+	z-index: 20;
 	min-height: 123px;
 	background-color: transparent;
 	line-height: 23px;
@@ -123,7 +126,7 @@
 
 #u5845
 {
-	z-index: 33;
+	z-index: 31;
 	min-height: 207px;
 	border-width: 0px;
 	border-color: transparent;
@@ -143,7 +146,7 @@
 
 #u5928
 {
-	z-index: 34;
+	z-index: 32;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -152,7 +155,7 @@
 
 #u5930
 {
-	z-index: 36;
+	z-index: 34;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -162,7 +165,7 @@
 
 #u5932
 {
-	z-index: 38;
+	z-index: 36;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -179,7 +182,7 @@
 
 #u5934
 {
-	z-index: 40;
+	z-index: 38;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -188,7 +191,7 @@
 
 #u5936
 {
-	z-index: 42;
+	z-index: 40;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
@@ -235,4 +238,7 @@ body
 	min-width: 320px;
 	padding-bottom: 82px;
 }
+
+
+
 
