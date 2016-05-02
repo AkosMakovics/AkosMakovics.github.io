@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000007;
-	background-color: #D59363;
+	color: #0000F2;
+	background-color: #AB332D;
 }
 
 #muse_css_mq
@@ -109,7 +109,7 @@
 #pu5614
 {
 	margin-top: 4px;
-	width: 90.1%;
+	width: 91.7%;
 	margin-left: 2.24%;
 }
 
@@ -136,10 +136,15 @@
 	height: 45px;
 	position: relative;
 	margin-right: -10000px;
-	width: 44.33%;
-	left: 55.68%;
-	background: transparent url("../../images/google%20play%20badge.png") no-repeat center center;
+	width: 43.56%;
+	left: 56.45%;
+	background: transparent url("../../images/get_it_on_google_play.svg") no-repeat center center;
 	background-size: contain;
+}
+
+.nosvg #u6262
+{
+	background-image: url('../../images/get_it_on_google_play_poster_u6281.png');
 }
 
 #u5439-4
