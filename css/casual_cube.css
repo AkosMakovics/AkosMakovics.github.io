@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000F8;
-	background-color: #7E49C2;
+	color: #0000FD;
+	background-color: #112AEB;
 }
 
 .js body
@@ -16,38 +16,38 @@
 
 #page
 {
+	border-width: 0px;
 	z-index: 1;
-	width: 100%;
+	background-image: none;
 	background-color: transparent;
 	border-color: #000000;
-	border-width: 0px;
+	width: 100%;
 	margin-left: auto;
 	margin-right: auto;
-	background-image: none;
 }
 
 #u457
 {
-	z-index: 10;
-	width: 76px;
-	position: relative;
 	margin-right: -10000px;
+	width: 76px;
+	z-index: 10;
+	position: relative;
 }
 
 #u459
 {
-	z-index: 12;
-	width: 76px;
-	position: relative;
 	margin-right: -10000px;
+	width: 76px;
+	z-index: 12;
+	position: relative;
 }
 
 #u461
 {
-	z-index: 14;
-	width: 76px;
-	position: relative;
 	margin-right: -10000px;
+	width: 76px;
+	z-index: 14;
+	position: relative;
 }
 
 #u515
@@ -59,24 +59,25 @@
 
 #u570
 {
-	z-index: 18;
-	margin-right: -10000px;
-	position: relative;
 	background-color: transparent;
+	margin-right: -10000px;
+	z-index: 18;
+	position: relative;
 }
 
 #u6187
 {
-	z-index: 19;
 	display: block;
+	z-index: 19;
 }
 
 #u6247
 {
+	height: 45px;
 	z-index: 42;
 	margin-right: -10000px;
+	width: 150px;
 	position: relative;
-	height: 45px;
 	background: transparent url("../images/get_it_on_google_play.svg") no-repeat center center;
 	background-size: contain;
 }
@@ -88,13 +89,13 @@
 
 #u607-11
 {
-	text-align: justify;
-	z-index: 20;
-	font-weight: 400;
 	line-height: 23px;
 	min-height: 123px;
-	font-family: imprima, sans-serif;
+	z-index: 20;
 	font-size: 19px;
+	font-weight: 400;
+	font-family: imprima, sans-serif;
+	text-align: justify;
 	background-color: transparent;
 	color: #FFFFFF;
 	position: relative;
@@ -102,19 +103,19 @@
 
 #u5304
 {
+	border-width: 0px;
 	z-index: 41;
 	background-color: transparent;
 	border-color: transparent;
-	border-width: 0px;
 	position: relative;
 }
 
 #u634
 {
-	z-index: 31;
-	margin-right: -10000px;
-	position: relative;
 	background-color: transparent;
+	margin-right: -10000px;
+	z-index: 31;
+	position: relative;
 }
 
 #u642
@@ -135,10 +136,10 @@
 
 #u687
 {
-	z-index: 37;
-	margin-right: -10000px;
-	position: relative;
 	background-color: transparent;
+	margin-right: -10000px;
+	z-index: 37;
+	position: relative;
 }
 
 #u695
@@ -161,15 +162,15 @@
 
 #u2038
 {
-	z-index: 8;
 	width: 100px;
+	z-index: 8;
 	position: relative;
 }
 
 .html
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=0)";
 	background-color: #0CBCF7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=0)";
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=0);
 }
 
@@ -244,7 +245,6 @@ body
 
 	#u6247
 	{
-		width: 38.57%;
 		left: 61.44%;
 	}
 
@@ -400,7 +400,6 @@ body
 	#u6247
 	{
 		margin-top: 2px;
-		width: 20%;
 		left: 56.14%;
 	}
 
@@ -558,7 +557,6 @@ body
 
 	#u6247
 	{
-		width: 150px;
 		left: 57.82%;
 	}
 
