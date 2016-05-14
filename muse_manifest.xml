@@ -1,15 +1,15 @@
-<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1462255397640">
+<manifest alg="2" build="2015.1.2.344" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1463232361015">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_landing-page.css" crc="164859611" ref="casual_cube"/>
     <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="casual_cube"/>
-    <file name="master_footer.css" crc="3893739888" ref="casual_cube"/>
+    <file name="master_footer.css" crc="4261186118" ref="casual_cube"/>
     <file name="nomq_preview_master_footer.css" crc="321525473" ref="casual_cube"/>
-    <file name="master_master.css" crc="3922407638" ref="index"/>
+    <file name="master_master.css" crc="4120540077" ref="index"/>
     <file name="nomq_preview_master_master.css" crc="321525473" ref="index"/>
-    <file name="casual_cube.css" crc="4245760747" ref="casual_cube"/>
+    <file name="casual_cube.css" crc="535728818" ref="casual_cube"/>
     <file name="nomq_casual_cube.css" crc="3787247242" ref="casual_cube"/>
-    <file name="index.css" crc="4221169586" ref="index"/>
+    <file name="index.css" crc="4279691845" ref="index"/>
     <file name="nomq_index.css" crc="4120740323" ref="index"/>
   </folder>
   <folder name="assets">
@@ -49,7 +49,7 @@
     <file name="blank.gif" crc="4208392903" ref="index:casual_cube"/>
     <file name="casual_cube_image3.png" crc="300720544" seo="true" ref="casual_cube"/>
     <file name="app-store-badge.svg" crc="205710994" ref="phone>index:phone>casual_cube:index:casual_cube"/>
-    <file name="app store badge_poster_.png" crc="4076765959" ref="phone>index:casual_cube"/>
+    <file name="app store badge_poster_.png" crc="4048965831" ref="phone>index"/>
     <file name="get_it_on_google_play.svg" crc="4113458535" ref="phone>index:phone>casual_cube:index:casual_cube"/>
     <file name="get_it_on_google_play_poster_u6281.png" crc="3860599374" ref="phone>index:phone>casual_cube:index:casual_cube"/>
   </folder>
@@ -67,18 +67,18 @@
     <folder name="css">
       <file name="master_footer.css" crc="4286942893" ref="phone>casual_cube"/>
       <file name="master_landing-page.css" crc="4277409588" ref="phone>casual_cube"/>
-      <file name="master_master.css" crc="277175830" ref="phone>index"/>
+      <file name="master_master.css" crc="259042912" ref="phone>index"/>
       <file name="nomq_preview_master_master.css" crc="321525473" ref="phone>index"/>
       <file name="casual_cube.css" crc="4285169185" ref="phone>casual_cube"/>
-      <file name="index.css" crc="4040749464" ref="phone>index"/>
+      <file name="index.css" crc="4153497886" ref="phone>index"/>
       <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
       <file name="nomq_preview_master_footer.css" crc="321525473" ref="phone>casual_cube"/>
       <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="phone>casual_cube"/>
       <file name="nomq_casual_cube.css" crc="321525473" ref="phone>casual_cube"/>
     </folder>
-    <file name="index.html" crc="440006977" seo="true" mt="1462210482278" redirect="true"/>
+    <file name="index.html" crc="3957812785" seo="true" mt="1463232339131" redirect="true"/>
     <file name="casual_cube.html" crc="3908141159" seo="true" mt="1462210505927" redirect="true"/>
   </folder>
-  <file name="index.html" crc="446027523" seo="true" mt="1462210554062" redirect="true"/>
-  <file name="casual_cube.html" crc="530491607" seo="true" mt="1462255360693" redirect="true"/>
+  <file name="index.html" crc="3793042024" seo="true" mt="1463232347873" redirect="true"/>
+  <file name="casual_cube.html" crc="912144" seo="true" mt="1463232244410" redirect="true"/>
 </manifest>
