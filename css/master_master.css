@@ -5,12 +5,12 @@
 
 #u198-4
 {
-	font-size: 16px;
-	background-color: transparent;
-	font-weight: 400;
+	line-height: 19px;
 	font-family: imprima, sans-serif;
 	text-align: center;
-	line-height: 19px;
+	font-size: 16px;
+	font-weight: 400;
+	background-color: transparent;
 	color: #FFFFFF;
 }
 
