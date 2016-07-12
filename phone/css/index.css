@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #0000F7;
-	background-color: #91591E;
+	color: #0000E3;
+	background-color: #2C1600;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 666px;
+	min-height: 899px;
 	background: #0EBEF7 url("../../images/u5385-grad.png") repeat-x left top;
 	background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 	background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
@@ -24,6 +24,61 @@
 	max-width: 380px;
 }
 
+#u7876-4
+{
+	z-index: 25;
+	min-height: 43px;
+	background-color: transparent;
+	line-height: 43px;
+	color: #FFFFFF;
+	font-size: 36px;
+	text-align: center;
+	font-family: imprima, sans-serif;
+	font-weight: 400;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 211px;
+	width: 82.64%;
+	margin-left: 8.69%;
+	left: 0px;
+}
+
+#u7869
+{
+	z-index: 23;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 254px;
+	width: 82.37%;
+	left: 8.69%;
+}
+
+#pu7879-4
+{
+	margin-right: -10000px;
+	margin-top: 447px;
+	width: 83.95%;
+	margin-left: 8.03%;
+}
+
+#u7879-4
+{
+	z-index: 29;
+	min-height: 43px;
+	background-color: transparent;
+	line-height: 26px;
+	color: #FFFFFF;
+	font-size: 22px;
+	text-align: center;
+	font-family: imprima, sans-serif;
+	font-weight: 400;
+	position: relative;
+	width: 98.44%;
+	margin-left: 0.79%;
+	left: 0.49999999999998934px;
+}
+
 #u5613-4
 {
 	z-index: 16;
@@ -31,16 +86,15 @@
 	background-color: transparent;
 	line-height: 43px;
 	color: #FFFFFF;
-	text-align: center;
 	font-size: 36px;
+	text-align: center;
 	font-family: imprima, sans-serif;
 	font-weight: 400;
+	margin-top: 9px;
 	position: relative;
-	margin-right: -10000px;
-	margin-top: 230px;
-	width: 82.64%;
-	margin-left: 8.69%;
-	left: 5px;
+	width: 98.44%;
+	margin-left: 0.79%;
+	left: 5.499999999999989px;
 }
 
 #pu5437
@@ -96,12 +150,12 @@
 {
 	z-index: 14;
 	background-color: transparent;
-	margin-top: 97px;
+	margin-top: 366px;
 	position: relative;
 	width: 100%;
 }
 
-#u5611_img
+#u7869_img,#u5611_img
 {
 	width: 100%;
 }
@@ -176,7 +230,7 @@ body
 
 .verticalspacer
 {
-	min-height: 85px;
+	min-height: 49px;
 }
 
 

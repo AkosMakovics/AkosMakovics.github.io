@@ -10,7 +10,7 @@
 
 	#page
 	{
-		min-height: 1149.6853131749458px;
+		min-height: 1458.6853131749458px;
 		background-image: url("../images/u82-grad.png");
 		background: -webkit-gradient(linear, center top, center bottom, from(#0CBCF7),color-stop(100%, #0EBEF7));
 		background: -webkit-linear-gradient(top,#0CBCF7 ,#0EBEF7 5000px);
@@ -29,6 +29,7 @@
 	#pu209
 	{
 		margin-top: 17px;
+		width: 100%;
 	}
 
 	#u209
@@ -46,24 +47,40 @@
 		left: 59.9%;
 	}
 
-	#u309-4
+	#u7683-4-bw
+	{
+		z-index: 25;
+		min-height: 62px;
+		margin-top: 104px;
+	}
+
+	#u7692-4-bw
+	{
+		z-index: 29;
+		min-height: 62px;
+		margin-top: -4px;
+		margin-bottom: -4px;
+	}
+
+	#u7683-4,#u7692-4,#u309-4
 	{
 		min-height: 62px;
 	}
 
 	#u309-4-bw
 	{
+		z-index: 16;
 		min-height: 62px;
-		margin-top: 94px;
+		margin-top: 64px;
 	}
 
-	#u299
+	#u7669,#u299
 	{
 		width: 57.3%;
 		margin-left: 21.36%;
 	}
 
-	#u299_img
+	#u7669_img,#u299_img
 	{
 		width: 100%;
 	}
@@ -71,6 +88,7 @@
 	#pu352
 	{
 		margin-top: 6px;
+		width: 100%;
 	}
 
 	#u352
@@ -85,7 +103,7 @@
 
 	#u198-4
 	{
-		margin-top: 277px;
+		margin-top: 52px;
 		width: 48.23%;
 		margin-left: 25.84%;
 	}
