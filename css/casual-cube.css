@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000EB;
-	background-color: #FCE8F8;
+	color: #0000F3;
+	background-color: #321C30;
 }
 
 .js body
@@ -16,13 +16,13 @@
 
 #page
 {
-	margin-left: auto;
 	background-color: transparent;
-	z-index: 1;
-	margin-right: auto;
-	border-color: #000000;
-	width: 100%;
 	border-width: 0px;
+	border-color: #000000;
+	z-index: 1;
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
 	background-image: none;
 }
 
@@ -73,11 +73,11 @@
 
 #u6247
 {
+	height: 45px;
 	z-index: 42;
-	margin-right: -10000px;
 	position: relative;
 	width: 150px;
-	height: 45px;
+	margin-right: -10000px;
 	background: transparent url("../images/get_it_on_google_play.svg") no-repeat center center;
 	background-size: contain;
 }
@@ -89,25 +89,25 @@
 
 #u607-11
 {
-	font-family: imprima, sans-serif;
-	min-height: 123px;
-	z-index: 20;
-	position: relative;
 	color: #FFFFFF;
-	font-weight: 400;
-	text-align: justify;
-	background-color: transparent;
-	font-size: 19px;
 	line-height: 23px;
+	z-index: 20;
+	font-family: imprima, sans-serif;
+	position: relative;
+	text-align: justify;
+	font-size: 19px;
+	background-color: transparent;
+	font-weight: 400;
+	min-height: 123px;
 }
 
 #u5304
 {
 	background-color: transparent;
-	z-index: 41;
-	border-color: transparent;
-	position: relative;
 	border-width: 0px;
+	z-index: 41;
+	position: relative;
+	border-color: transparent;
 }
 
 #u634
@@ -120,18 +120,18 @@
 
 #u642
 {
-	z-index: 33;
-	margin-right: -10000px;
-	position: relative;
 	background-color: transparent;
+	z-index: 33;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u649
 {
-	z-index: 35;
-	margin-right: -10000px;
-	position: relative;
 	background-color: transparent;
+	z-index: 35;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #u687
@@ -144,10 +144,10 @@
 
 #u695
 {
-	z-index: 39;
-	margin-right: -10000px;
-	position: relative;
 	background-color: transparent;
+	z-index: 39;
+	position: relative;
+	margin-right: -10000px;
 }
 
 #page_position_content,#u634_img,#u642_img,#u649_img,#u687_img,#u695_img
@@ -169,9 +169,9 @@
 
 .html
 {
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=0)";
 	background-color: #0CBCF7;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=0);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=0)";
 }
 
 body
