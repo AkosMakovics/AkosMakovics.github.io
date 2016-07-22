@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000E4;
-	background-color: #5DDAAF;
+	color: #000014;
+	background-color: #9BDC45;
 }
 
 #muse_css_mq
@@ -116,8 +116,8 @@
 	z-index: 20;
 	min-height: 123px;
 	background-color: transparent;
-	color: #FFFFFF;
 	line-height: 23px;
+	color: #FFFFFF;
 	font-size: 19px;
 	text-align: justify;
 	font-family: imprima, sans-serif;
@@ -242,7 +242,4 @@ body
 	min-width: 320px;
 	padding-bottom: 82px;
 }
-
-
-
 

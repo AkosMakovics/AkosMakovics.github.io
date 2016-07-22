@@ -1,7 +1,7 @@
 .version.bouncy_cubes /* version checker */
 {
-	color: #000016;
-	background-color: #76C930;
+	color: #0000EF;
+	background-color: #E84279;
 }
 
 #muse_css_mq
@@ -93,8 +93,8 @@
 	min-height: 88px;
 	background-color: transparent;
 	color: #FFFFFF;
-	line-height: 24px;
 	font-size: 20px;
+	line-height: 24px;
 	font-family: imprima, sans-serif;
 	font-weight: 400;
 	font-style: normal;

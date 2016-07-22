@@ -1,7 +1,7 @@
 .version.casual_cube /* version checker */
 {
-	color: #0000F3;
-	background-color: #321C30;
+	color: #0000FE;
+	background-color: #C66052;
 }
 
 .js body
@@ -16,36 +16,36 @@
 
 #page
 {
-	background-color: transparent;
-	border-width: 0px;
-	border-color: #000000;
-	z-index: 1;
-	width: 100%;
 	margin-left: auto;
-	margin-right: auto;
 	background-image: none;
+	width: 100%;
+	border-color: #000000;
+	border-width: 0px;
+	margin-right: auto;
+	z-index: 1;
+	background-color: transparent;
 }
 
 #u457
 {
-	width: 76px;
 	z-index: 10;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u459
 {
-	width: 76px;
 	z-index: 12;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u461
 {
-	width: 76px;
 	z-index: 14;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -53,31 +53,31 @@
 #u515
 {
 	background-color: transparent;
-	z-index: 16;
 	position: relative;
+	z-index: 16;
 }
 
 #u570
 {
-	background-color: transparent;
 	z-index: 18;
 	margin-right: -10000px;
+	background-color: transparent;
 	position: relative;
 }
 
 #u6187
 {
-	display: block;
 	z-index: 19;
+	display: block;
 }
 
 #u6247
 {
-	height: 45px;
 	z-index: 42;
 	position: relative;
 	width: 150px;
 	margin-right: -10000px;
+	height: 45px;
 	background: transparent url("../images/get_it_on_google_play.svg") no-repeat center center;
 	background-size: contain;
 }
@@ -90,64 +90,64 @@
 #u607-11
 {
 	color: #FFFFFF;
-	line-height: 23px;
-	z-index: 20;
-	font-family: imprima, sans-serif;
-	position: relative;
-	text-align: justify;
-	font-size: 19px;
-	background-color: transparent;
-	font-weight: 400;
 	min-height: 123px;
+	background-color: transparent;
+	position: relative;
+	font-weight: 400;
+	line-height: 23px;
+	font-family: imprima, sans-serif;
+	text-align: justify;
+	z-index: 20;
+	font-size: 19px;
 }
 
 #u5304
 {
 	background-color: transparent;
+	border-color: transparent;
 	border-width: 0px;
 	z-index: 41;
 	position: relative;
-	border-color: transparent;
 }
 
 #u634
 {
-	background-color: transparent;
 	z-index: 31;
 	margin-right: -10000px;
+	background-color: transparent;
 	position: relative;
 }
 
 #u642
 {
-	background-color: transparent;
-	z-index: 33;
-	position: relative;
 	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
+	z-index: 33;
 }
 
 #u649
 {
-	background-color: transparent;
-	z-index: 35;
-	position: relative;
 	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
+	z-index: 35;
 }
 
 #u687
 {
-	background-color: transparent;
 	z-index: 37;
 	margin-right: -10000px;
+	background-color: transparent;
 	position: relative;
 }
 
 #u695
 {
-	background-color: transparent;
-	z-index: 39;
-	position: relative;
 	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
+	z-index: 39;
 }
 
 #page_position_content,#u634_img,#u642_img,#u649_img,#u687_img,#u695_img
@@ -162,16 +162,16 @@
 
 #u2038
 {
-	width: 100px;
 	z-index: 8;
+	width: 100px;
 	position: relative;
 }
 
 .html
 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=0)";
-	background-color: #0CBCF7;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=0);
+	background-color: #0CBCF7;
 }
 
 body

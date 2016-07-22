@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000018;
-	background-color: #965A79;
+	color: #000011;
+	background-color: #5970DE;
 }
 
 .js body
@@ -16,51 +16,51 @@
 
 #page
 {
-	background-repeat: repeat-x;
 	margin-left: auto;
-	margin-right: auto;
-	z-index: 1;
-	background-position: left top;
 	background-color: #0EBEF7;
-	border-color: #000000;
-	width: 100%;
 	border-width: 0px;
+	margin-right: auto;
+	width: 100%;
+	background-position: left top;
+	border-color: #000000;
+	background-repeat: repeat-x;
+	z-index: 1;
 }
 
 #u7683-4
 {
-	font-size: 42px;
-	color: #FFFFFF;
-	background-color: transparent;
-	z-index: 25;
-	font-family: imprima, sans-serif;
-	font-weight: 400;
 	text-align: center;
+	color: #FFFFFF;
+	z-index: 25;
+	background-color: transparent;
+	font-weight: 400;
 	line-height: 50px;
+	font-family: imprima, sans-serif;
+	font-size: 42px;
 }
 
 #u7692-4
 {
 	color: #FFFFFF;
-	line-height: 35px;
-	z-index: 29;
-	font-family: imprima, sans-serif;
-	text-align: center;
-	font-size: 29px;
 	background-color: transparent;
+	text-align: center;
+	line-height: 35px;
+	font-family: imprima, sans-serif;
 	font-weight: 400;
+	z-index: 29;
+	font-size: 29px;
 }
 
 #u309-4
 {
 	color: #FFFFFF;
-	line-height: 50px;
-	z-index: 16;
-	font-family: imprima, sans-serif;
-	text-align: center;
-	font-size: 42px;
 	background-color: transparent;
+	text-align: center;
+	line-height: 50px;
+	font-family: imprima, sans-serif;
 	font-weight: 400;
+	z-index: 16;
+	font-size: 42px;
 }
 
 #u181
@@ -71,63 +71,63 @@
 
 #u209
 {
-	width: 76px;
 	z-index: 8;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u219
 {
-	width: 76px;
 	z-index: 10;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u229
 {
-	width: 76px;
 	z-index: 12;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u7669
 {
-	background-color: transparent;
 	z-index: 23;
+	background-color: transparent;
 	position: relative;
 }
 
 #u299
 {
-	background-color: transparent;
 	z-index: 14;
+	background-color: transparent;
 	position: relative;
 }
 
 #u352
 {
-	background-color: transparent;
-	z-index: 20;
-	position: relative;
 	width: 150px;
+	background-color: transparent;
+	position: relative;
+	z-index: 20;
 	margin-right: -10000px;
 }
 
 #u6209
 {
-	display: block;
 	z-index: 21;
+	display: block;
 	margin-bottom: 10px;
 }
 
 #u6268
 {
-	z-index: 22;
-	position: relative;
 	width: 150px;
+	position: relative;
+	z-index: 22;
 	margin-right: -10000px;
 	height: 45px;
 	background: transparent url("../images/get_it_on_google_play.svg") no-repeat left top;
@@ -142,15 +142,15 @@
 #u198-4
 {
 	z-index: 4;
-	position: relative;
 	min-height: 50px;
+	position: relative;
 }
 
 .html
 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
-	background-color: #0CBCF7;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=1);
+	background-color: #0CBCF7;
 }
 
 body

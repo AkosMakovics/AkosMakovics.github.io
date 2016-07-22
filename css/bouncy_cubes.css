@@ -1,7 +1,7 @@
 .version.bouncy_cubes /* version checker */
 {
-	color: #0000EA;
-	background-color: #AA1DD0;
+	color: #0000F4;
+	background-color: #A90D90;
 }
 
 .js body
@@ -16,117 +16,117 @@
 
 #page
 {
+	margin-left: auto;
+	z-index: 1;
+	background-image: none;
+	border-color: #000000;
+	margin-right: auto;
+	width: 100%;
 	background-color: transparent;
 	border-width: 0px;
-	border-color: #000000;
-	z-index: 1;
-	width: 100%;
-	margin-left: auto;
-	margin-right: auto;
-	background-image: none;
 }
 
 #u457
 {
-	width: 76px;
 	z-index: 10;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u459
 {
-	width: 76px;
 	z-index: 12;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u461
 {
-	width: 76px;
 	z-index: 14;
+	width: 76px;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u7115
 {
-	background-color: transparent;
-	margin-top: 57px;
 	z-index: 28;
 	width: 100%;
+	background-color: transparent;
+	margin-top: 57px;
 	position: relative;
 }
 
 #u6455
 {
+	width: 150px;
 	background-color: transparent;
 	margin-top: 20px;
-	z-index: 16;
 	position: relative;
-	width: 150px;
+	z-index: 16;
 }
 
 #u6456
 {
-	display: block;
 	z-index: 17;
+	display: block;
 	margin-bottom: 10px;
 }
 
 #u7418-6
 {
 	color: #FFFFFF;
-	line-height: 26px;
+	min-height: 88px;
+	background-color: transparent;
+	font-size: 22px;
+	position: relative;
+	font-weight: 400;
 	z-index: 30;
 	font-family: imprima, sans-serif;
-	position: relative;
-	font-size: 22px;
-	background-color: transparent;
-	font-weight: 400;
-	min-height: 88px;
+	line-height: 26px;
 	font-style: normal;
 }
 
 #u6614
 {
-	background-color: transparent;
 	z-index: 18;
 	margin-right: -10000px;
+	background-color: transparent;
 	position: relative;
 }
 
 #u6616
 {
-	background-color: transparent;
-	z-index: 20;
-	position: relative;
 	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
+	z-index: 20;
 }
 
 #u6618
 {
-	background-color: transparent;
-	z-index: 22;
-	position: relative;
 	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
+	z-index: 22;
 }
 
 #u6620
 {
-	background-color: transparent;
 	z-index: 24;
 	margin-right: -10000px;
+	background-color: transparent;
 	position: relative;
 }
 
 #u6622
 {
-	background-color: transparent;
-	z-index: 26;
-	position: relative;
 	margin-right: -10000px;
+	background-color: transparent;
+	position: relative;
+	z-index: 26;
 }
 
 #u7115_img,#u6614_img,#u6616_img,#u6618_img,#u6620_img,#u6622_img
@@ -141,16 +141,16 @@
 
 #u2038
 {
-	width: 100px;
 	z-index: 8;
+	width: 100px;
 	position: relative;
 }
 
 .html
 {
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF6C4191', endColorstr='#FF6C4191', GradientType=0)";
-	background-color: #6C4191;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF6C4191, endColorstr=#FF6C4191, GradientType=0);
+	background-color: #6C4191;
 }
 
 body
