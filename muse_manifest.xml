@@ -1,16 +1,16 @@
-<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1469192318703">
+<manifest alg="2" build="2015.1.2.344" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1469518798218">
   <folder name="css">
     <file name="site_global.css" crc="131700929"/>
     <file name="master_master.css" crc="67744303" ref="index"/>
     <file name="nomq_preview_master_master.css" crc="321525473" ref="index"/>
     <file name="master_landing-page.css" crc="164859611" ref="bouncy_cubes:casual_cube"/>
     <file name="nomq_preview_master_landing-page.css" crc="321525473" ref="bouncy_cubes:casual_cube"/>
-    <file name="master_footer.css" crc="4024743024" ref="bouncy_cubes:casual_cube"/>
+    <file name="master_footer.css" crc="248732820" ref="bouncy_cubes:casual_cube"/>
     <file name="nomq_preview_master_footer.css" crc="321525473" ref="bouncy_cubes:casual_cube"/>
     <file name="index.css" crc="291074270" ref="index"/>
     <file name="nomq_index.css" crc="4064142595" ref="index"/>
-    <file name="bouncy_cubes.css" crc="4104719760" ref="bouncy_cubes"/>
-    <file name="nomq_bouncy_cubes.css" crc="439167892" ref="bouncy_cubes"/>
+    <file name="bouncy_cubes.css" crc="4130036280" ref="bouncy_cubes"/>
+    <file name="nomq_bouncy_cubes.css" crc="495322324" ref="bouncy_cubes"/>
     <file name="casual_cube.css" crc="4274413650" ref="casual_cube"/>
     <file name="nomq_casual_cube.css" crc="3787247242" ref="casual_cube"/>
   </folder>
@@ -44,7 +44,7 @@
     <file name="facebook.png" crc="295356413" seo="true" ref="phone>index:index:phone>casual_cube:phone>bouncy_cubes:casual_cube:bouncy_cubes"/>
     <file name="banner_casualcubes314x194.png" crc="13730669" seo="true" ref="phone>index"/>
     <file name="app-store-badge.svg" crc="205710994" ref="phone>index:index:phone>casual_cube:phone>bouncy_cubes:casual_cube:bouncy_cubes"/>
-    <file name="app store badge_poster_.png" crc="4048965831" ref="phone>index"/>
+    <file name="app store badge_poster_.png" crc="4179427619" ref="phone>index:phone>bouncy_cubes"/>
     <file name="get_it_on_google_play.svg" crc="4113458535" ref="phone>index:index:phone>casual_cube:casual_cube"/>
     <file name="get_it_on_google_play_poster_u6281.png" crc="3860599374" ref="phone>index:index:phone>casual_cube:casual_cube"/>
     <file name="casual_cube_image3315x366.png" crc="4237663140" seo="true" ref="phone>casual_cube"/>
@@ -91,14 +91,14 @@
       <file name="index.css" crc="3811317248" ref="phone>index"/>
       <file name="nomq_index.css" crc="321525473" ref="phone>index"/>
       <file name="casual_cube.css" crc="345758789" ref="phone>casual_cube"/>
-      <file name="bouncy_cubes.css" crc="4024975993" ref="phone>bouncy_cubes"/>
+      <file name="bouncy_cubes.css" crc="416552786" ref="phone>bouncy_cubes"/>
       <file name="nomq_bouncy_cubes.css" crc="321525473" ref="phone>bouncy_cubes"/>
     </folder>
     <file name="index.html" crc="4221070295" seo="true" mt="1469192281019" redirect="true"/>
     <file name="casual_cube.html" crc="3887407261" seo="true" mt="1469192281029" redirect="true"/>
-    <file name="bouncy_cubes.html" crc="51705882" seo="true" mt="1469192292739" redirect="true"/>
+    <file name="bouncy_cubes.html" crc="241554950" seo="true" mt="1469518784476" redirect="true"/>
   </folder>
   <file name="index.html" crc="3773615523" seo="true" mt="1469192250645" redirect="true"/>
   <file name="casual_cube.html" crc="3819442102" seo="true" mt="1469192281029" redirect="true"/>
-  <file name="bouncy_cubes.html" crc="4109230738" seo="true" mt="1469192292739" redirect="true"/>
+  <file name="bouncy_cubes.html" crc="415248531" seo="true" mt="1469518697633" redirect="true"/>
 </manifest>

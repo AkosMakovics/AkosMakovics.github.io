@@ -1,12 +1,12 @@
 #u2042-6
 {
-	font-weight: 400;
-	color: #FFFFFF;
 	background-color: transparent;
+	color: #FFFFFF;
 	text-align: center;
+	font-size: 19px;
 	line-height: 23px;
 	font-family: imprima, sans-serif;
-	font-size: 19px;
+	font-weight: 400;
 }
 
 #u2038

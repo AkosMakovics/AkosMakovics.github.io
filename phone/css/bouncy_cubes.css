@@ -1,7 +1,7 @@
 .version.bouncy_cubes /* version checker */
 {
-	color: #0000EF;
-	background-color: #E84279;
+	color: #000018;
+	background-color: #D41752;
 }
 
 #muse_css_mq
@@ -12,7 +12,7 @@
 #page
 {
 	z-index: 1;
-	min-height: 997.9629589632827px;
+	min-height: 1274.9629589632827px;
 	background-image: none;
 	border-width: 0px;
 	border-color: #000000;
@@ -29,18 +29,13 @@
 	width: 100%;
 }
 
-#pu5508
-{
-	width: 57.9%;
-	margin-left: 21.06%;
-}
-
 #u5508
 {
 	z-index: 10;
 	width: 45px;
 	position: relative;
 	margin-right: -10000px;
+	left: 21.06%;
 }
 
 #u5510
@@ -49,7 +44,7 @@
 	width: 45px;
 	position: relative;
 	margin-right: -10000px;
-	left: 39.55%;
+	left: 43.95%;
 }
 
 #u5512
@@ -58,7 +53,7 @@
 	width: 45px;
 	position: relative;
 	margin-right: -10000px;
-	left: 79.55%;
+	left: 67.11%;
 }
 
 #u7914
@@ -93,8 +88,8 @@
 	min-height: 88px;
 	background-color: transparent;
 	color: #FFFFFF;
-	font-size: 20px;
 	line-height: 24px;
+	font-size: 20px;
 	font-family: imprima, sans-serif;
 	font-weight: 400;
 	font-style: normal;
@@ -104,11 +99,36 @@
 	margin-left: 6.32%;
 }
 
+#u8024
+{
+	z-index: 36;
+	min-height: 232px;
+	border-width: 0px;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.js body
+{
+	visibility: hidden;
+}
+
+.js body.initialized
+{
+	visibility: visible;
+}
+
+#u8024-bw
+{
+	z-index: 36;
+	min-height: 232px;
+	margin-top: 33px;
+}
+
 #pu7938
 {
-	margin-top: 16px;
-	width: 96.58%;
-	margin-left: 2.64%;
+	margin-top: 24px;
+	width: 100%;
 }
 
 #u7938
@@ -117,7 +137,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 31.61%;
+	width: 30.53%;
+	left: 2.64%;
 }
 
 #u7940
@@ -126,8 +147,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 31.61%;
-	left: 34.06%;
+	width: 30.53%;
+	left: 35.53%;
 }
 
 #u7942
@@ -136,15 +157,14 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 31.61%;
-	left: 68.4%;
+	width: 30.53%;
+	left: 68.69%;
 }
 
 #pu7944
 {
 	margin-top: 10px;
-	width: 64.74%;
-	margin-left: 18.43%;
+	width: 100%;
 }
 
 #u7944
@@ -153,7 +173,8 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 47.16%;
+	width: 30.53%;
+	left: 18.43%;
 }
 
 #u7946
@@ -162,11 +183,11 @@
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	width: 47.16%;
-	left: 52.85%;
+	width: 30.53%;
+	left: 52.64%;
 }
 
-#u7914_img,#u7938_img,#u7940_img,#u7942_img,#u7944_img,#u7946_img
+#pu5508,#u7914_img,#u7938_img,#u7940_img,#u7942_img,#u7944_img,#u7946_img
 {
 	width: 100%;
 }
@@ -175,7 +196,7 @@
 {
 	z-index: 2;
 	min-height: 49px;
-	margin-top: 23px;
+	margin-top: 27px;
 	position: relative;
 	width: 96.58%;
 	margin-left: 3.43%;
