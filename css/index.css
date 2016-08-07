@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000011;
-	background-color: #5970DE;
+	color: #000000;
+	background-color: #F1D860;
 }
 
 .js body
@@ -16,51 +16,51 @@
 
 #page
 {
-	margin-left: auto;
-	background-color: #0EBEF7;
-	border-width: 0px;
-	margin-right: auto;
-	width: 100%;
-	background-position: left top;
-	border-color: #000000;
 	background-repeat: repeat-x;
 	z-index: 1;
+	margin-right: auto;
+	border-width: 0px;
+	border-color: #000000;
+	background-color: #0EBEF7;
+	margin-left: auto;
+	width: 100%;
+	background-position: left top;
 }
 
 #u7683-4
 {
-	text-align: center;
-	color: #FFFFFF;
-	z-index: 25;
-	background-color: transparent;
-	font-weight: 400;
-	line-height: 50px;
-	font-family: imprima, sans-serif;
 	font-size: 42px;
+	color: #FFFFFF;
+	text-align: center;
+	background-color: transparent;
+	font-family: imprima, sans-serif;
+	line-height: 50px;
+	z-index: 25;
+	font-weight: 400;
 }
 
 #u7692-4
 {
 	color: #FFFFFF;
-	background-color: transparent;
 	text-align: center;
-	line-height: 35px;
 	font-family: imprima, sans-serif;
-	font-weight: 400;
 	z-index: 29;
 	font-size: 29px;
+	font-weight: 400;
+	background-color: transparent;
+	line-height: 35px;
 }
 
 #u309-4
 {
 	color: #FFFFFF;
-	background-color: transparent;
 	text-align: center;
-	line-height: 50px;
 	font-family: imprima, sans-serif;
-	font-weight: 400;
 	z-index: 16;
 	font-size: 42px;
+	font-weight: 400;
+	background-color: transparent;
+	line-height: 50px;
 }
 
 #u181
@@ -71,24 +71,24 @@
 
 #u209
 {
-	z-index: 8;
 	width: 76px;
+	z-index: 8;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u219
 {
-	z-index: 10;
 	width: 76px;
+	z-index: 10;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u229
 {
-	z-index: 12;
 	width: 76px;
+	z-index: 12;
 	margin-right: -10000px;
 	position: relative;
 }
@@ -109,24 +109,24 @@
 
 #u352
 {
-	width: 150px;
 	background-color: transparent;
 	position: relative;
+	width: 150px;
 	z-index: 20;
 	margin-right: -10000px;
 }
 
 #u6209
 {
-	z-index: 21;
-	display: block;
 	margin-bottom: 10px;
+	display: block;
+	z-index: 21;
 }
 
 #u6268
 {
-	width: 150px;
 	position: relative;
+	width: 150px;
 	z-index: 22;
 	margin-right: -10000px;
 	height: 45px;
@@ -141,15 +141,15 @@
 
 #u198-4
 {
-	z-index: 4;
-	min-height: 50px;
 	position: relative;
+	min-height: 50px;
+	z-index: 4;
 }
 
 .html
 {
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=1);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
 	background-color: #0CBCF7;
 }
 
