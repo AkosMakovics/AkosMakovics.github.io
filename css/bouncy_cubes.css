@@ -1,7 +1,7 @@
 .version.bouncy_cubes /* version checker */
 {
-	color: #0000F6;
-	background-color: #2B5A38;
+	color: #0000E3;
+	background-color: #78A1DD;
 }
 
 .js body
@@ -16,46 +16,46 @@
 
 #page
 {
-	background-color: transparent;
 	background-image: none;
-	border-width: 0px;
-	margin-right: auto;
-	z-index: 1;
-	border-color: #000000;
 	width: 100%;
+	border-color: #000000;
+	border-width: 0px;
+	background-color: transparent;
 	margin-left: auto;
+	z-index: 1;
+	margin-right: auto;
 }
 
 #u457
 {
-	z-index: 10;
 	width: 76px;
+	z-index: 10;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u459
 {
-	z-index: 12;
 	width: 76px;
+	z-index: 12;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u461
 {
-	z-index: 14;
 	width: 76px;
+	z-index: 14;
 	margin-right: -10000px;
 	position: relative;
 }
 
 #u7115
 {
-	z-index: 28;
-	background-color: transparent;
-	width: 100%;
 	margin-top: 57px;
+	width: 100%;
+	background-color: transparent;
+	z-index: 28;
 	position: relative;
 }
 
@@ -63,79 +63,79 @@
 {
 	background-color: transparent;
 	position: relative;
-	z-index: 16;
-	width: 150px;
 	margin-top: 20px;
+	width: 150px;
+	z-index: 16;
 }
 
 #u6456
 {
-	z-index: 17;
 	display: block;
 	margin-bottom: 10px;
+	z-index: 17;
 }
 
 #u7418-6
 {
-	background-color: transparent;
 	color: #FFFFFF;
-	font-style: normal;
-	position: relative;
 	font-size: 22px;
-	line-height: 26px;
-	min-height: 88px;
+	position: relative;
 	font-weight: 400;
 	z-index: 30;
 	font-family: imprima, sans-serif;
+	line-height: 26px;
+	background-color: transparent;
+	font-style: normal;
+	min-height: 88px;
 }
 
 #u8009
 {
-	background-color: transparent;
 	border-color: transparent;
 	border-width: 0px;
 	position: relative;
+	background-color: transparent;
 	z-index: 36;
 }
 
 #u6614
 {
-	z-index: 18;
 	background-color: transparent;
-	position: relative;
+	z-index: 18;
 	margin-right: -10000px;
+	position: relative;
 }
 
 #u6616
 {
 	background-color: transparent;
 	margin-right: -10000px;
-	z-index: 20;
 	position: relative;
+	z-index: 20;
 }
 
 #u6618
 {
 	background-color: transparent;
 	margin-right: -10000px;
-	z-index: 22;
 	position: relative;
+	z-index: 22;
 }
 
 #u6620
 {
-	z-index: 24;
 	background-color: transparent;
-	position: relative;
+	z-index: 24;
 	margin-right: -10000px;
+	position: relative;
 }
 
 #u6622
 {
 	background-color: transparent;
 	margin-right: -10000px;
-	z-index: 26;
 	position: relative;
+	z-index: 26;
 }
 
 #page_position_content,#u7115_img,#u6614_img,#u6616_img,#u6618_img,#u6620_img,#u6622_img
@@ -150,15 +150,15 @@
 
 #u2038
 {
-	z-index: 8;
 	width: 100px;
+	z-index: 8;
 	position: relative;
 }
 
 .html
 {
-	background-color: #6C4191;
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF6C4191, endColorstr=#FF6C4191, GradientType=0);
+	background-color: #6C4191;
 	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF6C4191', endColorstr='#FF6C4191', GradientType=0)";
 }
 

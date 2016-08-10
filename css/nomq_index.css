@@ -54,15 +54,13 @@
 		margin-top: 104px;
 	}
 
-	#u7692-4-bw
+	#u8035
 	{
-		z-index: 29;
-		min-height: 62px;
-		margin-top: -4px;
-		margin-bottom: -4px;
+		margin-top: 6px;
+		margin-left: 42.5%;
 	}
 
-	#u7683-4,#u7692-4,#u309-4
+	#u7683-4,#u309-4
 	{
 		min-height: 62px;
 	}
@@ -71,7 +69,7 @@
 	{
 		z-index: 16;
 		min-height: 62px;
-		margin-top: 64px;
+		margin-top: 62px;
 	}
 
 	#u7669,#u299

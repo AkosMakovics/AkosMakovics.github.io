@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
 	color: #000018;
-	background-color: #476458;
+	background-color: #8E4CD4;
 }
 
 #muse_css_mq
@@ -29,10 +29,10 @@
 	z-index: 25;
 	min-height: 43px;
 	background-color: transparent;
+	line-height: 43px;
 	color: #FFFFFF;
 	font-size: 36px;
 	text-align: center;
-	line-height: 43px;
 	font-family: imprima, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -54,47 +54,23 @@
 	left: 8.69%;
 }
 
-#pu7879-4
-{
-	margin-right: -10000px;
-	margin-top: 447px;
-	width: 83.95%;
-	margin-left: 8.03%;
-}
-
-#u7879-4
-{
-	z-index: 29;
-	min-height: 43px;
-	background-color: transparent;
-	color: #FFFFFF;
-	font-size: 22px;
-	text-align: center;
-	line-height: 26px;
-	font-family: imprima, sans-serif;
-	font-weight: 400;
-	position: relative;
-	width: 98.44%;
-	margin-left: 0.79%;
-	left: 0.49999999999998934px;
-}
-
 #u5613-4
 {
 	z-index: 16;
 	min-height: 43px;
 	background-color: transparent;
+	line-height: 43px;
 	color: #FFFFFF;
 	font-size: 36px;
 	text-align: center;
-	line-height: 43px;
 	font-family: imprima, sans-serif;
 	font-weight: 400;
-	margin-top: 9px;
 	position: relative;
-	width: 98.44%;
-	margin-left: 0.79%;
-	left: 5.499999999999989px;
+	margin-right: -10000px;
+	margin-top: 499px;
+	width: 82.64%;
+	margin-left: 8.69%;
+	left: 5px;
 }
 
 #pu5437
@@ -146,11 +122,28 @@
 	left: 75%;
 }
 
+#u8089
+{
+	z-index: 29;
+	width: 150px;
+	background-color: transparent;
+	margin-top: 279px;
+	position: relative;
+	margin-left: 26.2%;
+}
+
+#u8090
+{
+	z-index: 30;
+	display: block;
+	margin-bottom: 8px;
+}
+
 #u5611
 {
 	z-index: 14;
 	background-color: transparent;
-	margin-top: 366px;
+	margin-top: 42px;
 	position: relative;
 	width: 100%;
 }

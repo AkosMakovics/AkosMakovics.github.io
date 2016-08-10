@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000000;
-	background-color: #F1D860;
+	color: #0000E4;
+	background-color: #CDCA53;
 }
 
 .js body
@@ -16,51 +16,39 @@
 
 #page
 {
-	background-repeat: repeat-x;
-	z-index: 1;
-	margin-right: auto;
 	border-width: 0px;
-	border-color: #000000;
-	background-color: #0EBEF7;
+	margin-right: auto;
 	margin-left: auto;
-	width: 100%;
+	z-index: 1;
+	background-repeat: repeat-x;
 	background-position: left top;
+	background-color: #0EBEF7;
+	border-color: #000000;
+	width: 100%;
 }
 
 #u7683-4
 {
-	font-size: 42px;
-	color: #FFFFFF;
 	text-align: center;
-	background-color: transparent;
-	font-family: imprima, sans-serif;
 	line-height: 50px;
-	z-index: 25;
-	font-weight: 400;
-}
-
-#u7692-4
-{
 	color: #FFFFFF;
-	text-align: center;
-	font-family: imprima, sans-serif;
-	z-index: 29;
-	font-size: 29px;
-	font-weight: 400;
 	background-color: transparent;
-	line-height: 35px;
+	font-size: 42px;
+	font-weight: 400;
+	z-index: 25;
+	font-family: imprima, sans-serif;
 }
 
 #u309-4
 {
 	color: #FFFFFF;
-	text-align: center;
-	font-family: imprima, sans-serif;
-	z-index: 16;
-	font-size: 42px;
 	font-weight: 400;
-	background-color: transparent;
+	z-index: 16;
+	font-family: imprima, sans-serif;
 	line-height: 50px;
+	background-color: transparent;
+	font-size: 42px;
+	text-align: center;
 }
 
 #u181
@@ -95,41 +83,56 @@
 
 #u7669
 {
+	background-color: transparent;
 	z-index: 23;
+	position: relative;
+}
+
+#u8035
+{
 	background-color: transparent;
 	position: relative;
+	width: 150px;
+	z-index: 29;
+}
+
+#u8036
+{
+	display: block;
+	margin-bottom: 10px;
+	z-index: 30;
 }
 
 #u299
 {
-	z-index: 14;
 	background-color: transparent;
+	z-index: 14;
 	position: relative;
 }
 
 #u352
 {
 	background-color: transparent;
+	margin-right: -10000px;
 	position: relative;
 	width: 150px;
 	z-index: 20;
-	margin-right: -10000px;
 }
 
 #u6209
 {
-	margin-bottom: 10px;
 	display: block;
+	margin-bottom: 10px;
 	z-index: 21;
 }
 
 #u6268
 {
+	margin-right: -10000px;
+	height: 45px;
 	position: relative;
 	width: 150px;
 	z-index: 22;
-	margin-right: -10000px;
-	height: 45px;
 	background: transparent url("../images/get_it_on_google_play.svg") no-repeat left top;
 	background-size: contain;
 }
@@ -141,16 +144,16 @@
 
 #u198-4
 {
-	position: relative;
 	min-height: 50px;
+	position: relative;
 	z-index: 4;
 }
 
 .html
 {
 	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF0CBCF7, endColorstr=#FF0EBEF7, GradientType=1);
-	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
 	background-color: #0CBCF7;
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF0CBCF7', endColorstr='#FF0EBEF7', GradientType=1)";
 }
 
 body
@@ -216,15 +219,13 @@ body
 		margin-top: 104px;
 	}
 
-	#u7692-4-bw
+	#u8035
 	{
-		z-index: 29;
-		min-height: 62px;
-		margin-top: -4px;
-		margin-bottom: -4px;
+		margin-top: 6px;
+		margin-left: 42.5%;
 	}
 
-	#u7683-4,#u7692-4,#u309-4
+	#u7683-4,#u309-4
 	{
 		min-height: 62px;
 	}
@@ -233,7 +234,7 @@ body
 	{
 		z-index: 16;
 		min-height: 62px;
-		margin-top: 64px;
+		margin-top: 62px;
 	}
 
 	#u7669,#u299
@@ -343,15 +344,13 @@ body
 		left: -275px;
 	}
 
-	#u7692-4-bw
+	#u8035
 	{
-		z-index: 29;
-		min-height: 62px;
-		margin-top: -4px;
-		margin-bottom: -4px;
+		margin-top: 12px;
+		margin-left: 40%;
 	}
 
-	#u7683-4,#u7692-4,#u309-4
+	#u7683-4,#u309-4
 	{
 		min-height: 62px;
 	}
@@ -360,7 +359,7 @@ body
 	{
 		z-index: 16;
 		min-height: 62px;
-		margin-top: 69px;
+		margin-top: 61px;
 	}
 
 	#u299
@@ -441,21 +440,11 @@ body
 		left: -320px;
 	}
 
-	#u7692-4
-	{
-		width: 640px;
-		min-height: 50px;
-		margin-top: 294px;
-		position: relative;
-		margin-left: 50%;
-		left: -320px;
-	}
-
 	#u309-4
 	{
 		width: 640px;
 		min-height: 50px;
-		margin-top: 42px;
+		margin-top: 386px;
 		position: relative;
 		margin-left: 50%;
 		left: -320px;
@@ -499,9 +488,15 @@ body
 		width: 100%;
 	}
 
+	#u8035
+	{
+		margin-top: 12px;
+		margin-left: 34.11%;
+	}
+
 	#u299
 	{
-		margin-top: 142px;
+		margin-top: 76px;
 		width: 100%;
 	}
 
