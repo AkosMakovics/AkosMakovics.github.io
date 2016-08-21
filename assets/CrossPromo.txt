@@ -1,2 +1,2 @@
-gameID1||imageLink1||iOSLink1||AndroidLink1
-gameID2||imageLink2||iOSLink2||AndroidLink2
+gameID1||http://akos-makovics.com/images/banner_bouncy_cubes.png||iOSLink1||AndroidLink1
+gameID2||http://akos-makovics.com/images/banner_casualcubes.png||iOSLink2||AndroidLink2
