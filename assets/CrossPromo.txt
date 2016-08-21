@@ -1,4 +1,2 @@
-This is a reading test
-Test123
-Test end
-ASDD
+gameID1||imageLink1||iOSLink1||AndroidLink1
+gameID2||imageLink2||iOSLink2||AndroidLink2
