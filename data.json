@@ -1,0 +1,40 @@
+{
+  "Smartphones" : {
+    "keywords": "phone,smartphone,phones,smartphones",
+    "products" : {
+      "0" : {
+          "brand" : "Apple",
+          "name" : "iPhone",
+          "additionalKeywords" : "",
+          "description" : "An apple iPhone",
+          "price" : "99"
+      },
+      "1" : {
+          "brand" : "Samsung",
+          "name" : "Galaxy 7",
+          "additionalKeywords" : "galaxy7",
+          "description" : "A Samsung Galaxy 7",
+          "price" : "99"
+      }
+    }
+  },
+  "Tablets" : {
+    "keywords": "tablet,tabletpc,tablet pc",
+    "products" : {
+      "0" : {
+        "brand" : "Apple",
+        "name" : "iPad",
+        "additionalKeywords" : "",
+        "description" : "An apple iPad",
+        "price" : "99"
+      },
+        "1" : {
+            "brand" : "Samsung",
+            "name" : "Galaxy Pad",
+            "additionalKeywords" : "galaxypad",
+            "description" : "A Samsung Galaxy Pad",
+            "price" : "99"
+        }
+    }
+  }
+}
