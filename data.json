@@ -1,5 +1,5 @@
 {
-  "categories" : "Smartphones,Tablets",
+  "categories" : "Smartphones",
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
     "fields" : "brand, name, description, price, memory, core",
@@ -9,16 +9,16 @@
           "brand" : "Apple",
           "name" : "iPhone",
           "description" : "An apple iPhone",
-          "price" : "99, USD",
-          "memory" : "1, GB",
+          "price" : "99/ /USD",
+          "memory" : "1/memory,ram/GB",
           "core" : "4"
       },
       "1" : {
           "brand" : "Samsung",
-          "name" : "Galaxy 7, galaxy7",
+          "name" : "Galaxy 7/galaxy7/",
           "description" : "A Samsung Galaxy 7",
-          "price" : "99, USD",
-          "memory" : "2, GB",
+          "price" : "99/ /USD",
+          "memory" : "2/memory,ram/GB",
           "core" : "4"
       }
     }
