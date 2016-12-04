@@ -4,11 +4,11 @@
     "properties" : {
         "0" : {
           "name" : "Memory",
-          "keywords:" : "ram,memory"
+          "keywords" : "ram,memory"
         },
         "1" : {
           "name" : "CPU cores",
-          "keywords:" : "core,cores"
+          "keywords" : "core,cores"
         }
     },
     "products" : {
