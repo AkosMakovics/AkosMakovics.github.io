@@ -1,43 +1,54 @@
 {
-  "categories" : "Smartphones,Tablets",
+  "properties" : {
+        "0" : {
+          "name" : "Memory",
+          "keyword" : "ram,memory"
+        },
+        "1" : {
+          "name" : "CPU cores",
+          "keyword" : "core,cores"
+        }
+    },
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
-    "fields" : "brand, name, description, price, memory, core",
-
+    
     "products" : {
       "0" : {
           "brand" : "Apple",
           "name" : "iPhone",
+          "additionalKeywords" : "",
           "description" : "An apple iPhone",
-          "price" : "99, USD",
-          "memory" : "1, GB",
+          "price" : "99",
+          "memory" : "1",
           "core" : "4"
       },
       "1" : {
           "brand" : "Samsung",
-          "name" : "Galaxy 7, galaxy7",
+          "name" : "Galaxy 7",
+          "additionalKeywords" : "galaxy7",
           "description" : "A Samsung Galaxy 7",
-          "price" : "99, USD",
-          "memory" : "2, GB",
+          "price" : "99",
+          "memory" : "2",
           "core" : "4"
       }
     }
   },
   "Tablets" : {
     "keywords": "tablet,tabletpc,tablet pc",
-    "fields" : "brand, name, description, price, memory, core",
     "products" : {
       "0" : {
         "brand" : "Apple",
         "name" : "iPad",
-        "description" : "An Apple iPad",
+        "additionalKeywords" : "",
+        "description" : "An apple iPad",
         "price" : "99",
         "memory" : "2",
         "core" : "4"
       },
       "1" : {
         "brand" : "Samsung",
-        "name" : "Galaxy Pad, galaxypad",
+        "name" : "Galaxy Pad",
+        "additionalKeywords" : "galaxypad",
         "description" : "A Samsung Galaxy Pad",
         "price" : "99",
         "memory" : "2",
