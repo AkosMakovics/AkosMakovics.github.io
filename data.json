@@ -1,15 +1,15 @@
 {
-  "categories" : "Smartphones",
+  "categories" : "Smartphones,Tablets",
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
-    "fields" : "brand, name, description, price, memory, core",
+    "fields" : "memory,core",
 
     "products" : {
       "0" : {
           "brand" : "Apple",
           "name" : "iPhone",
           "description" : "An apple iPhone",
-          "price" : "99/ /USD",
+          "price" : "99//USD",
           "memory" : "1/memory,ram/GB",
           "core" : "4"
       },
@@ -17,7 +17,7 @@
           "brand" : "Samsung",
           "name" : "Galaxy 7/galaxy7/",
           "description" : "A Samsung Galaxy 7",
-          "price" : "99/ /USD",
+          "price" : "99//USD",
           "memory" : "2/memory,ram/GB",
           "core" : "4"
       }
@@ -25,22 +25,22 @@
   },
   "Tablets" : {
     "keywords": "tablet,tabletpc,tablet pc",
-    "fields" : "brand, name, description, price, memory, core",
+    "fields" : " memory,core",
     "products" : {
       "0" : {
         "brand" : "Apple",
         "name" : "iPad",
         "description" : "An Apple iPad",
-        "price" : "99",
-        "memory" : "2",
+        "price" : "99//USD",
+        "memory" : "2/memory,ram/GB",
         "core" : "4"
       },
       "1" : {
         "brand" : "Samsung",
         "name" : "Galaxy Pad, galaxypad",
         "description" : "A Samsung Galaxy Pad",
-        "price" : "99",
-        "memory" : "2",
+        "price" : "99//USD",
+        "memory" : "2/memory,ram/GB",
         "core" : "4"
       }
     }
