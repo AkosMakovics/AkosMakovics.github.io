@@ -34,21 +34,35 @@
   },
   "Tablets" : {
     "keywords": "tablet,tabletpc,tablet pc",
+    "properties" : {
+        "0" : {
+          "name" : "Memory",
+          "keyword" : "ram,memory"
+        },
+        "1" : {
+          "name" : "CPU cores",
+          "keyword" : "core,cores"
+        }
+    },
     "products" : {
       "0" : {
         "brand" : "Apple",
         "name" : "iPad",
         "additionalKeywords" : "",
         "description" : "An apple iPad",
-        "price" : "99"
+        "price" : "99",
+        "memory" : "2",
+        "core" : "4"
       },
-        "1" : {
-            "brand" : "Samsung",
-            "name" : "Galaxy Pad",
-            "additionalKeywords" : "galaxypad",
-            "description" : "A Samsung Galaxy Pad",
-            "price" : "99"
-        }
+      "1" : {
+        "brand" : "Samsung",
+        "name" : "Galaxy Pad",
+        "additionalKeywords" : "galaxypad",
+        "description" : "A Samsung Galaxy Pad",
+        "price" : "99",
+        "memory" : "2",
+        "core" : "4"
+      }
     }
   }
 }
