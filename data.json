@@ -17,14 +17,18 @@
           "name" : "iPhone",
           "additionalKeywords" : "",
           "description" : "An apple iPhone",
-          "price" : "99"
+          "price" : "99",
+          "memory" : "1",
+          "core" : "4"
       },
       "1" : {
           "brand" : "Samsung",
           "name" : "Galaxy 7",
           "additionalKeywords" : "galaxy7",
           "description" : "A Samsung Galaxy 7",
-          "price" : "99"
+          "price" : "99",
+          "memory" : "2",
+          "core" : "4"
       }
     }
   },
