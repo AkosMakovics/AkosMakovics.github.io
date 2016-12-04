@@ -1,6 +1,16 @@
 {
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
+    "properties" : {
+        "0" : {
+          "name" : "Memory",
+          "keywords:" : "ram,memory"
+        },
+        "1" : {
+          "name" : "CPU cores",
+          "keywords:" : "core,cores"
+        }
+    },
     "products" : {
       "0" : {
           "brand" : "Apple",
