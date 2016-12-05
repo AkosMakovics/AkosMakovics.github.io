@@ -11,7 +11,7 @@
           "description" : "An apple iPhone",
           "price" : "99//USD",
           "memory" : "1/memory,ram/GB",
-          "core" : "4"
+          "core" : "4/core,cores/"
       },
       "1" : {
           "brand" : "Samsung",
@@ -19,13 +19,13 @@
           "description" : "A Samsung Galaxy 7",
           "price" : "99//USD",
           "memory" : "2/memory,ram/GB",
-          "core" : "4"
+          "core" : "4/core,cores/"
       }
     }
   },
   "Tablets" : {
     "keywords": "tablet,tabletpc,tablet pc",
-    "fields" : " memory,core",
+    "fields" : "memory,core",
     "products" : {
       "0" : {
         "brand" : "Apple",
@@ -33,7 +33,7 @@
         "description" : "An Apple iPad",
         "price" : "99//USD",
         "memory" : "2/memory,ram/GB",
-        "core" : "4"
+        "core" : "4/core,cores/"
       },
       "1" : {
         "brand" : "Samsung",
@@ -41,7 +41,7 @@
         "description" : "A Samsung Galaxy Pad",
         "price" : "99//USD",
         "memory" : "2/memory,ram/GB",
-        "core" : "4"
+        "core" : "4/core,cores/"
       }
     }
   }
