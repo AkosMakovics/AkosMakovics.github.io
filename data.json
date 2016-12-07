@@ -2,7 +2,7 @@
   "categories" : "Smartphones,Tablets",
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
-    "fields" : "memory,core",
+    "fields" : "memory,core,camera",
 
     "products" : {
       "0" : {
@@ -11,7 +11,8 @@
           "description" : "An apple iPhone",
           "price" : "99//USD",
           "memory" : "1/memory,ram/GB",
-          "core" : "4/core,cores/"
+          "core" : "4/core,cores/",
+          "camera" : "15/camera/megapixel"
       },
       "1" : {
           "brand" : "Samsung",
@@ -19,13 +20,14 @@
           "description" : "A Samsung Galaxy 7",
           "price" : "99//USD",
           "memory" : "2/memory,ram/GB",
-          "core" : "4/core,cores/"
+          "core" : "4/core,cores/",
+          "camera" : "12/camera/megapixel"
       }
     }
   },
   "Tablets" : {
     "keywords": "tablet,tabletpc,tablet pc",
-    "fields" : "memory,core",
+    "fields" : "memory,core,camera",
     "products" : {
       "0" : {
         "brand" : "Apple",
@@ -33,7 +35,9 @@
         "description" : "An Apple iPad",
         "price" : "99//USD",
         "memory" : "2/memory,ram/GB",
-        "core" : "4/core,cores/"
+        "core" : "4/core,cores/",
+        "camera" : "12/camera/megapixel"
+        
       },
       "1" : {
         "brand" : "Samsung",
@@ -41,7 +45,8 @@
         "description" : "A Samsung Galaxy Pad",
         "price" : "99//USD",
         "memory" : "2/memory,ram/GB",
-        "core" : "4/core,cores/"
+        "core" : "4/core,cores/",
+        "camera" : "5/camera/megapixel"
       }
     }
   }
