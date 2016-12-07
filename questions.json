@@ -8,7 +8,7 @@
     "replies" : "You are welcome."
   },
   "2" :  {
-    "keywords": "by/see you",
+    "keywords": "by/bye/see you",
     "replies" : "See you later!"
   },
   "3" :  {
@@ -20,7 +20,7 @@
     "replies" : "We sell smartphones, tablets and smart watches."
   },
   "5" :  {
-    "keywords": "ship",
+    "keywords": "ship/shipping",
     "replies" : "You can select different shipping options, with different shipping times and prices on the website."
   }
 }
