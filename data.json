@@ -2,25 +2,61 @@
   "categories" : "Smartphones,Tablets",
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
-    "fields" : "memory,core,camera",
+    "fields" : "cpu,core,memory,storage,camera",
 
     "products" : {
       "0" : {
           "brand" : "Apple",
-          "name" : "iPhone",
-          "description" : "An apple iPhone",
+          "name" : "iPhone 5S/iPhone5S,iPhone/",
+          "description" : "The iPhone 5S is a smartphone designed and marketed by Apple Inc. Part of the iPhone series, the device was unveiled on September 10, 2013, at Apple's Cupertino headquarters.",
           "price" : "99//USD",
+          "cpu" : "Apple A7/cpu,processor/",
+          "cores" : "2/core,cores/",
           "memory" : "1/memory,ram/GB",
-          "core" : "4/core,cores/",
-          "camera" : "15/camera/megapixel"
+          "storage" : "16/storage,space/GB",
+          "camera" : "8/camera/megapixel"
       },
       "1" : {
-          "brand" : "Samsung",
-          "name" : "Galaxy 7/galaxy7/",
-          "description" : "A Samsung Galaxy 7",
+          "brand" : "Apple",
+          "name" : "iPhone 6/iPhone6,iPhone/",
+          "description" : "The iPhone 6 is a smartphone designed and marketed by Apple Inc. The device is part of the iPhone series and were announced on September 9, 2014, and released on September 19, 2014.",
           "price" : "99//USD",
+          "cpu" : "Apple A8/cpu,processor/",
+          "cores" : "2/core,cores/",
+          "memory" : "1/memory,ram/GB",
+          "storage" : "16/storage,space/GB",
+          "camera" : "8/camera/megapixel"
+      },
+      "2" : {
+          "brand" : "Apple",
+          "name" : "iPhone 6S/iPhone6S,iPhone/",
+          "description" : "The iPhone 6S is a smartphone designed and marketed by Apple Inc. The device is part of the iPhone series and were announced on September 9, 2014, and released on September 19, 2014.",
+          "price" : "99//USD",
+          "cpu" : "Apple A9/cpu,processor/",
+          "cores" : "2/core,cores/",
           "memory" : "2/memory,ram/GB",
-          "core" : "4/core,cores/",
+          "storage" : "16/storage,space/GB",
+          "camera" : "12/camera/megapixel"
+      },
+      "3" : {
+          "brand" : "Apple",
+          "name" : "iPhone 7/iPhone7,iPhone/",
+          "description" : "The iPhone 7 is a smartphone designed, developed, and marketed by Apple Inc. It was announced on September 7, 2016, at the Bill Graham Civic Auditorium in San Francisco by Apple CEO Tim Cook, and released on September 16, 2016",
+          "price" : "99//USD",
+          "cpu" : "Apple A10/cpu,processor/",
+          "cores" : "4/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "32/storage,space/GB",
+          "camera" : "12/camera/megapixel"
+      },
+      "4" : {
+          "brand" : "Samsung",
+          "name" : "Galaxy S7/galaxys7/",
+          "description" : "A Samsung Galaxy 7",
+          "cpu" : "Exynos 8 Octa 8890/cpu,processor/",
+          "cores" : "8/core,cores/",
+          "memory" : "4/memory,ram/GB",
+          "storage" : "32/storage,space/GB",
           "camera" : "12/camera/megapixel"
       }
     }
