@@ -2,7 +2,7 @@
   "categories" : "Smartphones,Tablets",
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
-    "fields" : "cpu,core,memory,storage,camera",
+    "fields" : "cpu,cores,memory,storage,camera",
 
     "products" : {
       "0" : {
