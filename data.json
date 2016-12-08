@@ -6,8 +6,8 @@
 
     "products" : {
       "0" : {
-          "brand" : "Apple/iPhone",
-          "name" : "iPhone 5S/iPhone5S/",
+          "brand" : "Apple",
+          "name" : "iPhone 5S/iPhone5S,iPhone/",
           "description" : "The iPhone 5S is a smartphone designed and marketed by Apple Inc. Part of the iPhone series, the device was unveiled on September 10, 2013, at Apple's Cupertino headquarters.",
           "price" : "99//USD",
           "cpu" : "Apple A7/cpu,processor/",
@@ -17,8 +17,8 @@
           "camera" : "8/camera/megapixel"
       },
       "1" : {
-          "brand" : "Apple/iPhone",
-          "name" : "iPhone 6/iPhone6/",
+          "brand" : "Apple",
+          "name" : "iPhone 6/iPhone6,iPhone/",
           "description" : "The iPhone 6 is a smartphone designed and marketed by Apple Inc. The device is part of the iPhone series and were announced on September 9, 2014, and released on September 19, 2014.",
           "price" : "99//USD",
           "cpu" : "Apple A8/cpu,processor/",
@@ -28,8 +28,8 @@
           "camera" : "8/camera/megapixel"
       },
       "2" : {
-          "brand" : "Apple/iPhone",
-          "name" : "iPhone 6S/iPhone6S/",
+          "brand" : "Apple",
+          "name" : "iPhone 6S/iPhone6S,iPhone/",
           "description" : "The iPhone 6S is a smartphone designed and marketed by Apple Inc. The device is part of the iPhone series and were announced on September 9, 2014, and released on September 19, 2014.",
           "price" : "99//USD",
           "cpu" : "Apple A9/cpu,processor/",
@@ -39,8 +39,8 @@
           "camera" : "12/camera/megapixel"
       },
       "3" : {
-          "brand" : "Apple/iPhone",
-          "name" : "iPhone 7/iPhone7/",
+          "brand" : "Apple",
+          "name" : "iPhone 7/iPhone7,iPhone/",
           "description" : "The iPhone 7 is a smartphone designed, developed, and marketed by Apple Inc. It was announced on September 7, 2016, at the Bill Graham Civic Auditorium in San Francisco by Apple CEO Tim Cook, and released on September 16, 2016",
           "price" : "99//USD",
           "cpu" : "Apple A10/cpu,processor/",
@@ -53,6 +53,7 @@
           "brand" : "Samsung",
           "name" : "Galaxy S7/galaxys7/",
           "description" : "A Samsung Galaxy 7",
+          "price" : "99//USD",
           "cpu" : "Exynos 8/cpu,processor/",
           "cores" : "8/core,cores/",
           "memory" : "4/memory,ram/GB",
