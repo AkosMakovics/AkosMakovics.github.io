@@ -52,38 +52,118 @@
       "4" : {
           "brand" : "Samsung",
           "name" : "Galaxy S7/galaxys7/",
-          "description" : "A Samsung Galaxy 7",
+          "description" : "The Samsung Galaxy S7 is an Android smartphone manufactured and marketed by Samsung Electronics.",
           "price" : "99//USD",
           "cpu" : "Exynos 8/cpu,processor/",
           "cores" : "8/core,cores/",
           "memory" : "4/memory,ram/GB",
           "storage" : "32/storage,space/GB",
           "camera" : "12/camera/megapixel"
+      },
+      "5" : {
+          "brand" : "Samsung",
+          "name" : "Galaxy A5/galaxya5/",
+          "description" : "The Samsung Galaxy A5 is an Android smartphone manufactured and marketed by Samsung Electronics.",
+          "price" : "99//USD",
+          "cpu" : "Exynos 7/cpu,processor/",
+          "cores" : "8/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "16/storage,space/GB",
+          "camera" : "13/camera/megapixel"
+      },
+      "6" : {
+          "brand" : "Samsung",
+          "name" : "Galaxy A3/galaxya3/",
+          "description" : "The Samsung Galaxy A3 is an Android smartphone manufactured and marketed by Samsung Electronics.",
+          "price" : "99//USD",
+          "cpu" : "Exynos 7578/cpu,processor/",
+          "cores" : "4/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "16/storage,space/GB",
+          "camera" : "13/camera/megapixel"
+      },
+      "7" : {
+          "brand" : "Huawei",
+          "name" : "Honor 4C/honor4c/",
+          "description" : "The Huawei Honor 4C is an Android smartphone by Huawei. It was released in April 2015.",
+          "price" : "99//USD",
+          "cpu" : "HiSilicon Kirin 620/cpu,processor/",
+          "cores" : "8/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "8/storage,space/GB",
+          "camera" : "13/camera/megapixel"
+      },
+      "8" : {
+          "brand" : "Huawei",
+          "name" : "P9 Lite/p9lite/",
+          "description" : "The Huawei P9 is a high-end Android smartphone produced by Huawei. It was released in April 2016.",
+          "price" : "99//USD",
+          "cpu" : "HiSilicon Kirin 650/cpu,processor/",
+          "cores" : "8/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "16/storage,space/GB",
+          "camera" : "13/camera/megapixel"
       }
     }
   },
   "Tablets" : {
     "keywords": "tablet,tabletpc,tablet pc",
-    "fields" : "memory,core,camera",
+    "fields" : "cpu,cores,memory,storage,camera",
     "products" : {
       "0" : {
-        "brand" : "Apple",
-        "name" : "iPad",
-        "description" : "An Apple iPad",
-        "price" : "99//USD",
-        "memory" : "2/memory,ram/GB",
-        "core" : "4/core,cores/",
-        "camera" : "12/camera/megapixel"
-        
+          "brand" : "Apple",
+          "name" : "iPad Pro/iPadPro,iPad/",
+          "description" : "The iPad Pro is a line of tablet computers designed, developed, and marketed by Apple Inc.",
+          "price" : "99//USD",
+          "cpu" : "Apple A9X/cpu,processor/",
+          "cores" : "4/core,cores/",
+          "memory" : "4/memory,ram/GB",
+          "storage" : "32/storage,space/GB",
+          "camera" : "8/camera/megapixel"
       },
       "1" : {
-        "brand" : "Samsung",
-        "name" : "Galaxy Pad/galaxypad",
-        "description" : "A Samsung Galaxy Pad",
-        "price" : "99//USD",
-        "memory" : "2/memory,ram/GB",
-        "core" : "4/core,cores/",
-        "camera" : "5/camera/megapixel"
+          "brand" : "Apple",
+          "name" : "iPad Air 2/iPad Air2,iPadAir2,iPad/",
+          "description" : "TThe iPad Air 2 is the sixth-generation iPad tablet computer designed, developed, and marketed by Apple Inc.",
+          "price" : "99//USD",
+          "cpu" : "Apple A8X/cpu,processor/",
+          "cores" : "3/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "16/storage,space/GB",
+          "camera" : "8/camera/megapixel"
+      },
+      "2" : {
+          "brand" : "Apple",
+          "name" : "iPad Mini 4/iPad Mini4,iPadMini4,iPad/",
+          "description" : "The iPad Mini 4 is the fourth-generation iPad Mini tablet computer designed, developed and marketed by Apple Inc.",
+          "price" : "99//USD",
+          "cpu" : "Apple A8/cpu,processor/",
+          "cores" : "2/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "16/storage,space/GB",
+          "camera" : "8/camera/megapixel"
+      },
+      "3" : {
+          "brand" : "Samsung",
+          "name" : "T560 Galaxy Tab/T560 GalaxyTab, Galaxy tab/",
+          "description" : "The Samsung Galaxy Tab E 9.6 is a 9.6-inch Android-based tablet computer produced and marketed by Samsung Electronics.",
+          "price" : "99//USD",
+          "cpu" : "Cortex A7/cpu,processor/",
+          "cores" : "4/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "8/storage,space/GB",
+          "camera" : "5/camera/megapixel"
+      },
+      "4" : {
+          "brand" : "Samsung",
+          "name" : "T580 Galaxy Tab/T580 GalaxyTab, Galaxy tab/",
+          "description" : "The Samsung Galaxy Tab E 9.6 is a 9.6-inch Android-based tablet computer produced and marketed by Samsung Electronics.",
+          "price" : "99//USD",
+          "cpu" : "Qualcomm Snapdragon/cpu,processor/",
+          "cores" : "8/core,cores/",
+          "memory" : "2/memory,ram/GB",
+          "storage" : "16/storage,space/GB",
+          "camera" : "8/camera/megapixel"
       }
     }
   }
