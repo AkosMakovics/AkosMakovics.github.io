@@ -7,7 +7,7 @@
     "products" : {
       "0" : {
           "brand" : "Apple",
-          "name" : "iPhone 5S/iPhone5S,iPhone/",
+          "name" : "iPhone 5S/iPhone5S/",
           "description" : "The iPhone 5S is a smartphone designed and marketed by Apple Inc. Part of the iPhone series, the device was unveiled on September 10, 2013, at Apple's Cupertino headquarters.",
           "price" : "99//USD",
           "cpu" : "Apple A7/cpu,processor/",
@@ -18,7 +18,7 @@
       },
       "1" : {
           "brand" : "Apple",
-          "name" : "iPhone 6/iPhone6,iPhone/",
+          "name" : "iPhone 6/iPhone6/",
           "description" : "The iPhone 6 is a smartphone designed and marketed by Apple Inc. The device is part of the iPhone series and were announced on September 9, 2014, and released on September 19, 2014.",
           "price" : "99//USD",
           "cpu" : "Apple A8/cpu,processor/",
@@ -29,7 +29,7 @@
       },
       "2" : {
           "brand" : "Apple",
-          "name" : "iPhone 6S/iPhone6S,iPhone/",
+          "name" : "iPhone 6S/iPhone6S/",
           "description" : "The iPhone 6S is a smartphone designed and marketed by Apple Inc. The device is part of the iPhone series and were announced on September 9, 2014, and released on September 19, 2014.",
           "price" : "99//USD",
           "cpu" : "Apple A9/cpu,processor/",
@@ -40,7 +40,7 @@
       },
       "3" : {
           "brand" : "Apple",
-          "name" : "iPhone 7/iPhone7,iPhone/",
+          "name" : "iPhone 7/iPhone7/",
           "description" : "The iPhone 7 is a smartphone designed, developed, and marketed by Apple Inc. It was announced on September 7, 2016, at the Bill Graham Civic Auditorium in San Francisco by Apple CEO Tim Cook, and released on September 16, 2016",
           "price" : "99//USD",
           "cpu" : "Apple A10/cpu,processor/",
@@ -107,12 +107,12 @@
     }
   },
   "Tablets" : {
-    "keywords": "tablet,tabletpc,tablet pc",
+    "keywords": "tablet,tablets,tabletpc",
     "fields" : "cpu,cores,memory,storage,camera",
     "products" : {
       "0" : {
           "brand" : "Apple",
-          "name" : "iPad Pro/iPadPro,iPad/",
+          "name" : "iPad Pro/iPadPro/",
           "description" : "The iPad Pro is a line of tablet computers designed, developed, and marketed by Apple Inc.",
           "price" : "99//USD",
           "cpu" : "Apple A9X/cpu,processor/",
@@ -123,8 +123,8 @@
       },
       "1" : {
           "brand" : "Apple",
-          "name" : "iPad Air 2/iPad Air2,iPadAir2,iPad/",
-          "description" : "TThe iPad Air 2 is the sixth-generation iPad tablet computer designed, developed, and marketed by Apple Inc.",
+          "name" : "iPad Air 2/iPad Air2,iPadAir2/",
+          "description" : "The iPad Air 2 is the sixth-generation iPad tablet computer designed, developed, and marketed by Apple Inc.",
           "price" : "99//USD",
           "cpu" : "Apple A8X/cpu,processor/",
           "cores" : "3/core,cores/",
@@ -134,7 +134,7 @@
       },
       "2" : {
           "brand" : "Apple",
-          "name" : "iPad Mini 4/iPad Mini4,iPadMini4,iPad/",
+          "name" : "iPad Mini 4/iPad Mini4,iPadMini4/",
           "description" : "The iPad Mini 4 is the fourth-generation iPad Mini tablet computer designed, developed and marketed by Apple Inc.",
           "price" : "99//USD",
           "cpu" : "Apple A8/cpu,processor/",
@@ -164,6 +164,26 @@
           "memory" : "2/memory,ram/GB",
           "storage" : "16/storage,space/GB",
           "camera" : "8/camera/megapixel"
+      }
+    }
+  },
+  "Watches" : {
+    "keywords": "watch,smart watch,watches,smart watches",
+    "fields" : "ready time",
+    "products" : {
+      "0" : {
+          "brand" : "Apple",
+          "name" : "Watch Sport/sport watch,watchsport/",
+          "description" : "Apple Watch is a line of smartwatches, or a touch-screen multi-performance watch, developed by Apple Inc.",
+          "price" : "99//USD",
+          "ready time" : "18/readyTime,time/hours/"
+      },
+      "1" : {
+          "brand" : "Apple",
+          "name" : "Watch//",
+          "description" : "Apple Watch is a line of smartwatches, or a touch-screen multi-performance watch, developed by Apple Inc.",
+          "price" : "99//USD",
+          "ready time" : "18/readyTime,time/hours/"
       }
     }
   }
