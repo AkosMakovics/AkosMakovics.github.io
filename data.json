@@ -1,5 +1,5 @@
 {
-  "categories" : "Smartphones,Tablets",
+  "categories" : "Smartphones,Tablets,Watches",
   "Smartphones" : {
     "keywords": "phone,smartphone,phones,smartphones",
     "fields" : "cpu,cores,memory,storage,camera",
