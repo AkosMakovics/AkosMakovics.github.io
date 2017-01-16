@@ -8,18 +8,18 @@
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://akos-makovics.com/phone/index.html"/>
   </url>
   <url>
-    <loc>http://akos-makovics.com/papery_planes.html</loc>
-    <lastmod>2017-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://akos-makovics.com/phone/papery_planes.html"/>
-  </url>
-  <url>
     <loc>http://akos-makovics.com/bouncy_cubes.html</loc>
     <lastmod>2016-08-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://akos-makovics.com/phone/bouncy_cubes.html"/>
+  </url>
+  <url>
+    <loc>http://akos-makovics.com/papery_planes.html</loc>
+    <lastmod>2017-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://akos-makovics.com/phone/papery_planes.html"/>
   </url>
   <url>
     <loc>http://akos-makovics.com/casual_cube.html</loc>
@@ -149,12 +149,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://akos-makovics.com/images/cc_screen2_thumb.png</loc>
-    <lastmod>2017-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://akos-makovics.com/assets/cc_screen_3.png</loc>
     <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -163,6 +157,12 @@
   <url>
     <loc>http://akos-makovics.com/assets/cc_screen_4.png</loc>
     <lastmod>2016-04-18</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://akos-makovics.com/images/cc_screen4_thumb.png</loc>
+    <lastmod>2017-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -233,12 +233,6 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://akos-makovics.com/images/papery_plane_screen4.jpg</loc>
-    <lastmod>2017-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
     <loc>http://akos-makovics.com/images/banner_papery_planes.png</loc>
     <lastmod>2017-01-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -299,6 +293,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://akos-makovics.com/images/cc_screen2_thumb.png</loc>
+    <lastmod>2017-01-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://akos-makovics.com/assets/cc_screen_1.png</loc>
     <lastmod>2016-04-18</lastmod>
     <changefreq>weekly</changefreq>
@@ -306,12 +306,6 @@
   </url>
   <url>
     <loc>http://akos-makovics.com/images/cc_screen3_thumb.png</loc>
-    <lastmod>2017-01-16</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://akos-makovics.com/images/cc_screen4_thumb.png</loc>
     <lastmod>2017-01-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

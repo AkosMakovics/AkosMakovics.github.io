@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1484558443242">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1484558710924">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_footer.css" crc="4192020419" ref="papery_planes:casual_cube:bouncy_cubes"/>
@@ -70,7 +70,6 @@
     <file name="papery_plane_screen_thumb1.png" crc="4294047372" seo="true" ref="phone>papery_planes:papery_planes"/>
     <file name="papery_plane_screen_thumb2.png" crc="49599671" seo="true" ref="phone>papery_planes:papery_planes"/>
     <file name="papery_plane_screen_thumb3.png" crc="3820189418" seo="true" ref="phone>papery_planes:papery_planes"/>
-    <file name="papery_plane_screen4.jpg" crc="4016829132" seo="true" ref="phone>papery_planes"/>
     <file name="banner_papery_planes.png" crc="53670245" seo="true" ref="index"/>
     <file name="banner_bouncy_cubes.png" crc="159455005" seo="true" ref="index"/>
     <file name="banner_casualcubes.png" crc="4250670463" seo="true" ref="index"/>
@@ -79,7 +78,7 @@
     <file name="header_bouncy_cube.jpg" crc="145229129" seo="true" ref="bouncy_cubes"/>
     <file name="header_bouncy_cube640x360.jpg" crc="493135273" seo="true" ref="bouncy_cubes"/>
     <file name="header_papery_planes_hp.png" crc="73946537" seo="true" ref="papery_planes"/>
-    <file name="papery_plane_screen_thumb4.png" crc="4068456558" seo="true" ref="papery_planes"/>
+    <file name="papery_plane_screen_thumb4.png" crc="4068456558" seo="true" ref="papery_planes:phone>papery_planes"/>
     <file name="header_papery_planes_hp436x316.png" crc="365307437" seo="true" ref="papery_planes"/>
   </folder>
   <folder name="tablet">
@@ -95,22 +94,21 @@
   <folder name="phone">
     <folder name="css">
       <file name="master_footer.css" crc="4037817773" ref="phone>bouncy_cubes:phone>casual_cube:phone>papery_planes"/>
-      <file name="nomq_preview_master_footer.css" crc="3824530138" ref="phone>bouncy_cubes:phone>casual_cube:phone>papery_planes"/>
+      <file name="nomq_preview_master_footer.css" crc="3824530138" ref="phone>bouncy_cubes:phone>casual_cube"/>
       <file name="master_landing-page.css" crc="3964641504" ref="phone>bouncy_cubes:phone>casual_cube:phone>papery_planes"/>
-      <file name="nomq_preview_master_landing-page.css" crc="3824530138" ref="phone>bouncy_cubes:phone>casual_cube:phone>papery_planes"/>
+      <file name="nomq_preview_master_landing-page.css" crc="3824530138" ref="phone>bouncy_cubes:phone>casual_cube"/>
       <file name="master_master.css" crc="202605922" ref="phone>index"/>
       <file name="nomq_preview_master_master.css" crc="3824530138" ref="phone>index"/>
       <file name="bouncy_cubes.css" crc="169634843" ref="phone>bouncy_cubes"/>
       <file name="casual_cube.css" crc="4255715562" ref="phone>casual_cube"/>
-      <file name="papery_planes.css" crc="3990783460" ref="phone>papery_planes"/>
-      <file name="nomq_papery_planes.css" crc="3824530138" ref="phone>papery_planes"/>
+      <file name="papery_planes.css" crc="3933652586" ref="phone>papery_planes"/>
       <file name="index.css" crc="3914114745" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
     <file name="index.html" crc="401506278" seo="true" mt="1484558433645" redirect="true"/>
     <file name="casual_cube.html" crc="3981616661" seo="true" mt="1469192281029" redirect="true"/>
     <file name="bouncy_cubes.html" crc="4069577351" seo="true" mt="1470803895874" redirect="true"/>
-    <file name="papery_planes.html" crc="77390410" seo="true" mt="1484558424664" redirect="true"/>
+    <file name="papery_planes.html" crc="3813326402" seo="true" mt="1484558700461" redirect="true"/>
   </folder>
   <file name="index.html" crc="226146232" seo="true" mt="1484558399227" redirect="true"/>
   <file name="casual_cube.html" crc="359091903" seo="true" mt="1469192281029" redirect="true"/>
