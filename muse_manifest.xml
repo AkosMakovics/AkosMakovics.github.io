@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1486325428176">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1486365267172">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_footer.css" crc="4291987540" ref="papery_planes:casual_cube:bouncy_cubes:round3"/>
+    <file name="master_footer.css" crc="44262118" ref="papery_planes:casual_cube:bouncy_cubes:round3"/>
     <file name="nomq_preview_master_footer.css" crc="3824530138" ref="papery_planes:casual_cube:bouncy_cubes:round3"/>
     <file name="master_master.css" crc="76406143" ref="index"/>
     <file name="nomq_preview_master_master.css" crc="3824530138" ref="index"/>
@@ -17,8 +17,8 @@
     <file name="nomq_bouncy_cubes.css" crc="46340992" ref="bouncy_cubes"/>
     <file name="master_landing-orange.css" crc="4268591353" ref="round3"/>
     <file name="nomq_preview_master_landing-orange.css" crc="3824530138" ref="round3"/>
-    <file name="round3.css" crc="159337074" ref="round3"/>
-    <file name="nomq_round3.css" crc="3936908150" ref="round3"/>
+    <file name="round3.css" crc="4122062835" ref="round3"/>
+    <file name="nomq_round3.css" crc="402902423" ref="round3"/>
   </folder>
   <folder name="assets">
     <file name="cc_screen_1.png" crc="4142810002" seo="true" mt="1461005902000"/>
@@ -56,7 +56,7 @@
     <file name="email.png" crc="101407751" seo="true" ref="phone>index:phone>casual_cube:phone>bouncy_cubes:phone>papery_planes:index:casual_cube:bouncy_cubes:papery_planes"/>
     <file name="facebook.png" crc="295356413" seo="true" ref="phone>index:phone>casual_cube:phone>bouncy_cubes:phone>papery_planes:index:casual_cube:bouncy_cubes:papery_planes"/>
     <file name="app-store-badge.svg" crc="205710994" seo="true" ref="phone>index:phone>casual_cube:phone>bouncy_cubes:index:casual_cube:bouncy_cubes:phone>papery_planes:papery_planes:phone>round3:round3"/>
-    <file name="app store badge_poster_.png" crc="4048965831" ref="phone>index"/>
+    <file name="app store badge_poster_.png" crc="4179427619" ref="phone>index:phone>papery_planes"/>
     <file name="get_it_on_google_play.svg" crc="4113458535" ref="phone>index:phone>casual_cube:index:casual_cube"/>
     <file name="get_it_on_google_play_poster_u6281.png" crc="3860599374" ref="phone>index:phone>casual_cube:index:casual_cube"/>
     <file name="casual_cube_image3315x366.png" crc="4237663140" seo="true" ref="phone>casual_cube"/>
@@ -91,25 +91,23 @@
     <file name="email_orange.png" crc="47480714" seo="true" ref="phone>round3:round3"/>
     <file name="facebook_orange.png" crc="3934123614" seo="true" ref="phone>round3:round3"/>
     <file name="header_round3366x206.jpg" crc="3917987139" seo="true" ref="phone>round3"/>
-    <file name="round3_thumb1-crop-u8992.png" crc="3951705779" ref="phone>round3"/>
-    <file name="round3_thumb2-crop-u8990.png" crc="3945554377" ref="phone>round3"/>
-    <file name="round3_thumb3-crop-u8988.png" crc="199096628" ref="phone>round3"/>
-    <file name="round3_thumb4-crop-u8994.png" crc="403882479" ref="phone>round3"/>
+    <file name="round3_thumb1-crop-u8992.png" crc="420423780" ref="phone>round3"/>
+    <file name="round3_thumb2-crop-u8990.png" crc="4254683465" ref="phone>round3"/>
+    <file name="round3_thumb3-crop-u8988.png" crc="475460165" ref="phone>round3"/>
+    <file name="round3_thumb4-crop-u8994.png" crc="4123354716" ref="phone>round3"/>
     <file name="banner_round3.png" crc="509090210" seo="true" ref="index"/>
     <file name="banner_papery_planes.jpg" crc="4279991711" seo="true" ref="index"/>
     <file name="banner_bouncy_cubes.jpg" crc="71109757" seo="true" ref="index"/>
     <file name="header_round3.jpg" crc="4203383747" seo="true" ref="round3"/>
-    <file name="round3_thumb1-crop-u8754.png" crc="213277936" ref="round3"/>
-    <file name="round3_thumb2-crop-u8744.png" crc="83099349" ref="round3"/>
-    <file name="round3_thumb3-crop-u8741.png" crc="4128480541" ref="round3"/>
-    <file name="round3_thumb4-crop-u8750.png" crc="4104209322" ref="round3"/>
-    <file name="round3_thumb1.png" crc="3952718141" seo="true" ref="round3"/>
-    <file name="round3_thumb2.png" crc="3836768761" seo="true" ref="round3"/>
-    <file name="round3_thumb3190x288.png" crc="136041471" seo="true" ref="round3"/>
-    <file name="round3_thumb4190x288.png" crc="466863456" seo="true" ref="round3"/>
+    <file name="round3_thumb1-crop-u8754.png" crc="4197298805" ref="round3"/>
+    <file name="round3_thumb2-crop-u8744.png" crc="419258657" ref="round3"/>
+    <file name="round3_thumb3-crop-u8741.png" crc="4236697565" ref="round3"/>
+    <file name="round3_thumb4-crop-u8750.png" crc="4159946776" ref="round3"/>
+    <file name="round3_thumb1.png" crc="3797887616" seo="true" ref="round3"/>
+    <file name="round3_thumb2.png" crc="320009770" seo="true" ref="round3"/>
     <file name="header_round3501x282.jpg" crc="4097012904" seo="true" ref="round3"/>
-    <file name="round3_thumb3162x246.png" crc="4121829577" seo="true" ref="round3"/>
-    <file name="round3_thumb4162x246.png" crc="65953021" seo="true" ref="round3"/>
+    <file name="round3_thumb3.png" crc="3866358470" seo="true" ref="round3"/>
+    <file name="round3_thumb4.png" crc="276876273" seo="true" ref="round3"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
@@ -137,18 +135,18 @@
       <file name="nomq_papery_planes.css" crc="3824530138" ref="phone>papery_planes"/>
       <file name="master_landing-orange.css" crc="4123243641" ref="phone>round3"/>
       <file name="nomq_preview_master_landing-orange.css" crc="3824530138" ref="phone>round3"/>
-      <file name="round3.css" crc="3941951976" ref="phone>round3"/>
+      <file name="round3.css" crc="3876656561" ref="phone>round3"/>
       <file name="nomq_round3.css" crc="3824530138" ref="phone>round3"/>
     </folder>
     <file name="index.html" crc="271799782" seo="true" mt="1486325178925" redirect="true"/>
     <file name="casual_cube.html" crc="3981616661" seo="true" mt="1469192281029" redirect="true"/>
     <file name="bouncy_cubes.html" crc="4069577351" seo="true" mt="1470803895874" redirect="true"/>
-    <file name="papery_planes.html" crc="56314502" seo="true" mt="1485933962850" redirect="true"/>
-    <file name="round3.html" crc="413467548" seo="true" mt="1486325301126" redirect="true"/>
+    <file name="papery_planes.html" crc="4159240255" seo="true" mt="1486365259790" redirect="true"/>
+    <file name="round3.html" crc="444526075" seo="true" mt="1486365251982" redirect="true"/>
   </folder>
   <file name="index.html" crc="447908897" seo="true" mt="1486325404713" redirect="true"/>
   <file name="casual_cube.html" crc="359091903" seo="true" mt="1469192281029" redirect="true"/>
   <file name="bouncy_cubes.html" crc="3861895253" seo="true" mt="1470803864669" redirect="true"/>
   <file name="papery_planes.html" crc="114209378" seo="true" mt="1485933698399" redirect="true"/>
-  <file name="round3.html" crc="3962932076" seo="true" mt="1486325053662" redirect="true"/>
+  <file name="round3.html" crc="3990892798" seo="true" mt="1486365210504" redirect="true"/>
 </manifest>
