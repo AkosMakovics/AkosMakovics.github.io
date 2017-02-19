@@ -1,9 +1,9 @@
-<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1486754686873">
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="akos-makovics.com" resolutions="1x" timestamp="1487539836164">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_footer.css" crc="525390886" ref="papery_planes:casual_cube:bouncy_cubes:round3"/>
     <file name="nomq_preview_master_footer.css" crc="3824530138" ref="papery_planes:casual_cube:bouncy_cubes:round3"/>
-    <file name="master_master.css" crc="266289373" ref="index"/>
+    <file name="master_master.css" crc="4134356754" ref="index"/>
     <file name="nomq_preview_master_master.css" crc="3824530138" ref="index"/>
     <file name="master_landing-page.css" crc="3907287200" ref="papery_planes:casual_cube:bouncy_cubes"/>
     <file name="nomq_preview_master_landing-page.css" crc="3824530138" ref="papery_planes:casual_cube:bouncy_cubes"/>
@@ -11,7 +11,7 @@
     <file name="nomq_papery_planes.css" crc="4043306177" ref="papery_planes"/>
     <file name="casual_cube.css" crc="3896516515" ref="casual_cube"/>
     <file name="nomq_casual_cube.css" crc="4039613140" ref="casual_cube"/>
-    <file name="index.css" crc="240706939" ref="index"/>
+    <file name="index.css" crc="181311898" ref="index"/>
     <file name="nomq_index.css" crc="3784313563" ref="index"/>
     <file name="bouncy_cubes.css" crc="139099936" ref="bouncy_cubes"/>
     <file name="nomq_bouncy_cubes.css" crc="46340992" ref="bouncy_cubes"/>
@@ -56,7 +56,7 @@
     <file name="email.png" crc="101407751" seo="true" ref="phone>index:phone>casual_cube:phone>bouncy_cubes:phone>papery_planes:index:casual_cube:bouncy_cubes:papery_planes"/>
     <file name="facebook.png" crc="295356413" seo="true" ref="phone>index:phone>casual_cube:phone>bouncy_cubes:phone>papery_planes:index:casual_cube:bouncy_cubes:papery_planes"/>
     <file name="app-store-badge.svg" crc="205710994" seo="true" ref="phone>index:phone>casual_cube:phone>bouncy_cubes:index:casual_cube:bouncy_cubes:phone>papery_planes:papery_planes:phone>round3:round3"/>
-    <file name="app store badge_poster_.png" crc="4179427619" ref="phone>index:phone>papery_planes:phone>round3"/>
+    <file name="app store badge_poster_.png" crc="4048965831" ref="phone>index:phone>papery_planes:phone>round3"/>
     <file name="get_it_on_google_play.svg" crc="4113458535" ref="phone>index:phone>casual_cube:index:casual_cube"/>
     <file name="get_it_on_google_play_poster_u6281.png" crc="3860599374" ref="phone>index:phone>casual_cube:index:casual_cube"/>
     <file name="casual_cube_image3315x366.png" crc="4237663140" seo="true" ref="phone>casual_cube"/>
@@ -125,12 +125,12 @@
       <file name="nomq_preview_master_footer.css" crc="3824530138" ref="phone>bouncy_cubes:phone>casual_cube:phone>papery_planes:phone>round3"/>
       <file name="master_landing-page.css" crc="3964641504" ref="phone>bouncy_cubes:phone>casual_cube:phone>papery_planes"/>
       <file name="nomq_preview_master_landing-page.css" crc="3824530138" ref="phone>bouncy_cubes:phone>casual_cube:phone>papery_planes"/>
-      <file name="master_master.css" crc="202605922" ref="phone>index"/>
+      <file name="master_master.css" crc="3789443919" ref="phone>index"/>
       <file name="nomq_preview_master_master.css" crc="3824530138" ref="phone>index"/>
       <file name="bouncy_cubes.css" crc="169634843" ref="phone>bouncy_cubes"/>
       <file name="casual_cube.css" crc="4255715562" ref="phone>casual_cube"/>
       <file name="papery_planes.css" crc="86534666" ref="phone>papery_planes"/>
-      <file name="index.css" crc="4249355068" ref="phone>index"/>
+      <file name="index.css" crc="3860081415" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
       <file name="nomq_papery_planes.css" crc="3824530138" ref="phone>papery_planes"/>
       <file name="master_landing-orange.css" crc="4123243641" ref="phone>round3"/>
@@ -138,13 +138,13 @@
       <file name="round3.css" crc="3758997891" ref="phone>round3"/>
       <file name="nomq_round3.css" crc="3824530138" ref="phone>round3"/>
     </folder>
-    <file name="index.html" crc="3933449693" seo="true" mt="1486405020788" redirect="true"/>
+    <file name="index.html" crc="3916099518" seo="true" mt="1487539820455" redirect="true"/>
     <file name="casual_cube.html" crc="3981616661" seo="true" mt="1469192281029" redirect="true"/>
     <file name="bouncy_cubes.html" crc="4069577351" seo="true" mt="1470803895874" redirect="true"/>
     <file name="papery_planes.html" crc="4159240255" seo="true" mt="1486365259790" redirect="true"/>
     <file name="round3.html" crc="512969383" seo="true" mt="1486754673812" redirect="true"/>
   </folder>
-  <file name="index.html" crc="94834747" seo="true" mt="1486404966881" redirect="true"/>
+  <file name="index.html" crc="408714869" seo="true" mt="1487539807754" redirect="true"/>
   <file name="casual_cube.html" crc="359091903" seo="true" mt="1469192281029" redirect="true"/>
   <file name="bouncy_cubes.html" crc="3861895253" seo="true" mt="1470803864669" redirect="true"/>
   <file name="papery_planes.html" crc="114209378" seo="true" mt="1485933698399" redirect="true"/>
